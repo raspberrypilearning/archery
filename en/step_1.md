@@ -9,7 +9,7 @@ You are going to learn how to create an archery game, in which you have to shoot
 
 ### Additional information for club leaders
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/archery).
+If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/archery/print){:target="_blank"}.
 
 
 --- collapse ---
@@ -59,11 +59,11 @@ This project covers elements from the following strands of the [Raspberry Pi Dig
 title: Project materials
 ---
 ## Project resources
-* [Online Scratch 2 project containing external resources](http://jumpto.cc/archery-resources)
+* [Online Scratch 2 project containing external resources](http://jumpto.cc/archery-resources){:target="_blank"}
 * [Downloadable Scratch 2 project containing external resources](resources/ArcheryResources.sb2)
 
 ## Club leader resources
-* [Online completed Scratch 2 project](http://scratch.mit.edu/projects/114760038/#editor)
+* [Online completed Scratch 2 project](http://scratch.mit.edu/projects/114760038/#editor){:target="_blank"}
 * [Downloadable completed Scratch 2 project](resources/Archery.sb2)
 
 --- /collapse ---
