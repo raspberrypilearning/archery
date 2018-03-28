@@ -45,7 +45,7 @@ Mae'r prosiect yma yn trin elfennau sydd yn rhan o'r adran ganlynol o [Faes Llaf
 + [Defnyddio cystrawen iaith raglennu sylfaenol i greu rhaglenni syml](https://www.raspberrypi.org/curriculum/programming/creator)
 
 ## Heriau
-+ "Sgôr gwahanol" - Ychwanegu mwy o flociau 'os' {.blockcontrol} fel bod taro rhannau gwahanol o'r targed yn rhoi sgôr gwahanol. 
++ "Sgôr gwahanol" - Ychwanegu mwy o flociau `os`{:class="blockcontrol"} fel bod taro rhannau gwahanol o'r targed yn rhoi sgôr gwahanol. 
 
 
 --- /collapse ---
