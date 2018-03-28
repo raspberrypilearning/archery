@@ -24,7 +24,7 @@ Fe wnawn ni ychwanegu côd i ollwng saeth wrth wasgu'r bylchwr.
 
 	![screenshot](images/archery-cheer.png)
 
-+ Yn olaf, mae angen i ti ddarlledu neges 'saeth newydd' {.blockevents} eto i gael saeth newydd.
++ Yn olaf, mae angen i ti ddarlledu neges `saeth newydd`{:class="blockevents"} eto i gael saeth newydd.
 
 	![screenshot](images/archery-another-arrow.png)
 
