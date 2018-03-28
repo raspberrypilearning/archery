@@ -16,7 +16,7 @@ Fe wnawn ni gychwyn trwy greu saeth sydd yn symud o gwmpas y sgrin.
 
 	![screenshot](images/archery-start-test.png)
 
-+ Ychwanega côd i dy saeth fel ei fod yn 'llithro' {.blockmotion} ar hap o gwmpas y llwyfan 'am byth' {.blockcontrol}.
++ Ychwanega côd i dy saeth fel ei fod yn `llithro`{:class="blockmotion"} ar hap o gwmpas y llwyfan `am byth`{:class="blockcontrol"}.
 
 	![screenshot](images/archery-glide.png)
 
