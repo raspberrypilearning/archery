@@ -53,7 +53,7 @@ Click the green flag to test your game. You should see your arrow get bigger and
 
 --- task ---
 
-Add code to your arrow so that it `glide`{:class="blockmotion"}s randomly around the stage `forever`{:class="blockcontrol"}.
+Add code to your arrow so that it `glides`{:class="blockmotion"} randomly around the stage `forever`{:class="blockcontrol"}.
 
 ![target sprite](images/target-sprite.png)
 
