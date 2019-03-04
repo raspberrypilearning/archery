@@ -53,7 +53,7 @@ The starter project can be found [here](http://rpf.io/p/en/archery-go){:target="
 title: What you will learn
 ---
 
-+ How to animate sprites
++ Use animations 
 + Use broadcasts
 + Use random numbers
 
