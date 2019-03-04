@@ -8,7 +8,7 @@ Stop the other script (the one moving the arrow) when the space bar is pressed.
 
 ![target sprite](images/target-sprite.png)
 
-```blocks
+```blocks3
 when [space v] key pressed
 stop [other scripts in sprite v]
 ```
@@ -27,7 +27,7 @@ Animate your arrow, so that it looks like it's moving towards the target.
 
 ![target sprite](images/target-sprite.png)
 
-```blocks
+```blocks3
 when [space v] key pressed
 stop [other scripts in sprite v]
 +repeat (50)
@@ -51,14 +51,14 @@ Once your arrow is at the target, you can tell the player how many points they h
 
 ![target sprite](images/target-sprite.png)
 
-```blocks
+```blocks3
 when [space v] key pressed
 stop [other scripts in sprite v]
 repeat (50)
 change size by (-10)
 end
 +if <touching color (#ffff00) ?> then
-say [200 points] for (2) secs
+say [200 points] for (2) seconds
 end
 ```
 
@@ -70,15 +70,15 @@ You can also play a sound if they hit the yellow.
 
 ![target sprite](images/target-sprite.png)
 
-```blocks
+```blocks3
 when [space v] key pressed
 stop [other scripts in sprite v]
 repeat (50)
 change size by (-10)
 end
 if <touching color (#ffff00) ?> then
-+play sound [cheer v]
-say [200 points] for (2) secs
++start sound (cheer v)
+say [200 points] for (2) seconds
 end
 ```
 
@@ -86,20 +86,20 @@ end
 
 --- task ---
 
-Finally, you need to broadcast the `new arrow`{:class="blockevents"} message again to get a new arrow.
+Finally, you need to broadcast the `new arrow`{:class="block3events"} message again to get a new arrow.
 
 ![target sprite](images/target-sprite.png)
 
-```blocks
+```blocks3
 when [space v] key pressed
 stop [other scripts in sprite v]
 repeat (50)
 change size by (-10)
 end
 if <touching color (#ffff00) ?> then
-play sound [cheer v]
-say [200 points] for (2) secs
+start sound (cheer v)
+say [200 points] for (2) seconds
 end
-+broadcast [new arrow v]
++broadcast (new arrow v)
 ```
 --- /task ---

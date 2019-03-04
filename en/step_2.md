@@ -11,7 +11,7 @@ Open the Scratch starter project.
 
 If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
 
-In the starter project, you should see a blank backdrop and a skier sprite.
+In the starter project, you should see a target backdrop and a cross hair sprite.
 
 ![starter projects](images/archery-starter.png)
 
@@ -23,9 +23,9 @@ When your game starts, broadcast a message to shoot a new arrow.
 
 ![target sprite](images/target-sprite.png)
 
-```blocks
+```blocks3
 when green flag clicked
-broadcast [new arrow v]
+broadcast (new arrow v)
 ```
 
 --- /task ---
@@ -36,7 +36,7 @@ Once this message has been received, set the arrow's position and size.
 
 ![target sprite](images/target-sprite.png)
 
-```blocks
+```blocks3
 when I receive [new arrow v]
 go to x: (-150) y: (-150)
 set size to (400) %
@@ -53,11 +53,11 @@ Click the green flag to test your game. You should see your arrow get bigger and
 
 --- task ---
 
-Add code to your arrow so that it `glides`{:class="blockmotion"} randomly around the stage `forever`{:class="blockcontrol"}.
+Add code to your arrow so that it `glides`{:class="block3motion"} randomly around the stage `forever`{:class="block3control"}.
 
 ![target sprite](images/target-sprite.png)
 
-```blocks
+```blocks3
 when I receive [new arrow v]
 go to x: (-150) y: (-150)
 set size to (400) %
