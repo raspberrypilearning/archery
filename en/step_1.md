@@ -1,69 +1,77 @@
+--- no-print ---
+
+This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/archery-scratch2).
+
+--- /no-print ---
+
 ## Introduction
 
 You are going to learn how to create an archery game, in which you have to shoot arrows as close to the bullseye as you can.
 
+### What you will make
+
+--- no-print ---
+
+Click on the green flag to start. Use the space bar to shoot an arrow
+
 <div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/114760038/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/114760038/?autostart=false" frameborder="0" scrolling="no"></iframe>
   <img src="images/archery-final.png">
 </div>
 
-### Additional information for club leaders
+--- /no-print ---
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/archery/print){:target="_blank"}.
+--- print-only ---
 
+![complete project](images/archery-final.png)
+
+--- /print-only ---
+
+--- collapse ---
+
+---
+title: What you will need
+---
+
+### Hardware
+
++ A computer capable of running Scratch
+
+### Software
+
++ Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
+
+### Downloads
+
+The starter project can be found [here](http://rpf.io/p/en/archery-go){:target="_blank"}.
+
+--- /collapse ---
+
+--- collapse ---
+
+---
+title: What you will learn
+---
+
++ Use animations 
++ Use broadcasts
++ Use random numbers
+
+--- /collapse ---
 
 --- collapse ---
 ---
-title: Club leader notes
+title: Additional information for educators
 ---
 
+--- no-print ---
 
-## Introduction:
-In this project, children will learn how to create an archery game, in which they have to shoot arrows as close to the bullseye as possible.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/archery/print){:target="_blank"}.
 
-## Resources
-For this project, Scratch 2 should be used. Scratch 2 can either be used online at [jumpto.cc/scratch-on](http://jumpto.cc/scratch-on) or can be downloaded from [jumpto.cc/scratch-off](http://jumpto.cc/scratch-off) and used offline.
+--- /no-print ---
 
-The 'Project Materials' link for this project contains the following resources:
-
-##### Club leader Resources
-
-You can find a completed version of this project <a href="http://scratch.mit.edu/projects/114760038/#editor">online</a>, or it can be downloaded by clicking the 'Project Materials' link for this project, which contains:
-
-+ Archery.sb2
-
-##### Project Resources
-
-For this project, club members can make use of a Scratch project containing the required resources. This project is available at [jumpto.cc/archery-resources](http://jumpto.cc/archery-resources), or it can be downloaded by clicking the 'Project Materials' link for this project, which contains:
-
-+ ArcheryResources.sb2
-
-Make sure that each child has access to a copy of these resources.
-
-## Learning Objectives
-+ Selection.
-
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
-
-+ [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator)
-
-## Challenges
-+ "Different scores" - Adding more `if`{:class="blockcontrol"} blocks so that hitting different parts of the target gives a different score. 
-
+You can [find the solution for this project here](http://rpf.io/p/en/archery-get){:target="_blank"}.
 
 --- /collapse ---
 
 
---- collapse ---
----
-title: Project materials
----
-## Project resources
-* [Online Scratch 2 project containing external resources](http://jumpto.cc/archery-resources){:target="_blank"}
-* [Downloadable Scratch 2 project containing external resources](resources/ArcheryResources.sb2)
-
-## Club leader resources
-* [Online completed Scratch 2 project](http://scratch.mit.edu/projects/114760038/#editor){:target="_blank"}
-* [Downloadable completed Scratch 2 project](resources/Archery.sb2)
-
---- /collapse ---
