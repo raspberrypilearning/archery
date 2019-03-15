@@ -1,32 +1,106 @@
-## Gollwng saethau
+## Shooting arrows
 
-Fe wnawn ni ychwanegu côd i ollwng saeth wrth wasgu'r bylchwr.
+Let's code your arrow to shoot when the space bar is pressed.
 
-+ Stopia'r sgript arall (yr un sy'n symud y saeth) wrth wasgu'r bylchwr.
+\--- task \---
 
-	![screenshot](images/archery-stop.png)
+Stop the other script (the one moving the arrow) when the space bar is pressed.
 
-+ Profa dy brosiect eto. Y tro hwn, fe ddylai dy saeth stopio symud __pan fo bysell bwlch wedi ei wasgu__.
+![target sprite](images/target-sprite.png)
 
-+ Animeiddia dy saeth, fel ei fod yn edrych fel ei fod yn symud tuag at y targed.
+```blocks3
+when [space v] key pressed
+stop [other scripts in sprite v]
+```
 
-	![screenshot](images/archery-animate.png)
+\--- /task \---
 
-+ Profa dy gêm eto. Y tro hwn, pan wyt ti'n gwasgu'r bylchwr fe ddylet ti weld y saeth yn lleihau, fel ei fod yn symud tuag at y targed.
+\--- task \---
 
-	![screenshot](images/archery-animate-test.png)
+Test your project again. This time, your arrow should stop moving **when the space bar is pressed**.
 
-+ Unwaith mae dy saeth yn cyrraedd y targed, alli di ddweud wrth y chwareuwr sawl pwynt mae nhw wedi eu sgorio. Er enghraifft, mae modd iddynt ennill 200 pwynt am daro'r melyn.
+\--- /task \---
 
-	![screenshot](images/archery-colour.png)
+\--- task \---
 
-+ Fe alli di hefyd chwarae sain os ydynt yn taro'r melyn.
+Animate your arrow, so that it looks like it's moving towards the target.
 
-	![screenshot](images/archery-cheer.png)
+![target sprite](images/target-sprite.png)
 
-+ Yn olaf, mae angen i ti ddarlledu neges `saeth newydd`{:class="blockevents"} eto i gael saeth newydd.
+```blocks3
+when [space v] key pressed
+stop [other scripts in sprite v]
++repeat (50)
+change size by (-10)
+end
+```
 
-	![screenshot](images/archery-another-arrow.png)
+\--- /task \---
 
+\--- task \---
 
+Test your game again. This time, when you press the space bar you should see your arrow get smaller, as if it's moving towards the target.
 
+![target with the cross hair on it](images/archery-animate-test.png)
+
+\--- /task \---
+
+\--- task \---
+
+Once your arrow is at the target, you can tell the player how many points they have scored. For example, they could score 200 points for hitting the yellow.
+
+![target sprite](images/target-sprite.png)
+
+```blocks3
+when [space v] key pressed
+stop [other scripts in sprite v]
+repeat (50)
+change size by (-10)
+end
++if <touching color (#ffff00) ?> then
+say [200 points] for (2) seconds
+end
+```
+
+\--- /task \---
+
+\--- task \---
+
+You can also play a sound if they hit the yellow.
+
+![target sprite](images/target-sprite.png)
+
+```blocks3
+when [space v] key pressed
+stop [other scripts in sprite v]
+repeat (50)
+change size by (-10)
+end
+if <touching color (#ffff00) ?> then
++start sound (cheer v)
+say [200 points] for (2) seconds
+end
+```
+
+\--- /task \---
+
+\--- task \---
+
+Finally, you need to broadcast the `new arrow`{:class="block3events"} message again to get a new arrow.
+
+![target sprite](images/target-sprite.png)
+
+```blocks3
+when [space v] key pressed
+stop [other scripts in sprite v]
+repeat (50)
+change size by (-10)
+end
+if <touching color (#ffff00) ?> then
+start sound (cheer v)
+say [200 points] for (2) seconds
+end
++broadcast (new arrow v)
+```
+
+\--- /task \---
