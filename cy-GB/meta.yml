@@ -16,8 +16,12 @@ hardware: ''
 software: scratch
 version: 3
 last_tested: 2017-01-01
-steps: 
-- title: Cyflwyniad
-- title: Anelu saethau
-- title: Gollwng saethau
-- title: 'Her: Sgôr gwahanol'
+steps:
+  - 
+    title: Cyflwyniad
+  - 
+    title: Anelu saethau
+  - 
+    title: Gollwng saethau
+  - 
+    title: 'Her: Sgôr gwahanol'

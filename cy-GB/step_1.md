@@ -1,52 +1,74 @@
-## Cyflwyniad
+\--- no-print \---
 
-Rwyt ti mynd i ddysgu sut i greu gêm saethyddiaeth, lle byddi di angen gollwng saethau at darged penodol.
+This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/archery-scratch2).
+
+\--- /no-print \---
+
+## Introduction
+
+You are going to learn how to create an archery game, in which you have to shoot arrows as close to the bullseye as you can.
+
+### What you will make
+
+\--- no-print \---
+
+Click on the green flag to start. Use the space bar to shoot an arrow
 
 <div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/114760038/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/114760038/?autostart=false" frameborder="0" scrolling="no"></iframe>
   <img src="images/archery-final.png">
 </div>
 
+\--- /no-print \---
 
---- collapse ---
----
-title: Nodiadau i Wirfoddolwyr
----
+\--- print-only \---
 
+![complete project](images/archery-final.png)
 
-## Cyflwyniad:
-Yn y prosiect yma, bydd plant yn dysgu sut i greu gêm saethyddiaeth lle bydd angen iddynt ollwng saethau i geisio taro targed.
+\--- /print-only \---
 
-## Adnoddau
+\--- collapse \---
 
-Ar gyfer y prosiect yma, dylid defnyddio Scratch 2.  Mae modd defnyddio Scratch 2 arlein yma [jumpto.cc/scratch-on](http://jumpto.cc/scratch-on) neu mae modd ei lawrlwytho yma [jumpto.cc/scratch-off](http://jumpto.cc/scratch-off) a'i ddefnyddio heb gysylltiad gwe.
+* * *
 
-Mae'r ddolen 'Adnoddau Prosiect' ar gyfer y prosiect yma yn cynnwys yr adnoddau canlynol:
+## title: What you will need
 
-## Adnoddau i Wirfoddolwyr
+### Hardware
 
-Mae modd gweld y prosiect wedi ei gwblhau yma <a href="http://scratch.mit.edu/projects/114760038/#editor">online</a>, neu mae modd ei lawrlwytho wrth glicio ar ddolen 'Adnoddau'r Prosiect' ar gyfer y prosiect yma, sydd yn cynnwys:
++ A computer capable of running Scratch
 
-+ Archery.sb2
+### Software
 
-## Adnoddau'r Prosiect
++ Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
 
-Ar gyfer y prosiect yma, mae modd i aelodau'r clwb ddefnyddio prosiect Scratch sydd yn cynnwys yr adnoddau angenrheidiol. Mae'r prosiect ar gael yma  [jumpto.cc/archery-resources](http://jumpto.cc/archery-resources), neu mae modd ei lawrlwytho gan glicio'r 'Adnoddau Prosiect' sydd yn cynnwys:
+### Downloads
 
-+ ArcheryResources.sb2
+The starter project can be found [here](http://rpf.io/p/en/archery-go){:target="_blank"}.
 
-Sicrhewch fod gan bob plentyn fynediad i'r adnoddau yma.
+\--- /collapse \---
 
-## Nodau Dysgu
-+ Detholiad.
+\--- collapse \---
 
-Mae'r prosiect yma yn trin elfennau sydd yn rhan o'r adran ganlynol o [Faes Llafur Gwneud Digidol Raspberry Pi](http://rpf.io/curriculum):
+* * *
 
-+ [Defnyddio cystrawen iaith raglennu sylfaenol i greu rhaglenni syml](https://www.raspberrypi.org/curriculum/programming/creator)
+## title: What you will learn
 
-## Heriau
-+ "Sgôr gwahanol" - Ychwanegu mwy o flociau `os`{:class="blockcontrol"} fel bod taro rhannau gwahanol o'r targed yn rhoi sgôr gwahanol. 
++ Use animations 
++ Use broadcasts
++ Use random numbers
 
+\--- /collapse \---
 
---- /collapse ---
+## \--- collapse \---
 
+## title: Additional information for educators
+
+\--- no-print \---
+
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/archery/print){:target="_blank"}.
+
+\--- /no-print \---
+
+You can [find the solution for this project here](http://rpf.io/p/en/archery-get){:target="_blank"}.
+
+\--- /collapse \---
