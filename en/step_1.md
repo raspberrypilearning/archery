@@ -28,7 +28,6 @@ Click on the green flag to start. Use the space bar to shoot an arrow
 --- /print-only ---
 
 --- collapse ---
-
 ---
 title: What you will need
 ---
@@ -48,7 +47,6 @@ The starter project can be found [here](http://rpf.io/p/en/archery-go){:target="
 --- /collapse ---
 
 --- collapse ---
-
 ---
 title: What you will learn
 ---
