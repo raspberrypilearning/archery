@@ -3,6 +3,7 @@
 Let's start by creating an arrow that moves around the screen.
 
 --- task ---
+
 Open the Scratch starter project.
 
 **Online**: open the starter project at [rpf.io/archeryon](http://rpf.io/archeryon){:target="_blank"}.
@@ -43,6 +44,7 @@ when I receive [new arrow v]
 go to x: (-150) y: (-150)
 set size to (400) %
 ```
+
 --- /task ---
 
 --- task ---
