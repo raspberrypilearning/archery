@@ -1,10 +1,14 @@
-## Aiming arrows
+## Anelu saethau
 
 Let's start by creating an arrow that moves around the screen.
 
-\--- task \--- Open the Scratch starter project.
+\--- task \---
+
+Open the Scratch starter project.
 
 **Online**: open the starter project at [rpf.io/archeryon](http://rpf.io/archeryon){:target="_blank"}.
+
+If you have a Scratch account you can make a copy by clicking **Remix**.
 
 **Offline**: open the [starter project](http://rpf.io/p/en/archery-go){:target="_blank"} in the offline editor.
 
