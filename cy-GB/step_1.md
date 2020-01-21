@@ -4,11 +4,11 @@ This is the **Scratch 3** version of the project. There is also a [Scratch 2 ver
 
 \--- /no-print \---
 
-## Introduction
+## Cyflwyniad
 
 You are going to learn how to create an archery game, in which you have to shoot arrows as close to the bullseye as you can.
 
-### What you will make
+### Yr hyn byddi di'n ei greu
 
 \--- no-print \---
 
@@ -27,17 +27,15 @@ Click on the green flag to start. Use the space bar to shoot an arrow
 
 \--- /print-only \---
 
-\--- collapse \---
-
-* * *
+## \--- collapse \---
 
 ## title: What you will need
 
-### Hardware
+### Caledwedd
 
-+ A computer capable of running Scratch
++ Cyfrifiadur sy'n gallu rhedeg Scratch
 
-### Software
+### Meddalwedd
 
 + Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
 
@@ -47,9 +45,7 @@ The starter project can be found [here](http://rpf.io/p/en/archery-go){:target="
 
 \--- /collapse \---
 
-\--- collapse \---
-
-* * *
+## \---collapse\---
 
 ## title: What you will learn
 
@@ -69,6 +65,6 @@ If you need to print this project, please use the [printer-friendly version](htt
 
 \--- /no-print \---
 
-You can [find the solution for this project here](http://rpf.io/p/en/archery-get){:target="_blank"}.
+You can find the [completed project here](http://rpf.io/p/en/archery-get){:target="_blank"}.
 
 \--- /collapse \---
