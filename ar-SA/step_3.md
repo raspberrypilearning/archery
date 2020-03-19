@@ -13,11 +13,11 @@ when [space v] key pressed
 stop [other scripts in sprite v]
 ```
 
-\---/task--
+\--- /task \---
 
 \--- task \---
 
-اختبر مشروعك مرة أخرى. This time, your arrow should stop moving **when the space bar is pressed**.
+Test your project again. This time, your arrow should stop moving **when the space bar is pressed**.
 
 \--- /task \---
 
