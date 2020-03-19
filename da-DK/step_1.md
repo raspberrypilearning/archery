@@ -4,11 +4,11 @@ This is the **Scratch 3** version of the project. There is also a [Scratch 2 ver
 
 \--- /no-print \---
 
-## Introduktion
+## Introduction
 
 You are going to learn how to create an archery game, in which you have to shoot arrows as close to the bullseye as you can.
 
-### Hvad du vil lave
+### What you will make
 
 \--- no-print \---
 
@@ -33,7 +33,7 @@ Click on the green flag to start. Use the space bar to shoot an arrow
 
 ### Hardware
 
-+ En computer, der er i stand til at køre Scratch
++ A computer capable of running Scratch
 
 ### Software
 
