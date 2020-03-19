@@ -1,14 +1,14 @@
 \--- no-print \---
 
-To jest wersja projektu korzystająca z **Scratch 3**. Istnieje również [wersja tego projektu dla Scratch 2](https://projects.raspberrypi.org/en/projects/archery-scratch2).
+This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/archery-scratch2).
 
 \--- /no-print \---
 
-## Wprowadzenie
+## Introduction
 
 You are going to learn how to create an archery game, in which you have to shoot arrows as close to the bullseye as you can.
 
-### Co będziesz robił
+### What you will make
 
 \--- no-print \---
 
@@ -31,15 +31,15 @@ Click on the green flag to start. Use the space bar to shoot an arrow
 
 ## title: What you will need
 
-### Sprzęt
+### Hardware
 
-+ Komputer, na którym można uruchomić Scratch
++ A computer capable of running Scratch
 
-### Oprogramowanie
+### Software
 
-+ Scratch 3 ([online](http://rpf.io/scratchon){:target="_blank"} lub [offline](http://rpf.io/scratchoff){:target="_blank"})
++ Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
 
-### Pobrane
+### Downloads
 
 The starter project can be found [here](http://rpf.io/p/en/archery-go){:target="_blank"}.
 
