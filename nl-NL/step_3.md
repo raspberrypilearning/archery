@@ -17,7 +17,7 @@ stop [other scripts in sprite v]
 
 \--- task \---
 
-Test je project opnieuw. This time, your arrow should stop moving **when the space bar is pressed**.
+Test your project again. This time, your arrow should stop moving **when the space bar is pressed**.
 
 \--- /task \---
 
@@ -35,9 +35,9 @@ change size by (-10)
 end
 ```
 
--- /task \---
+\--- /task \---
 
-\--- task \----
+\--- task \---
 
 Test your game again. This time, when you press the space bar you should see your arrow get smaller, as if it's moving towards the target.
 
