@@ -2,7 +2,7 @@
 
 Let's code your arrow to shoot when the space bar is pressed.
 
-\--- uppgift \---
+\--- task \---
 
 Stop the other script (the one moving the arrow) when the space bar is pressed.
 
@@ -15,13 +15,13 @@ stop [other scripts in sprite v]
 
 \--- /task \---
 
-\--- uppgift \---
+\--- task \---
 
 Test your project again. This time, your arrow should stop moving **when the space bar is pressed**.
 
 \--- /task \---
 
-\--- uppgift \---
+\--- task \---
 
 Animate your arrow, so that it looks like it's moving towards the target.
 
@@ -37,7 +37,7 @@ end
 
 \--- /task \---
 
-\--- uppgift \---
+\--- task \---
 
 Test your game again. This time, when you press the space bar you should see your arrow get smaller, as if it's moving towards the target.
 
@@ -45,7 +45,7 @@ Test your game again. This time, when you press the space bar you should see you
 
 \--- /task \---
 
-\--- uppgift \---
+\--- task \---
 
 Once your arrow is at the target, you can tell the player how many points they have scored. For example, they could score 200 points for hitting the yellow.
 
@@ -64,7 +64,7 @@ end
 
 \--- /task \---
 
-\--- uppgift \---
+\--- task \---
 
 You can also play a sound if they hit the yellow.
 
@@ -84,7 +84,7 @@ end
 
 \--- /task \---
 
-\--- uppgift \---
+\--- task \---
 
 Finally, you need to broadcast the `new arrow`{:class="block3events"} message again to get a new arrow.
 
