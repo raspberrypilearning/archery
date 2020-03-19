@@ -1,16 +1,16 @@
-\--- không in \---
+\--- no-print \---
 
 This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/archery-scratch2).
 
-\--- / không in \---
+\--- /no-print \---
 
-## Giới thiệu
+## Introduction
 
 You are going to learn how to create an archery game, in which you have to shoot arrows as close to the bullseye as you can.
 
-### Những gì bạn sẽ làm
+### What you will make
 
-\--- không in \---
+\--- no-print \---
 
 Click on the green flag to start. Use the space bar to shoot an arrow
 
@@ -19,7 +19,7 @@ Click on the green flag to start. Use the space bar to shoot an arrow
   <img src="images/archery-final.png">
 </div>
 
-\--- / không in \---
+\--- /no-print \---
 
 \--- print-only \---
 
@@ -31,13 +31,13 @@ Click on the green flag to start. Use the space bar to shoot an arrow
 
 ## title: What you will need
 
-### Phần cứng
+### Hardware
 
-+ Một máy tính có khả năng chạy Scratch
++ A computer capable of running Scratch
 
-### Phần mềm
+### Software
 
-+ Cào 3 ( [trực tuyến](http://rpf.io/scratchon){: target = "_ blank"} hoặc [ngoại tuyến](http://rpf.io/scratchoff){: target = "_ blank"})
++ Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
 
 ### Downloads
 
