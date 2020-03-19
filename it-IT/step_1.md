@@ -4,15 +4,15 @@ This is the **Scratch 3** version of the project. There is also a [Scratch 2 ver
 
 \--- /no-print \---
 
-## Introduzione
+## Introduction
 
 You are going to learn how to create an archery game, in which you have to shoot arrows as close to the bullseye as you can.
 
-### Che cosa creerai
+### What you will make
 
 \--- no-print \---
 
-Clicca sulla bandiera verde per cominciare. Use the space bar to shoot an arrow
+Click on the green flag to start. Use the space bar to shoot an arrow
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/114760038/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -33,11 +33,11 @@ Clicca sulla bandiera verde per cominciare. Use the space bar to shoot an arrow
 
 ### Hardware
 
-+ Un computer in grado di eseguire Scratch
++ A computer capable of running Scratch
 
 ### Software
 
-+ Scratch 3 ([online](http://rpf.io/scratchon){:target="_blank"} o [offline](http://rpf.io/scratchoff){:target="_blank"}"})
++ Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
 
 ### Downloads
 
@@ -53,7 +53,7 @@ The starter project can be found [here](http://rpf.io/p/en/archery-go){:target="
 + Use broadcasts
 + Use random numbers
 
-\--- / chiudi \---
+\--- /collapse \---
 
 ## \--- collapse \---
 
