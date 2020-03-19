@@ -13,13 +13,13 @@ when [space v] key pressed
 stop [other scripts in sprite v]
 ```
 
-\--- /görev \---
+\--- /task \---
 
 \--- task \---
 
 Test your project again. This time, your arrow should stop moving **when the space bar is pressed**.
 
-\--- /görev \---
+\--- /task \---
 
 \--- task \---
 
@@ -35,7 +35,7 @@ change size by (-10)
 end
 ```
 
-\--- /görev \---
+\--- /task \---
 
 \--- task \---
 
@@ -43,7 +43,7 @@ Test your game again. This time, when you press the space bar you should see you
 
 ![target with the cross hair on it](images/archery-animate-test.png)
 
-\--- /görev \---
+\--- /task \---
 
 \--- task \---
 
@@ -62,7 +62,7 @@ say [200 points] for (2) seconds
 end
 ```
 
-\--- /görev \---
+\--- /task \---
 
 \--- task \---
 
@@ -82,7 +82,7 @@ say [200 points] for (2) seconds
 end
 ```
 
-\--- /görev \---
+\--- /task \---
 
 \--- task \---
 
@@ -103,4 +103,4 @@ end
 +broadcast (new arrow v)
 ```
 
-\--- /görev \---
+\--- /task \---
