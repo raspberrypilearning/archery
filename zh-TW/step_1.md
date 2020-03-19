@@ -4,11 +4,11 @@ This is the **Scratch 3** version of the project. There is also a [Scratch 2 ver
 
 \--- /no-print \---
 
-## 介紹
+## Introduction
 
 You are going to learn how to create an archery game, in which you have to shoot arrows as close to the bullseye as you can.
 
-### 你會做出:
+### What you will make
 
 \--- no-print \---
 
@@ -31,11 +31,11 @@ Click on the green flag to start. Use the space bar to shoot an arrow
 
 ## title: What you will need
 
-### 硬體
+### Hardware
 
 + A computer capable of running Scratch
 
-### 軟體
+### Software
 
 + Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
 
@@ -53,7 +53,7 @@ The starter project can be found [here](http://rpf.io/p/en/archery-go){:target="
 + Use broadcasts
 + Use random numbers
 
-- - 自動隱藏選單 - -
+\--- /collapse \---
 
 ## \--- collapse \---
 
