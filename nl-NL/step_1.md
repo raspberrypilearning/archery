@@ -1,18 +1,18 @@
 \--- no-print \---
 
-Dit is de **Scratch 3** versie van het project. Er is ook een [Scratch 2 versie van dit project](https://projects.raspberrypi.org/en/projects/archery-scratch2).
+This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/archery-scratch2).
 
 \--- /no-print \---
 
-## Inleiding
+## Introduction
 
 You are going to learn how to create an archery game, in which you have to shoot arrows as close to the bullseye as you can.
 
-### Wat ga je maken
+### What you will make
 
 \--- no-print \---
 
-Klik op de groene vlag om te starten. Use the space bar to shoot an arrow
+Click on the green flag to start. Use the space bar to shoot an arrow
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/114760038/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -23,7 +23,7 @@ Klik op de groene vlag om te starten. Use the space bar to shoot an arrow
 
 \--- print-only \---
 
-![voltooid project](images/archery-final.png)
+![complete project](images/archery-final.png)
 
 \--- /print-only \---
 
@@ -37,7 +37,7 @@ Klik op de groene vlag om te starten. Use the space bar to shoot an arrow
 
 ### Software
 
-+ Scratch 3 ([online](http://rpf.io/scratchon){:target="_blank"} of [offline](http://rpf.io/scratchoff){:target="_blank"})
++ Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
 
 ### Downloads
 
