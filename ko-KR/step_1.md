@@ -4,15 +4,15 @@ This is the **Scratch 3** version of the project. There is also a [Scratch 2 ver
 
 \--- /no-print \---
 
-## 들어가며
+## Introduction
 
 You are going to learn how to create an archery game, in which you have to shoot arrows as close to the bullseye as you can.
 
-### 만들 작품
+### What you will make
 
 \--- no-print \---
 
-녹색 깃발을 눌러 시작합니다. Use the space bar to shoot an arrow
+Click on the green flag to start. Use the space bar to shoot an arrow
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/114760038/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -31,13 +31,13 @@ You are going to learn how to create an archery game, in which you have to shoot
 
 ## title: What you will need
 
-### 하드웨어
+### Hardware
 
 + A computer capable of running Scratch
 
-### 소프트웨어
+### Software
 
-+ 스크래치 3 ( [온라인](http://rpf.io/scratchon){:target="_ blank"} 또는 [offline](http://rpf.io/scratchoff){:target="_ blank"})
++ Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
 
 ### Downloads
 
