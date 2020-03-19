@@ -17,7 +17,7 @@ stop [other scripts in sprite v]
 
 \--- task \---
 
-프로젝트를 다시 테스트해 보세요. This time, your arrow should stop moving **when the space bar is pressed**.
+Test your project again. This time, your arrow should stop moving **when the space bar is pressed**.
 
 \--- /task \---
 
