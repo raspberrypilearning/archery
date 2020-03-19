@@ -1,4 +1,4 @@
-## Anelu saethau
+## Aiming arrows
 
 Let's start by creating an arrow that moves around the screen.
 
