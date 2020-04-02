@@ -1,30 +1,30 @@
-## Aiming arrows
+## 瞄准箭头
 
-Let's start by creating an arrow that moves around the screen.
+让我们从创建一个在屏幕上移动的准心开始。
 
 \--- task \---
 
-Open the Scratch starter project.
+打开 Scratch 初始项目。
 
-**Online**: open the starter project at [rpf.io/archeryon](http://rpf.io/archeryon){:target="_blank"}.
+**在线版本：** 从 [rpf.io/archeryon](http://rpf.io/archeryon){:target ="_ blank"} 打开初始项目。
 
-If you have a Scratch account you can make a copy by clicking **Remix**.
+如果您有一个 Scratch 帐户，您可以通过点击 **改编** 复制该项目。
 
-**Offline**: open the [starter project](http://rpf.io/p/en/archery-go){:target="_blank"} in the offline editor.
+**离线版本**: 在离线编辑器中打开 [初始项目](http://rpf.io/p/en/archery-go){:target="_blank"}.
 
-If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+如果您需要下载并安装 Scratch 离线编辑器，可以点击链接 [ rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"} 获取 。
 
-In the starter project, you should see a target backdrop and a cross hair sprite.
+在初始项目中，您应该看到预设好的背景和十字准心精灵。
 
-![starter projects](images/archery-starter.png)
+![初始项目](images/archery-starter.png)
 
 \--- /task \---
 
 \--- task \---
 
-When your game starts, broadcast a message to shoot a new arrow.
+游戏开始时，广播一条消息用于发射新箭头。
 
-![target sprite](images/target-sprite.png)
+![箭头精灵](images/target-sprite.png)
 
 ```blocks3
 when green flag clicked
@@ -35,9 +35,9 @@ broadcast (new arrow v)
 
 \--- task \---
 
-Once this message has been received, set the arrow's position and size.
+接收到此消息后，设置准心的位置和大小。
 
-![target sprite](images/target-sprite.png)
+![箭头精灵](images/target-sprite.png)
 
 ```blocks3
 when I receive [new arrow v]
@@ -49,33 +49,33 @@ set size to (400) %
 
 \--- task \---
 
-Click the green flag to test your game. You should see your arrow get bigger and move to the bottom-left of the stage.
+单击绿色小旗标志来测试您的游戏。 您应该看到准心变大并移到舞台的左下角。
 
-![larger target sprite in bottom left of stage](images/archery-start-test.png)
+![舞台左下方的较大的箭头精灵](images/archery-start-test.png)
 
 \--- /task \---
 
 \--- task \---
 
-Add code to your arrow so that it `glides`{:class="block3motion"} randomly around the stage `forever`{:class="block3control"}.
+将代码添加到您的箭头精灵，使其 `重复执行`{:class ="block3motion"} `滑行`{:class ="block3control"} 到随机位置。
 
-![target sprite](images/target-sprite.png)
+![箭头精灵](images/target-sprite.png)
 
 ```blocks3
-when I receive [new arrow v]
-go to x: (-150) y: (-150)
-set size to (400) %
-+forever
-glide (0.5) secs to x: (pick random (-150) to (150)) y: (pick random (-150) to (150))
-end
+当接收到 [新箭头v]
+移到 x:(-150) y:(-150)
+将大小设置为 (400)％
++重复执行
+在 (0.5) 秒内滑行到 x: (在 (-150) 和 (150) 之间取随机数) y:(在 (-150) 和 (150) 之间取随机数) 
+结束
 ```
 
 \--- /task \---
 
 \--- task \---
 
-Test your game again, and you should see your arrow move randomly around the stage.
+再次测试您的游戏，您应该能看到准心在舞台上随机移动。
 
-![target in a different position](images/archery-glide-test.png)
+![射中不同的位置](images/archery-glide-test.png)
 
 \--- /task \---
