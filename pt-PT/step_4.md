@@ -1,5 +1,5 @@
-## Challenge: Different scores
+## Desafio: pontuações diferentes
 
-Can you add code to your game, so that you get a different score for hitting different parts of the target?
+Consegues adicionar código ao seu jogo para obteres pontuações diferentes quando atinges diferentes partes do alvo?
 
-![cross hair on the blue part of the target with the phrase 100 points](images/archery-challenge.png)
+![mira na parte azul do alvo com a frase 100 pontos](images/archery-challenge.png)
