@@ -2,19 +2,19 @@
 hero_image: images/banner.png
 listed: true
 copyedit: false
-title: Archery
-description: Shoot arrows as close to the bullseye as you can.
+title: Tir à l'arc
+description: Tire des flèches aussi près que possible du centre de la cible.
 version: 4
 last_tested: 2019-04-18
 steps:
   - 
     title: Introduction
   - 
-    title: Aiming arrows
+    title: Viser avec les flèches
   - 
-    title: Shooting arrows
+    title: Tirer des flèches
   - 
-    title: 'Challenge: Different scores'
+    title: 'Défi: scores différents'
     challenge: true
   - 
-    title: 'What next?'
+    title: 'Et ensuite ?'
