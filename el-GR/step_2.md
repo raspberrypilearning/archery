@@ -1,30 +1,30 @@
-## Aiming arrows
+## Βέλη Στόχευσης
 
-Let's start by creating an arrow that moves around the screen.
+Ας ξεκινήσουμε δημιουργώντας ένα βέλος που κινείται στην οθόνη.
 
 \--- task \---
 
-Open the Scratch starter project.
+Άνοιξε το αρχικό έργο Scratch.
 
-**Online**: open the starter project at [rpf.io/archeryon](http://rpf.io/archeryon){:target="_blank"}.
+**Σε σύνδεση:** άνοιξε το αρχικό έργο στο [rpf.io/archeryon](http://rpf.io/archeryon){:target="_blank"}.
 
-If you have a Scratch account you can make a copy by clicking **Remix**.
+Αν έχεις λογαριασμό Scratch μπορείς να δημιουργήσεις ένα αντίγραφο, κάνοντας κλικ στο κουμπί **Ανάμειξη**.
 
-**Offline**: open the [starter project](http://rpf.io/p/en/archery-go){:target="_blank"} in the offline editor.
+**Εκτός σύνδεσης**: άνοιξε το [αρχικό έργο](http://rpf.io/p/en/archery-go){:target="_blank"} στον επεξεργαστή εκτός σύνδεσης.
 
-If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+Αν χρειαστεί να κατεβάσεις και να εγκαταστήσεις τον επεξεργαστή Scratch εκτός σύνδεσης, μπορείς να το βρεις στο [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
 
-In the starter project, you should see a target backdrop and a cross hair sprite.
+Στο αρχικό έργο, θα πρέπει να δεις ένα σκηνικό στόχο και έναν σταυρό.
 
-![starter projects](images/archery-starter.png)
+![αρχικά έργα](images/archery-starter.png)
 
 \--- /task \---
 
 \--- task \---
 
-When your game starts, broadcast a message to shoot a new arrow.
+Όταν ξεκινήσει το παιχνίδι σου, μετάδωσε ένα μήνυμα για να τραβήξεις ένα νέο βέλος.
 
-![target sprite](images/target-sprite.png)
+![αντικείμενο στόχος](images/target-sprite.png)
 
 ```blocks3
 when green flag clicked
@@ -35,9 +35,9 @@ broadcast (new arrow v)
 
 \--- task \---
 
-Once this message has been received, set the arrow's position and size.
+Μόλις ληφθεί αυτό το μήνυμα, ρύθμισε τη θέση και το μέγεθος του βέλους.
 
-![target sprite](images/target-sprite.png)
+![αντικείμενο στόχος](images/target-sprite.png)
 
 ```blocks3
 when I receive [new arrow v]
@@ -49,33 +49,33 @@ set size to (400) %
 
 \--- task \---
 
-Click the green flag to test your game. You should see your arrow get bigger and move to the bottom-left of the stage.
+Κάνε κλικ στην πράσινη σημαία για να δοκιμάσεις το παιχνίδι σου. Θα πρέπει να δεις το βέλος σου να μεγαλώνει και να μετακινείται στην κάτω αριστερή πλευρά της σκηνής.
 
-![larger target sprite in bottom left of stage](images/archery-start-test.png)
+![αντικείμενο μεγαλύτερου στόχου στο κάτω αριστερό μέρος της σκηνής](images/archery-start-test.png)
 
 \--- /task \---
 
 \--- task \---
 
-Add code to your arrow so that it `glides`{:class="block3motion"} randomly around the stage `forever`{:class="block3control"}.
+Πρόσθεσε κώδικα στο βέλος σου έτσι ώστε να `εναλλάσσεται`{: class = "block3motion"} τυχαία γύρω από τη σκηνή `για πάντα`{: class = "block3control"}.
 
-![target sprite](images/target-sprite.png)
+![αντικείμενο στόχος](images/target-sprite.png)
 
 ```blocks3
-when I receive [new arrow v]
-go to x: (-150) y: (-150)
-set size to (400) %
-+forever
-glide (0.5) secs to x: (pick random (-150) to (150)) y: (pick random (-150) to (150))
-end
+όταν λάβω [νέο βέλος v]
+μετάβαση στο x: (-150) y: (-150)
+όρισε μέγεθος έως (400)%
++ για πάντα
+εναλλαγή (0.5) δευτερόλεπτα έως x: (τυχαία επιλογή (-150) στο (150)) y: (τυχαία επιλογή (-150) έως (150))
+τέλος
 ```
 
 \--- /task \---
 
 \--- task \---
 
-Test your game again, and you should see your arrow move randomly around the stage.
+Δοκίμασε ξανά το παιχνίδι σου και θα πρέπει να δεις το βέλος σου να κινείται τυχαία γύρω από τη σκηνή.
 
-![target in a different position](images/archery-glide-test.png)
+![στόχος σε διαφορετική θέση](images/archery-glide-test.png)
 
 \--- /task \---
