@@ -1,5 +1,5 @@
-## Challenge: Different scores
+## التحدي: درجات مختلفة
 
-Can you add code to your game, so that you get a different score for hitting different parts of the target?
+هل يمكنك إضافة مقطع برمجي إلى لعبتك ، بحيث تحصل على درجة مختلفة لتصويب أجزاء مختلفة من الهدف؟
 
-![cross hair on the blue part of the target with the phrase 100 points](images/archery-challenge.png)
+![علامة التصويب في الجزء الأزرق من الهدف بعبارة 100 نقطة](images/archery-challenge.png)
