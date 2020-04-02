@@ -65,6 +65,6 @@ Als je dit project wilt afdrukken, gebruik dan de [printvriendelijke versie](htt
 
 --- /no-print ---
 
-Je kunt het [voltooide project hier](http://rpf.io/p/nl-NL/archery-get)"{:target="_blank"} vinden.
+Je kunt het [voltooide project hier](http://rpf.io/p/nl-NL/archery-get){:target="_blank"} vinden.
 
 --- /collapse ---

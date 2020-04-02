@@ -61,7 +61,7 @@ title: Πρόσθετες πληροφορίες για εκπαιδευτικο
 ---
 --- no-print ---
 
-Αν χρειαστεί να εκτυπώσεις αυτό το έργο, χρησιμοποίησε την [εκτυπώσιμη έκδοση](https://projects.raspberrypi.org/el-GR/projects/archery/print)"{:target="_blank"}.
+Αν χρειαστεί να εκτυπώσεις αυτό το έργο, χρησιμοποίησε την [εκτυπώσιμη έκδοση](https://projects.raspberrypi.org/el-GR/projects/archery/print){:target="_blank"}.
 
 --- /no-print ---
 
