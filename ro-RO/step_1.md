@@ -1,18 +1,18 @@
 \--- no-print \---
 
-This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/archery-scratch2).
+Aceasta este versiunea **Scratch 3** a proiectului. Există, de asemenea, o versiune de [Scratch 2 a proiectului](https://projects.raspberrypi.org/en/projects/archery-scratch2).
 
 \--- /no-print \---
 
-## Introduction
+## Introducere
 
-You are going to learn how to create an archery game, in which you have to shoot arrows as close to the bullseye as you can.
+Vei învăța cum să creezi un joc în care poți să tragi cu arcul, cu scopul de a trage săgeți cât mai aproape de „bullseye” (centrul țintei).
 
-### What you will make
+### Ce vei face
 
 \--- no-print \---
 
-Click on the green flag to start. Use the space bar to shoot an arrow
+Dă click pe steagul verde pentru a începe. Folosește bara de spațiu pentru a trage o săgeată
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/114760038/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -23,48 +23,48 @@ Click on the green flag to start. Use the space bar to shoot an arrow
 
 \--- print-only \---
 
-![complete project](images/archery-final.png)
+![proiectul finalizat](images/archery-final.png)
 
 \--- /print-only \---
 
 ## \--- collapse \---
 
-## title: What you will need
+## title: De ce vei avea nevoie
 
 ### Hardware
 
-+ A computer capable of running Scratch
++ Un computer capabil de a rula Scratch
 
 ### Software
 
-+ Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
++ Scratch 3 (fie [online](http://rpf.io/scratchon){:target="_blank"} sau [offline](http://rpf.io/scratchoff){:target="_blank"})
 
-### Downloads
+### Fișiere descărcabile
 
-The starter project can be found [here](http://rpf.io/p/en/archery-go){:target="_blank"}.
-
-\--- /collapse \---
-
-## \--- collapse \---
-
-## title: What you will learn
-
-+ Use animations 
-+ Use broadcasts
-+ Use random numbers
+Proiectul inițial poate fi găsit [aici](http://rpf.io/p/en/archery-go){:target="_blank"}.
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Additional information for educators
+## title: Ce vei învăța
+
++ Să folosești animații 
++ Să folosești transmisiunile
++ Să folosești numere aleatorii
+
+\--- /collapse \---
+
+## \--- collapse \---
+
+## title: Informații suplimentare pentru educatori
 
 \--- no-print \---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/archery/print){:target="_blank"}.
+Dacă ai nevoie să tipărești acest proiect, folosește [versiunea printabilă](https://projects.raspberrypi.org/en/projects/archery/print){:target="_blank"}.
 
 \--- /no-print \---
 
-You can find the [completed project here](http://rpf.io/p/en/archery-get){:target="_blank"}.
+Poți găsi [proiectul finalizat aici](http://rpf.io/p/en/archery-get){:target="_blank"}.
 
 \--- /collapse \---
