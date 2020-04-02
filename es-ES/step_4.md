@@ -1,5 +1,5 @@
-## Challenge: Different scores
+## Desafío: Diferentes puntuaciones
 
-Can you add code to your game, so that you get a different score for hitting different parts of the target?
+¿Puedes añadir código a tu juego para obtener una puntuación diferente por dar a diferentes partes de la diana?
 
-![cross hair on the blue part of the target with the phrase 100 points](images/archery-challenge.png)
+![punto de mira en la parte azul de la diana con la frase 100 puntos](images/archery-challenge.png)
