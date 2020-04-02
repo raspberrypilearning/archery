@@ -1,30 +1,30 @@
-## Aiming arrows
+## Richten van pijlen
 
-Let's start by creating an arrow that moves around the screen.
+Laten we beginnen met het maken van een pijl die over het scherm beweegt.
 
 \--- task \---
 
-Open the Scratch starter project.
+Open het Scratch startproject.
 
-**Online**: open the starter project at [rpf.io/archeryon](http://rpf.io/archeryon){:target="_blank"}.
+**Online**: open het startproject via [rpf.io/archeryon](http://rpf.io/archeryon){:target="_ blank"}.
 
-If you have a Scratch account you can make a copy by clicking **Remix**.
+Als je een Scratch account hebt, kun je een kopie maken door op **Remix** te klikken.
 
-**Offline**: open the [starter project](http://rpf.io/p/en/archery-go){:target="_blank"} in the offline editor.
+**Offline**: open het [startproject](http://rpf.io/p/en/archery-go){:target="_ blank"} in de offline editor.
 
-If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+Als je de Scratch offline editor wilt downloaden en installeren dan kan je die vinden op [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
 
-In the starter project, you should see a target backdrop and a cross hair sprite.
+In het startproject zou je een doelwit-achtergrond en een dradenkruis moeten zien.
 
-![starter projects](images/archery-starter.png)
+![startprojecten](images/archery-starter.png)
 
 \--- /task \---
 
 \--- task \---
 
-When your game starts, broadcast a message to shoot a new arrow.
+Wanneer je spel begint, zend dan een signaal uit om een nieuwe pijl te schieten.
 
-![target sprite](images/target-sprite.png)
+![doelwit sprite](images/target-sprite.png)
 
 ```blocks3
 when green flag clicked
@@ -35,9 +35,9 @@ broadcast (new arrow v)
 
 \--- task \---
 
-Once this message has been received, set the arrow's position and size.
+Zodra dit signaal is ontvangen, stel je de positie en grootte van de pijl in.
 
-![target sprite](images/target-sprite.png)
+![doelwit sprite](images/target-sprite.png)
 
 ```blocks3
 when I receive [new arrow v]
@@ -49,33 +49,33 @@ set size to (400) %
 
 \--- task \---
 
-Click the green flag to test your game. You should see your arrow get bigger and move to the bottom-left of the stage.
+Klik op de groene vlag om je spel te testen. Je zou je pijl groter moeten zien worden en naar de linkerbenedenhoek van het podium zien gaan.
 
-![larger target sprite in bottom left of stage](images/archery-start-test.png)
+![grotere doelwit sprite linksonder op het podium](images/archery-start-test.png)
 
 \--- /task \---
 
 \--- task \---
 
-Add code to your arrow so that it `glides`{:class="block3motion"} randomly around the stage `forever`{:class="block3control"}.
+Voeg code toe aan je pijl zodat deze `continu`{:class="block3control"} willekeurig rond `beweegt`{:class="block3motion"}.
 
-![target sprite](images/target-sprite.png)
+![doelwit sprite](images/target-sprite.png)
 
 ```blocks3
-when I receive [new arrow v]
-go to x: (-150) y: (-150)
-set size to (400) %
-+forever
-glide (0.5) secs to x: (pick random (-150) to (150)) y: (pick random (-150) to (150))
-end
+wanneer ik signaal [nieuwe pijl v] ontvang
+ga naar x: (-150) y: (-150)
+maak grootte (400)%
++herhaal
+schuif in (0.5) sec. naar x: (willekeurig getal tussen (-150) en (150)) y: (willekeurig getal tussen (-150) en (150))
+einde
 ```
 
 \--- /task \---
 
 \--- task \---
 
-Test your game again, and you should see your arrow move randomly around the stage.
+Test je spel opnieuw en je zou je pijl willekeurig over het speelveld moeten zien bewegen.
 
-![target in a different position](images/archery-glide-test.png)
+![doelwit in een andere positie](images/archery-glide-test.png)
 
 \--- /task \---
