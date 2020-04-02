@@ -1,5 +1,5 @@
-## Challenge: Different scores
+## Wyzwanie: Różne wyniki
 
-Can you add code to your game, so that you get a different score for hitting different parts of the target?
+Czy możesz dopisać kod, który pozwoli uzyskać różne wyniki za trafienie w różne części tarczy?
 
-![cross hair on the blue part of the target with the phrase 100 points](images/archery-challenge.png)
+![celownik na niebieskiej części tarczy z napisem 100 punktów](images/archery-challenge.png)
