@@ -1,12 +1,12 @@
-## Shooting arrows
+## Trasul cu săgeți
 
-Let's code your arrow to shoot when the space bar is pressed.
+Să adăugăm cod săgeții tale pentru a o trage la apăsarea barei de spațiu.
 
 \--- task \---
 
-Stop the other script (the one moving the arrow) when the space bar is pressed.
+Oprește celălalt script (cel care deplasează săgeata) atunci când este apăsată bara de spațiu.
 
-![target sprite](images/target-sprite.png)
+![personajul țintă](images/target-sprite.png)
 
 ```blocks3
 when [space v] key pressed
@@ -17,15 +17,15 @@ stop [other scripts in sprite v]
 
 \--- task \---
 
-Test your project again. This time, your arrow should stop moving **when the space bar is pressed**.
+Testează-ți proiectul din nou. De data aceasta, săgeata ta ar trebui să se oprească **atunci când este apăsată bara de spațiu**.
 
 \--- /task \---
 
 \--- task \---
 
-Animate your arrow, so that it looks like it's moving towards the target.
+Animează-ți săgeata, astfel încât să pară că se îndreaptă spre țintă.
 
-![target sprite](images/target-sprite.png)
+![personajul țintă](images/target-sprite.png)
 
 ```blocks3
 when [space v] key pressed
@@ -39,17 +39,17 @@ end
 
 \--- task \---
 
-Test your game again. This time, when you press the space bar you should see your arrow get smaller, as if it's moving towards the target.
+Testează-ți jocul din nou. De data aceasta, când apeși bara de spațiu, ar trebui să vezi cum săgeata ta se micșorează, ca și cum s-ar îndrepta spre țintă.
 
-![target with the cross hair on it](images/archery-animate-test.png)
+![țintă cu crucea de pe ea](images/archery-animate-test.png)
 
 \--- /task \---
 
 \--- task \---
 
-Once your arrow is at the target, you can tell the player how many points they have scored. For example, they could score 200 points for hitting the yellow.
+Odată ce săgeata ta a ajuns la țintă, poți spune jucătorului câte puncte a marcat. De exemplu, acesta poate înscrie 200 de puncte pentru țintirea părții galbene.
 
-![target sprite](images/target-sprite.png)
+![personajul țintă](images/target-sprite.png)
 
 ```blocks3
 when [space v] key pressed
@@ -66,9 +66,9 @@ end
 
 \--- task \---
 
-You can also play a sound if they hit the yellow.
+De asemenea, poți reda un sunet dacă țintește partea galbenă.
 
-![target sprite](images/target-sprite.png)
+![personajul țintă](images/target-sprite.png)
 
 ```blocks3
 when [space v] key pressed
@@ -86,9 +86,9 @@ end
 
 \--- task \---
 
-Finally, you need to broadcast the `new arrow`{:class="block3events"} message again to get a new arrow.
+În cele din urmă, trebuie să difuzezi din nou mesajul `săgeată nouă`{:class="block3events"} pentru a obține o nouă săgeată.
 
-![target sprite](images/target-sprite.png)
+![personajul țintă](images/target-sprite.png)
 
 ```blocks3
 when [space v] key pressed
