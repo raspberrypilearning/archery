@@ -62,12 +62,12 @@ set size to (400) %
 ![αντικείμενο στόχος](images/target-sprite.png)
 
 ```blocks3
-όταν λάβω [νέο βέλος v]
-μετάβαση στο x: (-150) y: (-150)
-όρισε μέγεθος έως (400)%
-+ για πάντα
-εναλλαγή (0.5) δευτερόλεπτα έως x: (τυχαία επιλογή (-150) στο (150)) y: (τυχαία επιλογή (-150) έως (150))
-τέλος
+when I receive [new arrow v]
+go to x: (-150) y: (-150)
+set size to (400) %
++forever
+glide (0.5) secs to x: (pick random (-150) to (150)) y: (pick random (-150) to (150))
+end
 ```
 
 \--- /task \---
