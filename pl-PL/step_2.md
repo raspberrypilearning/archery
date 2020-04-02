@@ -1,30 +1,30 @@
-## Aiming arrows
+## Celowanie strzałami
 
-Let's start by creating an arrow that moves around the screen.
+Zacznijmy od stworzenia celownika, który porusza się po ekranie.
 
 \--- task \---
 
-Open the Scratch starter project.
+Otwórz projekt startowy Scratch.
 
-**Online**: open the starter project at [rpf.io/archeryon](http://rpf.io/archeryon){:target="_blank"}.
+**Online**: otwórz projekt startowy na stronie [rpf.io/archeryon](http://rpf.io/archeryon){:target="_blank"}.
 
-If you have a Scratch account you can make a copy by clicking **Remix**.
+Jeśli masz konto Scratch, możesz wykonać kopię klikając **Remiks**.
 
-**Offline**: open the [starter project](http://rpf.io/p/en/archery-go){:target="_blank"} in the offline editor.
+**Offline**: otwórz [ projekt startowy ](http://rpf.io/p/en/archery-go) {:target="_ blank"} w edytorze offline.
 
-If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+Jeśli musisz pobrać i zainstalować edytor offline Scratcha, znajdziesz go na stronie [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
 
-In the starter project, you should see a target backdrop and a cross hair sprite.
+W projekcie startowym powinieneś zobaczyć tło docelowe i duszka celownika.
 
-![starter projects](images/archery-starter.png)
+![projekty startowe](images/archery-starter.png)
 
 \--- /task \---
 
 \--- task \---
 
-When your game starts, broadcast a message to shoot a new arrow.
+Po uruchomieniu gry wyślij wiadomość, aby wystrzelić nową strzałę.
 
-![target sprite](images/target-sprite.png)
+![celownik](images/target-sprite.png)
 
 ```blocks3
 when green flag clicked
@@ -35,9 +35,9 @@ broadcast (new arrow v)
 
 \--- task \---
 
-Once this message has been received, set the arrow's position and size.
+Po otrzymaniu wiadomości ustaw pozycję i rozmiar celownika.
 
-![target sprite](images/target-sprite.png)
+![celownik](images/target-sprite.png)
 
 ```blocks3
 when I receive [new arrow v]
@@ -49,33 +49,33 @@ set size to (400) %
 
 \--- task \---
 
-Click the green flag to test your game. You should see your arrow get bigger and move to the bottom-left of the stage.
+Kliknij zieloną flagę, aby przetestować grę. Powinieneś zobaczyć swój celownik powiększający się i przechodzący do dolnej lewej części sceny.
 
-![larger target sprite in bottom left of stage](images/archery-start-test.png)
+![większy celownik w lewym dolnym rogu sceny](images/archery-start-test.png)
 
 \--- /task \---
 
 \--- task \---
 
-Add code to your arrow so that it `glides`{:class="block3motion"} randomly around the stage `forever`{:class="block3control"}.
+Dodaj pętlę `zawsze`{: class = "block3control"} do kodu celownika. W pętli powinna znaleźć się intrukcja `leć przez`{: class = "block3motion"}, która pozwoli duszkowi przemieszczać się losowo po scenie.
 
-![target sprite](images/target-sprite.png)
+![celownik](images/target-sprite.png)
 
 ```blocks3
-when I receive [new arrow v]
-go to x: (-150) y: (-150)
-set size to (400) %
-+forever
-glide (0.5) secs to x: (pick random (-150) to (150)) y: (pick random (-150) to (150))
-end
+kiedy otrzymam [nowa strzała v]
+idź do x: (-150) y: (-150)
+ustaw rozmiar na (400)%
++zawsze
+leć przez (0,5) sekund do x: (losuj liczbę od (-150) do (150)) y: (losuj liczbę od (-150) do (150))
+koniec
 ```
 
 \--- /task \---
 
 \--- task \---
 
-Test your game again, and you should see your arrow move randomly around the stage.
+Przy ponownym uruchomieniu gry, duszek powinien poruszać się losowo po scenie.
 
-![target in a different position](images/archery-glide-test.png)
+![cel w innej pozycji](images/archery-glide-test.png)
 
 \--- /task \---
