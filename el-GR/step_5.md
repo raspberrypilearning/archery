@@ -1,8 +1,8 @@
-## What next?
+## Τι υπάρχει στη συνέχεια;
 
-Take a look at the [Sprint](https://projects.raspberrypi.org/en/projects/sprint) Scratch project.
+Ρίξε μια ματιά στο έργο [Sprint](https://projects.raspberrypi.org/en/projects/sprint) Scratch.
 
-You are going to learn how to create your own sprint game, in which you have to use the left and right arrow keys to get to the finish line as quickly as you can.
+Θα μάθεις πώς να δημιουργείς το δικό σου παιχνίδι Sprint, στο οποίο θα πρέπει να χρησιμοποιήσεις το αριστερό και δεξί βέλος για να φτάσεις στη γραμμή τερματισμού όσο πιο γρήγορα μπορείς.
 
 --- no-print ---
 
@@ -15,6 +15,6 @@ You are going to learn how to create your own sprint game, in which you have to 
 
 --- print-only ---
 
-![complete project](images/sprint-final.png)
+![ολοκληρωμένο έργο](images/sprint-final.png)
 
 --- /print-only ---
