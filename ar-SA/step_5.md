@@ -1,8 +1,8 @@
-## What next?
+## ما التالي؟
 
-Take a look at the [Sprint](https://projects.raspberrypi.org/en/projects/sprint) Scratch project.
+ألق نظرة على مشروع [Sprint](https://projects.raspberrypi.org/en/projects/sprint) في برنامج Scratch.
 
-You are going to learn how to create your own sprint game, in which you have to use the left and right arrow keys to get to the finish line as quickly as you can.
+سوف تتعلم كيفية إنشاء لعبة العدو (الركض) الخاصة بك ، حيث يجب عليك استخدام مفاتيح الأسهم اليمنى واليسرى للوصول إلى خط النهاية بأسرع ما يمكن.
 
 --- no-print ---
 
@@ -15,6 +15,6 @@ You are going to learn how to create your own sprint game, in which you have to 
 
 --- print-only ---
 
-![complete project](images/sprint-final.png)
+![المشروع كامل](images/sprint-final.png)
 
 --- /print-only ---
