@@ -1,5 +1,5 @@
-## Challenge: Different scores
+## Provocare: scoruri diferite
 
-Can you add code to your game, so that you get a different score for hitting different parts of the target?
+Poți adăuga o secvență de cod la jocul tău, astfel încât să obții un punctaj diferit pentru țintirea diferitelor părți ale țintei?
 
-![cross hair on the blue part of the target with the phrase 100 points](images/archery-challenge.png)
+![crucea pe partea albastră a țintei cu fraza 100 puncte](images/archery-challenge.png)
