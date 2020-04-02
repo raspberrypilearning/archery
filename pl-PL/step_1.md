@@ -50,7 +50,7 @@ Projekt startowy można znaleźć [tutaj](http://rpf.io/p/en/archery-go){:target
 ## title: Czego się nauczysz
 
 + Używania animacji 
-+ Używania transmisji
++ Używania komunikatów
 + Używania liczb losowych
 
 \--- /collapse \---
