@@ -1,5 +1,5 @@
-## Challenge: Different scores
+## Défi: scores différents
 
-Can you add code to your game, so that you get a different score for hitting different parts of the target?
+Peux-tu ajouter du code à ton jeu, afin d'obtenir un score différent pour avoir touché différentes parties de la cible ?
 
-![cross hair on the blue part of the target with the phrase 100 points](images/archery-challenge.png)
+![réticule sur la partie bleue de la cible avec la phrase 100 points](images/archery-challenge.png)
