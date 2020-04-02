@@ -1,12 +1,12 @@
-## Shooting arrows
+## Pijlen afschieten
 
-Let's code your arrow to shoot when the space bar is pressed.
+Laten we de pijl programmeren om af te schieten wanneer de spatiebalk wordt ingedrukt.
 
 \--- task \---
 
-Stop the other script (the one moving the arrow) when the space bar is pressed.
+Stop het andere script (degene die de pijl beweegt) wanneer de spatiebalk wordt ingedrukt.
 
-![target sprite](images/target-sprite.png)
+![doelwit sprite](images/target-sprite.png)
 
 ```blocks3
 when [space v] key pressed
@@ -17,15 +17,15 @@ stop [other scripts in sprite v]
 
 \--- task \---
 
-Test your project again. This time, your arrow should stop moving **when the space bar is pressed**.
+Test je project opnieuw. Deze keer moet je pijl stoppen met bewegen **wanneer de spatiebalk wordt ingedrukt**.
 
 \--- /task \---
 
 \--- task \---
 
-Animate your arrow, so that it looks like it's moving towards the target.
+Animeer je pijl, zodat het lijkt alsof hij naar het doel beweegt.
 
-![target sprite](images/target-sprite.png)
+![doelwit sprite](images/target-sprite.png)
 
 ```blocks3
 when [space v] key pressed
@@ -39,17 +39,17 @@ end
 
 \--- task \---
 
-Test your game again. This time, when you press the space bar you should see your arrow get smaller, as if it's moving towards the target.
+Test je spel opnieuw. Deze keer zou je, als je op de spatiebalk drukt, je pijl kleiner moeten zien worden, alsof hij naar het doel toe beweegt.
 
-![target with the cross hair on it](images/archery-animate-test.png)
+![doelwit met het dradenkruis erop](images/archery-animate-test.png)
 
 \--- /task \---
 
 \--- task \---
 
-Once your arrow is at the target, you can tell the player how many points they have scored. For example, they could score 200 points for hitting the yellow.
+Zodra je pijl het doel geraakt heeft, kun je de speler vertellen hoeveel punten hij heeft gescoord. Ze kunnen bijvoorbeeld 200 punten kunnen scoren als ze geel raken.
 
-![target sprite](images/target-sprite.png)
+![doelwit sprite](images/target-sprite.png)
 
 ```blocks3
 when [space v] key pressed
@@ -66,9 +66,9 @@ end
 
 \--- task \---
 
-You can also play a sound if they hit the yellow.
+Je kunt ook een geluid afspelen als ze geel raken.
 
-![target sprite](images/target-sprite.png)
+![doelwit sprite](images/target-sprite.png)
 
 ```blocks3
 when [space v] key pressed
@@ -86,9 +86,9 @@ end
 
 \--- task \---
 
-Finally, you need to broadcast the `new arrow`{:class="block3events"} message again to get a new arrow.
+Ten slotte moet je het signaal `nieuwe pijl`{:class="block3events"} opnieuw uitzenden om een nieuwe pijl te krijgen.
 
-![target sprite](images/target-sprite.png)
+![doelwit sprite](images/target-sprite.png)
 
 ```blocks3
 when [space v] key pressed
