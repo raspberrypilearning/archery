@@ -1,30 +1,30 @@
-## Aiming arrows
+## Ținta săgeților
 
-Let's start by creating an arrow that moves around the screen.
+Să începem prin crearea unei săgeți care se mișcă pe ecran.
 
 \--- task \---
 
-Open the Scratch starter project.
+Deschide proiectul Scratch de început.
 
-**Online**: open the starter project at [rpf.io/archeryon](http://rpf.io/archeryon){:target="_blank"}.
+**Online**: deschide proiectul de bază de la [rpf.io/archeryon](http://rpf.io/archeryon){:target="_blank"}.
 
-If you have a Scratch account you can make a copy by clicking **Remix**.
+Dacă ai un cont Scratch, poți să creezi o copie dând click pe **Remix**.
 
-**Offline**: open the [starter project](http://rpf.io/p/en/archery-go){:target="_blank"} in the offline editor.
+**Offline**: deschide [proiectul de bază](http://rpf.io/p/en/archery-go){:target="_blank"} în editorul offline.
 
-If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+Dacă trebuie să descarci și să instalezi editorul Scratch offline, îl poți găsi la [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
 
-In the starter project, you should see a target backdrop and a cross hair sprite.
+În proiectul de început, ar trebui să vezi un fundal de țintă și un costum cu o cruce roșie.
 
-![starter projects](images/archery-starter.png)
+![proiecte de început](images/archery-starter.png)
 
 \--- /task \---
 
 \--- task \---
 
-When your game starts, broadcast a message to shoot a new arrow.
+Când jocul tău începe, difuzează un mesaj pentru a trage o nouă săgeată.
 
-![target sprite](images/target-sprite.png)
+![sprite țintă](images/target-sprite.png)
 
 ```blocks3
 when green flag clicked
@@ -35,9 +35,9 @@ broadcast (new arrow v)
 
 \--- task \---
 
-Once this message has been received, set the arrow's position and size.
+Odată ce acest mesaj a fost primit, setează poziția și dimensiunea săgeții.
 
-![target sprite](images/target-sprite.png)
+![sprite țintă](images/target-sprite.png)
 
 ```blocks3
 when I receive [new arrow v]
@@ -49,17 +49,17 @@ set size to (400) %
 
 \--- task \---
 
-Click the green flag to test your game. You should see your arrow get bigger and move to the bottom-left of the stage.
+Dă click pe steagul verde pentru a-ți testa jocul. Ar trebui să-ți vezi săgeata că se mărește și că se mișcă în partea de stângă jos a scenei.
 
-![larger target sprite in bottom left of stage](images/archery-start-test.png)
+![sprite țintă mai mare în partea stângă jos a etapei](images/archery-start-test.png)
 
 \--- /task \---
 
 \--- task \---
 
-Add code to your arrow so that it `glides`{:class="block3motion"} randomly around the stage `forever`{:class="block3control"}.
+Adaugă o secvență de cod la săgeata ta astfel încât aceasta să `alunece`{: class = "block3motion"} la întâmplare în jurul scenei `la infinit`{: class = "block3control"}.
 
-![target sprite](images/target-sprite.png)
+![sprite țintă](images/target-sprite.png)
 
 ```blocks3
 when I receive [new arrow v]
@@ -74,8 +74,8 @@ end
 
 \--- task \---
 
-Test your game again, and you should see your arrow move randomly around the stage.
+Testează-ți jocul din nou și ar trebui să vezi cum săgeata ta se mișcă aleatoriu în jurul scenei.
 
-![target in a different position](images/archery-glide-test.png)
+![țintă într-o poziție diferită](images/archery-glide-test.png)
 
 \--- /task \---
