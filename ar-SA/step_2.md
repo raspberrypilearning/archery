@@ -1,30 +1,30 @@
-## Aiming arrows
+## تصويب السهام
 
-Let's start by creating an arrow that moves around the screen.
+لنبدأ بإنشاء سهم يتحرك حول الشاشة.
 
 \--- task \---
 
-Open the Scratch starter project.
+افتح مشروع جديد من برنامج سكراتش.
 
-**Online**: open the starter project at [rpf.io/archeryon](http://rpf.io/archeryon){:target="_blank"}.
+**متصل بالانترنت**: افتح مشروع جديد من هنا [rpf.io/archeryon](http://rpf.io/archeryon){:target="_blank"}.
 
-If you have a Scratch account you can make a copy by clicking **Remix**.
+اذا كنت تملك حساب على منصة السكراتش (Scratch) فيمكنك عمل نسخة بالضغط على **Remix**.
 
-**Offline**: open the [starter project](http://rpf.io/p/en/archery-go){:target="_blank"} in the offline editor.
+**دون اتصال بالانترنت**: افتح [المشروع المبدئي](http://rpf.io/p/en/archery-go){:target="_blank"} عبر المحرر الموجود على جهازك.
 
-If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+اذا تحتاج تنزيل وتنصيب برنامج السكراتش Scratch على جهازك الشخصي، ستجده في [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
 
-In the starter project, you should see a target backdrop and a cross hair sprite.
+في بداية المشروع ، من المفترض أن ترى خلفية الهدف مع علامة التصويب (+).
 
-![starter projects](images/archery-starter.png)
+![مشاريع البداية](images/archery-starter.png)
 
 \--- /task \---
 
 \--- task \---
 
-When your game starts, broadcast a message to shoot a new arrow.
+عندما تبدأ اللعبة ، قم بارسال رسالة لتصويب سهم جديد.
 
-![target sprite](images/target-sprite.png)
+![كائن الهدف](images/target-sprite.png)
 
 ```blocks3
 when green flag clicked
@@ -35,9 +35,9 @@ broadcast (new arrow v)
 
 \--- task \---
 
-Once this message has been received, set the arrow's position and size.
+بمجرد استلام هذه الرسالة ، قم بتحديد موقع السهم وحجمه.
 
-![target sprite](images/target-sprite.png)
+![كائن الهدف](images/target-sprite.png)
 
 ```blocks3
 when I receive [new arrow v]
@@ -49,33 +49,33 @@ set size to (400) %
 
 \--- task \---
 
-Click the green flag to test your game. You should see your arrow get bigger and move to the bottom-left of the stage.
+انقر على العلم الأخضر لاختبار لعبتك. يجب أن ترى سهمك يكبر ويتحرك إلى أسفل يسار المنصة.
 
-![larger target sprite in bottom left of stage](images/archery-start-test.png)
+![أكبر كائن الهدف في أسفل يسار المنصة](images/archery-start-test.png)
 
 \--- /task \---
 
 \--- task \---
 
-Add code to your arrow so that it `glides`{:class="block3motion"} randomly around the stage `forever`{:class="block3control"}.
+أضف تعليمات برمجية إلى سهمك بحيث يكون `ينساب`{: class = "block3motion"} عشوائيًا حول المنصة `إلى الأبد`{: class = "block3control"}.
 
-![target sprite](images/target-sprite.png)
+![كائن الهدف](images/target-sprite.png)
 
 ```blocks3
-when I receive [new arrow v]
-go to x: (-150) y: (-150)
-set size to (400) %
-+forever
-glide (0.5) secs to x: (pick random (-150) to (150)) y: (pick random (-150) to (150))
-end
+عندما أتلقى [السهم الجديد v]
+انتقل إلى x: (-150) y: (-150)
+مجموعة الحجم إلى (400)٪
++ للأبد
+انزلاق (0.5) ثانية إلى x: (اختر عشوائيًا (-150) إلى (150)) y: (اختر عشوائيًا (-150) إلى (150))
+نهاية
 ```
 
 \--- /task \---
 
 \--- task \---
 
-Test your game again, and you should see your arrow move randomly around the stage.
+اختبر لعبتك مرة أخرى ، ويجب أن ترى سهمك يتحرك بشكل عشوائي حول المنصة .
 
-![target in a different position](images/archery-glide-test.png)
+![الهدف في موقع مختلف](images/archery-glide-test.png)
 
 \--- /task \---
