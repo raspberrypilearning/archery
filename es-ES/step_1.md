@@ -46,9 +46,9 @@ Puedes encontrar el proyecto inicial [aquí](http://rpf.io/p/es-ES/archery-go){:
 --- /collapse ---
 
 --- collapse ---
-
+---
 title: Lo que aprenderás
-
+---
 + Usar animaciones 
 + Usar difusiones
 + Usar números aleatorios
@@ -65,6 +65,6 @@ Si necesitas imprimir este proyecto, usa la [versión para imprimir](https://pro
 
 --- /no-print ---
 
-Puedes encontrar el [proyecto completo aquí](http://rpf.io/p/es-ES/archery-get){:target ="_blank"}.
+Puedes encontrar el [proyecto completo aquí](http://rpf.io/p/es-ES/archery-get){:target="_blank"}.
 
 --- /collapse ---
