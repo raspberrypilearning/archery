@@ -62,12 +62,12 @@ Voeg code toe aan je pijl zodat deze `continu`{:class="block3control"} willekeur
 ![doelwit sprite](images/target-sprite.png)
 
 ```blocks3
-wanneer ik signaal [nieuwe pijl v] ontvang
-ga naar x: (-150) y: (-150)
-maak grootte (400)%
-+herhaal
-schuif in (0.5) sec. naar x: (willekeurig getal tussen (-150) en (150)) y: (willekeurig getal tussen (-150) en (150))
-einde
+when I receive [new arrow v]
+go to x: (-150) y: (-150)
+set size to (400) %
++forever
+glide (0.5) secs to x: (pick random (-150) to (150)) y: (pick random (-150) to (150))
+end
 ```
 
 \--- /task \---
