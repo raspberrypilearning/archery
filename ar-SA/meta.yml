@@ -1,0 +1,15 @@
+---
+hero_image: images/banner.png
+listed: true
+copyedit: false
+title: الرماية
+description: اطلاق السهام بالقرب من مركز الهدف قدر المستطاع.
+version: 4
+last_tested: 2019-04-18
+steps:
+  - title: المقدمة
+  - title: تصويب السهام
+  - title: سهام الرماية
+  - title: 'التحدي: درجات مختلفة'
+    challenge: true
+  - title: 'ما التالي؟'

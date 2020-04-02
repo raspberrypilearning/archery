@@ -1,0 +1,15 @@
+---
+hero_image: images/banner.png
+listed: true
+copyedit: false
+title: Boogschieten
+description: Schiet pijlen zo dicht mogelijk bij de roos als je kunt.
+version: 4
+last_tested: 2019-04-18
+steps:
+  - title: Inleiding
+  - title: Richt je pijlen
+  - title: Pijlen afschieten
+  - title: 'Uitdaging: verschillende scores'
+    challenge: true
+  - title: 'Wat kun je verder nog doen?'
