@@ -1,30 +1,30 @@
-## Aiming arrows
+## Apuntando las flechas
 
-Let's start by creating an arrow that moves around the screen.
+Comencemos creando una flecha que se mueva por la pantalla.
 
 \--- task \---
 
-Open the Scratch starter project.
+Abre el proyecto inicial de Scratch.
 
-**Online**: open the starter project at [rpf.io/archeryon](http://rpf.io/archeryon){:target="_blank"}.
+**En línea**: abre el proyecto inicial en [rpf.io/archeryon](http://rpf.io/archeryon){:target="_blank"}.
 
-If you have a Scratch account you can make a copy by clicking **Remix**.
+Si tienes una cuenta de Scratch puedes hacer una copia haciendo clic en **Remix**.
 
-**Offline**: open the [starter project](http://rpf.io/p/en/archery-go){:target="_blank"} in the offline editor.
+**Sin conexión**: abre el [proyecto inicial](http://rpf.io/p/en/archery-go){:target=_blank"} en el editor sin conexión (offline).
 
-If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+Si necesitas descargar e instalar el editor offline de Scratch, puedes encontrarlo en [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
 
-In the starter project, you should see a target backdrop and a cross hair sprite.
+En el proyecto inicial, deberías ver un fondo con una diana y un objeto en forma de punto de mira.
 
-![starter projects](images/archery-starter.png)
+![proyectos iniciales](images/archery-starter.png)
 
 \--- /task \---
 
 \--- task \---
 
-When your game starts, broadcast a message to shoot a new arrow.
+Cuando comience el juego, difunde un mensaje para disparar una nueva flecha.
 
-![target sprite](images/target-sprite.png)
+![objeto objetivo](images/target-sprite.png)
 
 ```blocks3
 when green flag clicked
@@ -35,9 +35,9 @@ broadcast (new arrow v)
 
 \--- task \---
 
-Once this message has been received, set the arrow's position and size.
+Una vez recibido este mensaje, configura la posición y el tamaño de la flecha.
 
-![target sprite](images/target-sprite.png)
+![objeto objetivo](images/target-sprite.png)
 
 ```blocks3
 when I receive [new arrow v]
@@ -49,33 +49,33 @@ set size to (400) %
 
 \--- task \---
 
-Click the green flag to test your game. You should see your arrow get bigger and move to the bottom-left of the stage.
+Haz clic en la bandera verde para probar tu juego. Deberías ver que tu flecha se agranda y se mueve hacia la esquina inferior izquierda del escenario.
 
-![larger target sprite in bottom left of stage](images/archery-start-test.png)
+![objeto de objetivo más grande en la parte inferior izquierda del escenario](images/archery-start-test.png)
 
 \--- /task \---
 
 \--- task \---
 
-Add code to your arrow so that it `glides`{:class="block3motion"} randomly around the stage `forever`{:class="block3control"}.
+Añade código a tu flecha para que `se deslice`{:class="block3motion"} al azar por el escenario `por siempre`{:class="block3control"}.
 
-![target sprite](images/target-sprite.png)
+![objeto objetivo](images/target-sprite.png)
 
 ```blocks3
-when I receive [new arrow v]
-go to x: (-150) y: (-150)
-set size to (400) %
-+forever
-glide (0.5) secs to x: (pick random (-150) to (150)) y: (pick random (-150) to (150))
-end
+al recibir [nueva flecha v]
+ir a x: (-150) y: (-150)
+fijar tamaño al (400)%
++ para siempre
+deslizar en (0.5) segs a x: (número aleatorio entre (-150) y (150)) y: (número aleatorio entre (-150) y (150))
+fin
 ```
 
 \--- /task \---
 
 \--- task \---
 
-Test your game again, and you should see your arrow move randomly around the stage.
+Vuelve a probar tu juego y verás que tu flecha se mueve aleatoriamente por el escenario.
 
-![target in a different position](images/archery-glide-test.png)
+![objetivo en una posición diferente](images/archery-glide-test.png)
 
 \--- /task \---
