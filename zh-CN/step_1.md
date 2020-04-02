@@ -1,18 +1,18 @@
 \--- no-print \---
 
-This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/archery-scratch2).
+这是该项目的 **Scratch 3** 版本。 项目还有一个 [Scratch 2版本](https://projects.raspberrypi.org/en/projects/archery-scratch2) 。
 
 \--- /no-print \---
 
-## Introduction
+## 简介
 
-You are going to learn how to create an archery game, in which you have to shoot arrows as close to the bullseye as you can.
+您将学习如何创建一个正中靶心游戏，在该游戏中，您需要尽可能地让箭头命中靶心。
 
-### What you will make
+### 学习成果
 
 \--- no-print \---
 
-Click on the green flag to start. Use the space bar to shoot an arrow
+点击 绿旗 开始。 使用空格键发射箭头
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/114760038/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -23,48 +23,48 @@ Click on the green flag to start. Use the space bar to shoot an arrow
 
 \--- print-only \---
 
-![complete project](images/archery-final.png)
+![完成的项目](images/archery-final.png)
 
 \--- /print-only \---
 
 ## \--- collapse \---
 
-## title: What you will need
+## 标题: 你需要准备什么
 
-### Hardware
+### 硬件部分
 
-+ A computer capable of running Scratch
++ 一台能够运行 Scratch 的电脑
 
-### Software
+### 软件部分
 
-+ Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
++ Scratch 3 ([在线版本](http://rpf.io/scratchon){:target="_blank"} 或 [离线版本](http://rpf.io/scratchoff){:target="_blank"})
 
-### Downloads
+### 下载
 
-The starter project can be found [here](http://rpf.io/p/en/archery-go){:target="_blank"}.
-
-\--- /collapse \---
-
-## \--- collapse \---
-
-## title: What you will learn
-
-+ Use animations 
-+ Use broadcasts
-+ Use random numbers
+初始项目在 [这里](http://rpf.io/p/en/archery-go){:target="_blank"}.
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Additional information for educators
+## 标题: 你将学到什么
+
++ 使用动画 
++ 使用消息广播
++ 使用随机数
+
+\--- /collapse \---
+
+## \--- collapse \---
+
+## 标题: 为教育者提供的额外信息
 
 \--- no-print \---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/archery/print){:target="_blank"}.
+如果您需要打印此项目，请使用 [适合打印的版本](https://projects.raspberrypi.org/en/projects/archery/print){:target="_blank"}.
 
 \--- /no-print \---
 
-You can find the [completed project here](http://rpf.io/p/en/archery-get){:target="_blank"}.
+你可以在这里找到 [全部完成的项目](http://rpf.io/p/en/archery-get){:target="_blank"}。
 
 \--- /collapse \---
