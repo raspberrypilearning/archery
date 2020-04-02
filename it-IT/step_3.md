@@ -1,12 +1,12 @@
-## Shooting arrows
+## Scoccare le frecce
 
-Let's code your arrow to shoot when the space bar is pressed.
+Programmiamo la freccia in modo da scoccarla quando viene premuta la barra spaziatrice.
 
 \--- task \---
 
-Stop the other script (the one moving the arrow) when the space bar is pressed.
+Ferma l'altro script (quello che sposta la freccia) quando viene premuta la barra spaziatrice.
 
-![target sprite](images/target-sprite.png)
+![sprite bersaglio](images/target-sprite.png)
 
 ```blocks3
 when [space v] key pressed
@@ -17,15 +17,15 @@ stop [other scripts in sprite v]
 
 \--- task \---
 
-Test your project again. This time, your arrow should stop moving **when the space bar is pressed**.
+Prova di nuovo il tuo codice. Questa volta, la freccia dovrebbe smettere di muoversi **quando si preme la barra spaziatrice**.
 
 \--- /task \---
 
 \--- task \---
 
-Animate your arrow, so that it looks like it's moving towards the target.
+Anima la freccia, in modo che sembri muoversi verso il bersaglio.
 
-![target sprite](images/target-sprite.png)
+![sprite bersaglio](images/target-sprite.png)
 
 ```blocks3
 when [space v] key pressed
@@ -39,17 +39,17 @@ end
 
 \--- task \---
 
-Test your game again. This time, when you press the space bar you should see your arrow get smaller, as if it's moving towards the target.
+Prova di nuovo il tuo gioco. Questa volta, quando premi la barra spaziatrice, dovresti vedere la tua freccia diventare più piccola, come se si stesse muovendo verso il bersaglio.
 
-![target with the cross hair on it](images/archery-animate-test.png)
+![bersaglio con il mirino su di esso](images/archery-animate-test.png)
 
 \--- /task \---
 
 \--- task \---
 
-Once your arrow is at the target, you can tell the player how many points they have scored. For example, they could score 200 points for hitting the yellow.
+Una volta che la tua freccia è sul bersaglio, puoi dire al giocatore quanti punti ha realizzato. Ad esempio, potrebbero realizzare 200 punti colpendo il giallo.
 
-![target sprite](images/target-sprite.png)
+![sprite bersaglio](images/target-sprite.png)
 
 ```blocks3
 when [space v] key pressed
@@ -66,9 +66,9 @@ end
 
 \--- task \---
 
-You can also play a sound if they hit the yellow.
+Puoi anche riprodurre un suono se colpiscono il giallo.
 
-![target sprite](images/target-sprite.png)
+![sprite bersaglio](images/target-sprite.png)
 
 ```blocks3
 when [space v] key pressed
@@ -86,9 +86,9 @@ end
 
 \--- task \---
 
-Finally, you need to broadcast the `new arrow`{:class="block3events"} message again to get a new arrow.
+Infine, è necessario trasmettere nuovamente il messaggio `nuova freccia`{:class="block3events"} per ottenere una nuova freccia.
 
-![target sprite](images/target-sprite.png)
+![sprite bersaglio](images/target-sprite.png)
 
 ```blocks3
 when [space v] key pressed
