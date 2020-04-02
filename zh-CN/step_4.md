@@ -1,5 +1,5 @@
-## Challenge: Different scores
+## 挑战：不同的分数
 
-Can you add code to your game, so that you get a different score for hitting different parts of the target?
+您可不可以添加更多的代码来在箭头击中靶子的不同部位时获得不同的分数呢？
 
-![cross hair on the blue part of the target with the phrase 100 points](images/archery-challenge.png)
+![箭头射中靶子的蓝色区域将获得 100 分](images/archery-challenge.png)
