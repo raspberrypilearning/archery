@@ -44,11 +44,11 @@ title: Di cosa avrai bisogno
 Il progetto iniziale può essere trovato [qui](http://rpf.io/p/it-IT/archery-go){:target="_ blank"}.
 
 --- /collapse ---
----
+
 --- collapse ---
 ---
 title: Cosa imparerai
---
+---
 + Usare le animazioni 
 + Usare i messaggi
 + Usare numeri casuali
