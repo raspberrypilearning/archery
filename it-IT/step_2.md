@@ -62,12 +62,12 @@ Aggiungi il codice alla tua freccia in modo che `scivoli`{:class="block3motion"}
 ![sprite bersaglio](images/target-sprite.png)
 
 ```blocks3
-quando ricevo [nuova freccia v]
-vai a x: (-150) y: (-150)
-porta dimensione a (400)%
-+ per sempre
-scivola in (0,5) sec a x: (numero a caso tra (-150) e (150)) y: (numero a caso tra (da -150) e (150))
-fine
+when I receive [new arrow v]
+go to x: (-150) y: (-150)
+set size to (400) %
++forever
+glide (0.5) secs to x: (pick random (-150) to (150)) y: (pick random (-150) to (150))
+end
 ```
 
 \--- /task \---
