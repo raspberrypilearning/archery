@@ -1,12 +1,12 @@
-## Shooting arrows
+## Strzelanie z łuku
 
-Let's code your arrow to shoot when the space bar is pressed.
+Zaprogramuj celownik tak, że strzał zostanie oddany jeżeli klawisz spacji został naciśnięty.
 
 \--- task \---
 
-Stop the other script (the one moving the arrow) when the space bar is pressed.
+Zatrzymaj drugi skrypt (ten poruszający celownikiem) naciśnięciem spacji.
 
-![target sprite](images/target-sprite.png)
+![celownik](images/target-sprite.png)
 
 ```blocks3
 when [space v] key pressed
@@ -17,15 +17,15 @@ stop [other scripts in sprite v]
 
 \--- task \---
 
-Test your project again. This time, your arrow should stop moving **when the space bar is pressed**.
+Przetestuj swój projekt ponownie. Tym razem twoja strzała powinna przestać się poruszać **po naciśnięciu spacji**.
 
 \--- /task \---
 
 \--- task \---
 
-Animate your arrow, so that it looks like it's moving towards the target.
+Animuj celownik, tak żeby wyglądał, jakby zbliżał się do tarczy.
 
-![target sprite](images/target-sprite.png)
+![celownik](images/target-sprite.png)
 
 ```blocks3
 when [space v] key pressed
@@ -39,17 +39,17 @@ end
 
 \--- task \---
 
-Test your game again. This time, when you press the space bar you should see your arrow get smaller, as if it's moving towards the target.
+Przetestuj swoją grę jeszcze raz. Tym razem, kiedy naciśniesz spację, powinieneś zobaczyć duszka zmniejszającego się, jakby poruszał się w kierunku tarczy.
 
-![target with the cross hair on it](images/archery-animate-test.png)
+![tarcza z celownikiem](images/archery-animate-test.png)
 
 \--- /task \---
 
 \--- task \---
 
-Once your arrow is at the target, you can tell the player how many points they have scored. For example, they could score 200 points for hitting the yellow.
+Gdy strzał do tarczy zostanie oddany, możesz powiedzieć graczowi, ile punktów zdobył. Na przykład można zdobyć 200 punktów za trafienie w żółtą część.
 
-![target sprite](images/target-sprite.png)
+![celownik](images/target-sprite.png)
 
 ```blocks3
 when [space v] key pressed
@@ -66,9 +66,9 @@ end
 
 \--- task \---
 
-You can also play a sound if they hit the yellow.
+Możesz także odtworzyć dźwięk, jeśli trafi się w żółtą część.
 
-![target sprite](images/target-sprite.png)
+![celownik](images/target-sprite.png)
 
 ```blocks3
 when [space v] key pressed
@@ -86,9 +86,9 @@ end
 
 \--- task \---
 
-Finally, you need to broadcast the `new arrow`{:class="block3events"} message again to get a new arrow.
+Na koniec musisz ponownie nadać komunikat `nowa strzała`{: class = "block3events"}, aby móc strzelić jeszcze raz.
 
-![target sprite](images/target-sprite.png)
+![celownik](images/target-sprite.png)
 
 ```blocks3
 when [space v] key pressed
