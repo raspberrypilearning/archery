@@ -1,5 +1,5 @@
-## Challenge: Different scores
+## Πρόκληση: Διαφορετικές βαθμολογίες
 
-Can you add code to your game, so that you get a different score for hitting different parts of the target?
+Μπορείς να προσθέσεις κώδικα στο παιχνίδι σου, έτσι ώστε να έχεις μια διαφορετική βαθμολογία για το χτύπημα διαφορετικών τμημάτων του στόχου;
 
-![cross hair on the blue part of the target with the phrase 100 points](images/archery-challenge.png)
+![σταυρός στο μπλε τμήμα του στόχου με τη φράση 100 πόντοι](images/archery-challenge.png)
