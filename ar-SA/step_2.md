@@ -62,12 +62,12 @@ set size to (400) %
 ![كائن الهدف](images/target-sprite.png)
 
 ```blocks3
-عندما أتلقى [السهم الجديد v]
-انتقل إلى x: (-150) y: (-150)
-مجموعة الحجم إلى (400)٪
-+ للأبد
-انزلاق (0.5) ثانية إلى x: (اختر عشوائيًا (-150) إلى (150)) y: (اختر عشوائيًا (-150) إلى (150))
-نهاية
+when I receive [new arrow v]
+go to x: (-150) y: (-150)
+set size to (400) %
++forever
+glide (0.5) secs to x: (pick random (-150) to (150)) y: (pick random (-150) to (150))
+end
 ```
 
 \--- /task \---
