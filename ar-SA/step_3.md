@@ -1,12 +1,12 @@
-## Shooting arrows
+## سهام الرماية
 
-Let's code your arrow to shoot when the space bar is pressed.
+دعنا نبرمج سهمك للتصويب عند الضغط على مفتاح المسافة.
 
 \--- task \---
 
-Stop the other script (the one moving the arrow) when the space bar is pressed.
+أوقف الجزء البرمجي الآخر (الذي يحرك السهم) عند الضغط على مفتاح المسافة.
 
-![target sprite](images/target-sprite.png)
+![كائن الهدف](images/target-sprite.png)
 
 ```blocks3
 when [space v] key pressed
@@ -17,15 +17,15 @@ stop [other scripts in sprite v]
 
 \--- task \---
 
-Test your project again. This time, your arrow should stop moving **when the space bar is pressed**.
+اختبر مشروعك مرة أخرى. هذه المرة ، يجب أن يتوقف سهمك عن التحرك **عند الضغط على مفتاح المسافة**.
 
 \--- /task \---
 
 \--- task \---
 
-Animate your arrow, so that it looks like it's moving towards the target.
+قم بتحريك سهمك ، بحيث يبدو أنه يتحرك نحو الهدف.
 
-![target sprite](images/target-sprite.png)
+![كائن الهدف](images/target-sprite.png)
 
 ```blocks3
 when [space v] key pressed
@@ -39,17 +39,17 @@ end
 
 \--- task \---
 
-Test your game again. This time, when you press the space bar you should see your arrow get smaller, as if it's moving towards the target.
+اختبر لعبتك مرة أخرى. هذه المرة ، عندما تضغط على مفتاح (زر) المسافة ، يجب أن ترى سهمك أصغر ، كما لو كان يتحرك نحو الهدف.
 
-![target with the cross hair on it](images/archery-animate-test.png)
+![الهدف مع علامة التصويب عليه](images/archery-animate-test.png)
 
 \--- /task \---
 
 \--- task \---
 
-Once your arrow is at the target, you can tell the player how many points they have scored. For example, they could score 200 points for hitting the yellow.
+بمجرد أن يكون سهمك في الهدف ، يمكنك إخبار اللاعب بعدد النقاط التي سجلها. على سبيل المثال ، يمكنهم تسجيل 200 نقطة لتصويب اللون الأصفر.
 
-![target sprite](images/target-sprite.png)
+![كائن الهدف](images/target-sprite.png)
 
 ```blocks3
 when [space v] key pressed
@@ -66,9 +66,9 @@ end
 
 \--- task \---
 
-You can also play a sound if they hit the yellow.
+يمكنك أيضًا تشغيل صوت إذا صدم اللون الأصفر.
 
-![target sprite](images/target-sprite.png)
+![كائن الهدف](images/target-sprite.png)
 
 ```blocks3
 when [space v] key pressed
@@ -86,9 +86,9 @@ end
 
 \--- task \---
 
-Finally, you need to broadcast the `new arrow`{:class="block3events"} message again to get a new arrow.
+أخيرًا ، يلزمك ارسال رسالة `سهم جديد`{: class = "block3events"} مرة أخرى للحصول على سهم جديد.
 
-![target sprite](images/target-sprite.png)
+![كائن الهدف](images/target-sprite.png)
 
 ```blocks3
 when [space v] key pressed
