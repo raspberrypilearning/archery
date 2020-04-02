@@ -1,12 +1,12 @@
-## Shooting arrows
+## 发射箭头
 
-Let's code your arrow to shoot when the space bar is pressed.
+我们来给箭头精灵加上一些代码，以便在按下空格键时发射。
 
 \--- task \---
 
-Stop the other script (the one moving the arrow) when the space bar is pressed.
+按下空格键时，停止另一个脚本(移动准心的脚本)。
 
-![target sprite](images/target-sprite.png)
+![箭头精灵](images/target-sprite.png)
 
 ```blocks3
 when [space v] key pressed
@@ -17,15 +17,15 @@ stop [other scripts in sprite v]
 
 \--- task \---
 
-Test your project again. This time, your arrow should stop moving **when the space bar is pressed**.
+再次测试你的程序。 这回当按下 **空格键** 时准心应该停止移动。
 
 \--- /task \---
 
 \--- task \---
 
-Animate your arrow, so that it looks like it's moving towards the target.
+给准心加一些动画，让它看起来像是在不断朝靶子移动。
 
-![target sprite](images/target-sprite.png)
+![箭头精灵](images/target-sprite.png)
 
 ```blocks3
 when [space v] key pressed
@@ -39,17 +39,17 @@ end
 
 \--- task \---
 
-Test your game again. This time, when you press the space bar you should see your arrow get smaller, as if it's moving towards the target.
+再次测试您的游戏。 这下当您按下空格键时，您应该看到准心不断变小，好像它正在朝靶子移动。
 
-![target with the cross hair on it](images/archery-animate-test.png)
+![用十字准心瞄准](images/archery-animate-test.png)
 
 \--- /task \---
 
 \--- task \---
 
-Once your arrow is at the target, you can tell the player how many points they have scored. For example, they could score 200 points for hitting the yellow.
+一旦箭头射中了目标，您就可以告诉玩家他们得分了多少分。 举个例子，如果射中了黄色靶心可以得到200分。
 
-![target sprite](images/target-sprite.png)
+![箭头精灵](images/target-sprite.png)
 
 ```blocks3
 when [space v] key pressed
@@ -66,9 +66,9 @@ end
 
 \--- task \---
 
-You can also play a sound if they hit the yellow.
+当射中黄色靶心，也可以来点音效。
 
-![target sprite](images/target-sprite.png)
+![箭头精灵](images/target-sprite.png)
 
 ```blocks3
 when [space v] key pressed
@@ -86,9 +86,9 @@ end
 
 \--- task \---
 
-Finally, you need to broadcast the `new arrow`{:class="block3events"} message again to get a new arrow.
+最后，您需要再次广播 `新箭头`{:class ="block3events"} 消息来得到一个新箭头。
 
-![target sprite](images/target-sprite.png)
+![箭头精灵](images/target-sprite.png)
 
 ```blocks3
 when [space v] key pressed
