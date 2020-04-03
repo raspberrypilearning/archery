@@ -1,18 +1,18 @@
 \--- no-print \---
 
-This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/archery-scratch2).
+これはプロジェクトの**Scratch 3**バージョンです。 [Scratch 2バージョンのプロジェクト](https://projects.raspberrypi.org/en/projects/archery-scratch2)もあります。
 
 \--- /no-print \---
 
-## Introduction
+## はじめに
 
-You are going to learn how to create an archery game, in which you have to shoot arrows as close to the bullseye as you can.
+アーチェリーゲームの作り方を学びます。このゲームでは、できるだけまとの中心に矢をあてます。
 
-### What you will make
+### 作るもの
 
 \--- no-print \---
 
-Click on the green flag to start. Use the space bar to shoot an arrow
+緑の旗 (はた) をクリックしてスタートします。 スペースバーを使って矢をはなちます。
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/114760038/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -23,48 +23,48 @@ Click on the green flag to start. Use the space bar to shoot an arrow
 
 \--- print-only \---
 
-![complete project](images/archery-final.png)
+![完成したプロジェクト](images/archery-final.png)
 
 \--- /print-only \---
 
 ## \--- collapse \---
 
-## title: What you will need
+## title: 必要 (ひつよう) なもの
 
-### Hardware
+### ハードウェア
 
-+ A computer capable of running Scratch
++ Scratch を実行できるコンピュータ
 
-### Software
+### ソフトウェア
 
-+ Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
++ Scratch 3 ([オンライン](http://rpf.io/scratchon){:target="_blank"}または[オフライン](http://rpf.io/scratchoff){:target="_blank"})
 
-### Downloads
+### ダウンロード
 
-The starter project can be found [here](http://rpf.io/p/en/archery-go){:target="_blank"}.
-
-\--- /collapse \---
-
-## \--- collapse \---
-
-## title: What you will learn
-
-+ Use animations 
-+ Use broadcasts
-+ Use random numbers
+基本 (きほん) のプロジェクトは [こちら](http://rpf.io/p/en/archery-go){:target="_blank"}にあります。
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Additional information for educators
+## title: 学ぶこと
+
++ アニメーションを使う 
++ メッセージを使う
++ 乱数 (らんすう) を使う
+
+\--- /collapse \---
+
+## \--- collapse \---
+
+## title: 教育者向けの追加情報
 
 \--- no-print \---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/archery/print){:target="_blank"}.
+このプロジェクトを印刷する必要がある場合は、 [印刷用バージョン](https://projects.raspberrypi.org/en/projects/archery/print){:target="_ blank"}を使用してください。
 
 \--- /no-print \---
 
-You can find the [completed project here](http://rpf.io/p/en/archery-get){:target="_blank"}.
+[完成したプロジェクトはこちらに](http://rpf.io/p/en/archery-get){:target="_blank"}あります 。
 
 \--- /collapse \---
