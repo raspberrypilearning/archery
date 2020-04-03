@@ -4,11 +4,11 @@ This is the **Scratch 3** version of the project. There is also a [Scratch 2 ver
 
 \--- /no-print \---
 
-## Introduction
+## 들어가며
 
 이 프로젝트에서는 양궁 게임을 만드는 방법을 배웁니다. 과녁 중앙에 최대한 가깝게 화살을 쏴야 합니다.
 
-### What you will make
+### 여러분이 만들 작품
 
 \--- no-print \---
 
@@ -23,7 +23,7 @@ This is the **Scratch 3** version of the project. There is also a [Scratch 2 ver
 
 \--- print-only \---
 
-![complete project](images/archery-final.png)
+![완료된 프로젝트](images/archery-final.png)
 
 \--- /print-only \---
 
@@ -51,20 +51,20 @@ This is the **Scratch 3** version of the project. There is also a [Scratch 2 ver
 
 + 애니메이션 사용 
 + Use broadcasts
-+ Use random numbers
++ 난수 사용
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Additional information for educators
+## title: 교육자를 위한 추가 정보
 
 \--- no-print \---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/archery/print){:target="_blank"}.
+이 프로젝트를 인쇄하려면, [프린트용 버전](https://projects.raspberrypi.org/en/projects/archery/print){:target="_blank"}을 사용하십시오.
 
 \--- /no-print \---
 
-You can find the [completed project here](http://rpf.io/p/en/archery-get){:target="_blank"}.
+완성된 프로젝트는 [여기](http://rpf.io/p/en/archery-get){:target="_ blank"}에서 확인할 수 있습니다.
 
 \--- /collapse \---
