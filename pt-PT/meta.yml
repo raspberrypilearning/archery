@@ -8,8 +8,8 @@ version: 4
 last_tested: 2019-04-18
 steps:
   - title: Introdução
-  - title: Apontar as flechas
-  - title: Disparar as flechas
+  - title: Apontando flechas
+  - title: Atirar flechas
   - title: 'Desafio: pontuações diferentes'
     challenge: true
   - title: 'O que se segue?'

@@ -9,7 +9,7 @@ last_tested: 2019-04-18
 steps:
   - title: 介绍
   - title: 瞄准箭头
-  - title: 射箭
+  - title: 发射箭头
   - title: '挑战：不同的分数'
     challenge: true
-  - title: '接下来呢？'
+  - title: '接下来还有什么？'
