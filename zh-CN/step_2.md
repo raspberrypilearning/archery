@@ -62,12 +62,12 @@ set size to (400) %
 ![箭头精灵](images/target-sprite.png)
 
 ```blocks3
-当接收到 [新箭头v]
-移到 x:(-150) y:(-150)
-将大小设置为 (400)％
-+重复执行
-在 (0.5) 秒内滑行到 x: (在 (-150) 和 (150) 之间取随机数) y:(在 (-150) 和 (150) 之间取随机数) 
-结束
+when I receive [new arrow v]
+go to x: (-150) y: (-150)
+set size to (400) %
++forever
+glide (0.5) secs to x: (pick random (-150) to (150)) y: (pick random (-150) to (150))
+end
 ```
 
 \--- /task \---
