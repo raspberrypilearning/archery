@@ -1,30 +1,30 @@
-## Aiming arrows
+## 화살 조준
 
-Let's start by creating an arrow that moves around the screen.
+화면 주위를 이동하는 화살을 만드는 것으로 시작하겠습니다.
 
 \--- task \---
 
-Open the Scratch starter project.
+스크래치 스타터 프로젝트를 엽니다.
 
-**Online**: open the starter project at [rpf.io/archeryon](http://rpf.io/archeryon){:target="_blank"}.
+**온라인**: [ rpf.io/archeryon](http://rpf.io/archeryon) {:target="_blank"}에서 스타터 프로젝트를 여세요.
 
-If you have a Scratch account you can make a copy by clicking **Remix**.
+스크래치 계정이 있는 경우 **Remix를 클릭** 하여 사본을 만들 수 있습니다.
 
-**Offline**: open the [starter project](http://rpf.io/p/en/archery-go){:target="_blank"} in the offline editor.
+**오프라인**: [스타터 프로젝트](http://rpf.io/p/en/archery-go){:target="_blank"} 를 오프라인 에디터에서 여세요.
 
-If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+스크래치 오프라인 에디터를 다운로드 받아야 하는 경우, [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"} 에서 다운로드 받을 수 있습니다.
 
-In the starter project, you should see a target backdrop and a cross hair sprite.
+스타터 프로젝트에서 배경과 십자가 모양의 스프라이트를 확인할 수 있습니다.
 
-![starter projects](images/archery-starter.png)
+![스타터 프로젝트](images/archery-starter.png)
 
 \--- /task \---
 
 \--- task \---
 
-When your game starts, broadcast a message to shoot a new arrow.
+게임이 시작되면 새 화살을 쏘라는 신호를 보내세요.
 
-![target sprite](images/target-sprite.png)
+![타겟 스프라이트](images/target-sprite.png)
 
 ```blocks3
 when green flag clicked
@@ -35,9 +35,9 @@ broadcast (new arrow v)
 
 \--- task \---
 
-Once this message has been received, set the arrow's position and size.
+이 신호를 받게되면 십자가의 위치와 크기를 설정하십시오.
 
-![target sprite](images/target-sprite.png)
+![타겟 스프라이트](images/target-sprite.png)
 
 ```blocks3
 when I receive [new arrow v]
@@ -49,17 +49,17 @@ set size to (400) %
 
 \--- task \---
 
-Click the green flag to test your game. You should see your arrow get bigger and move to the bottom-left of the stage.
+녹색 깃발을 눌러 시작합니다. 십자가가 커지고 스테이지 왼쪽 하단으로 이동하는 것이 보여야 합니다.
 
-![larger target sprite in bottom left of stage](images/archery-start-test.png)
+![스테이지 왼쪽 하단의 더 큰 타겟 스프라이트](images/archery-start-test.png)
 
 \--- /task \---
 
 \--- task \---
 
-Add code to your arrow so that it `glides`{:class="block3motion"} randomly around the stage `forever`{:class="block3control"}.
+`이동하기`{:class="block3motion"} 블록을 화살 스프라이트에 추가하여 스테이지의 무작위 위치로의 이동이 `무한 반복`{:class="block3control"}되게 하세요.
 
-![target sprite](images/target-sprite.png)
+![타겟 스프라이트](images/target-sprite.png)
 
 ```blocks3
 when I receive [new arrow v]
@@ -74,8 +74,8 @@ end
 
 \--- task \---
 
-Test your game again, and you should see your arrow move randomly around the stage.
+게임을 다시 테스트해봅니다. 그리고 스테이지에서 십자가가 무작위로 움직이는 것을 볼 수 있어야 합니다.
 
-![target in a different position](images/archery-glide-test.png)
+![다른 위치를 목표하고 있는 타겟 스프라이트](images/archery-glide-test.png)
 
 \--- /task \---
