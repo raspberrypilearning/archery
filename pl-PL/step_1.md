@@ -1,3 +1,70 @@
-Tłumaczenie to jest starszą wersją projektu Łucznik. Nie zawiera ono najnowszych treści i funkcji, ale będzie tymczasowo dostępne w [tej wersji](images/archery-pl-PL.pdf), zanim zostanie zarchiwizowane. 
+--- no-print ---
 
-Potrzebujemy Twojej pomocy, aby zaktualizować i przetłumaczyć takie projekty! Jeśli możesz nam pomóc, [poinformuj nas tutaj](http://rpf.io/translators).
+To jest wersja projektu korzystająca z **Scratch 3**. Istnieje również [wersja tego projektu dla Scratch 2](https://projects.raspberrypi.org/en/projects/archery-scratch2).
+
+--- /no-print ---
+
+## Wprowadzenie
+
+Nauczysz się tworzyć grę łuczniczą, w której musisz strzelać z łuku jak najbliżej środka.
+
+### Co zrobisz
+
+--- no-print ---
+
+Kliknij na zieloną flagę, aby rozpocząć. Użyj spacji, aby wystrzelić strzałę
+
+<div class="scratch-preview">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/382447883/?autostart=false" frameborder="0" scrolling="no"></iframe>
+  <img src="images/archery-final.png">
+</div>
+
+--- /no-print ---
+
+--- print-only ---
+
+![ukończony projekt](images/archery-final.png)
+
+--- /print-only ---
+
+--- collapse ---
+---
+title: Czego będziesz potrzebować
+---
+### Sprzęt
+
++ Komputer, na którym można uruchomić Scratcha
+
+### Oprogramowanie
+
++ Scratch 3 ([online](http://rpf.io/scratchon){:target="_blank"} lub [offline](http://rpf.io/scratchoff){:target="_blank"})
+
+### Do pobrania
+
+Projekt startowy można znaleźć [tutaj](http://rpf.io/p/pl-PL/archery-go){:target="_blank"}.
+
+--- /collapse ---
+
+--- collapse ---
+---
+title: Czego się nauczysz
+---
++ Używania animacji 
++ Używania komunikatów
++ Używania liczb losowych
+
+--- /collapse ---
+
+--- collapse ---
+---
+title: Dodatkowe informacje dla nauczycieli
+---
+--- no-print ---
+
+Jeśli chcesz wydrukować ten projekt, użyj [wersji do druku](https://projects.raspberrypi.org/pl-PL/projects/archery/print){:target="_blank"}.
+
+--- /no-print ---
+
+Możesz znaleźć [ukończoną wersję projektu tutaj](http://rpf.io/p/pl-PL/archery-get){:target="_blank"}.
+
+--- /collapse ---

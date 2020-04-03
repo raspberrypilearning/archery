@@ -23,7 +23,8 @@ Aprenderás a crear tu propio juego de carreras, en el que debes usar las teclas
 
 Este proyecto fue traducido por voluntarios:
 
-Alicia Barquiel
+Alicia Barquiel 
 Pablo Collado
+Chema Honrado
 
 Gracias a los voluntarios, podemos dar a las personas de todo el mundo la oportunidad de aprender en su propio idioma. Puede ayudarnos a llegar a más personas ofreciéndose como voluntario para traducir; más información en [rpf.io/translate](https://rpf.io/translate).

@@ -57,7 +57,7 @@ stop [other scripts in sprite v]
 repeat (50)
 change size by (-10)
 end
-+if <touching color (#ffff00) ?> then
++if <0> then
 say [200 puntos] for (2) seconds
 end
 ```
@@ -76,7 +76,7 @@ stop [other scripts in sprite v]
 repeat (50)
 change size by (-10)
 end
-if <touching color (#ffff00) ?> then
+if <0> then
 +start sound (cheer v)
 say [200 puntos] for (2) seconds
 end
@@ -96,7 +96,7 @@ stop [other scripts in sprite v]
 repeat (50)
 change size by (-10)
 end
-if <touching color (#ffff00) ?> then
+if <0> then
 start sound (cheer v)
 say [200 puntos] for (2) seconds
 end
