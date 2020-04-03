@@ -23,7 +23,7 @@ Fes clic a la bandera verda per començar. Utilitza la barra d’espai per dispa
 
 \--- print-only \---
 
-![complete project](images/archery-final.png)
+![projecte acabat](images/archery-final.png)
 
 \--- / print-only \---
 
@@ -39,7 +39,7 @@ Fes clic a la bandera verda per començar. Utilitza la barra d’espai per dispa
 
 + Scratch 3 (ja sigui [en línia](http://rpf.io/scratchon){:target="_ blank"} o [fora de línia](http://rpf.io/scratchoff){:target="_ blank"})
 
-### Downloads
+### Descàrregues
 
 El projecte inicial es pot trobar a [aquí](http://rpf.io/p/en/archery-go){:target="_ blank"}.
 
