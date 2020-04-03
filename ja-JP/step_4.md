@@ -1,5 +1,5 @@
-## Challenge: Different scores
+## チャレンジ: ちがうスコア
 
-Can you add code to your game, so that you get a different score for hitting different parts of the target?
+ゲームにコードを入れて、まとのちがう部分に矢をあてると、ちがう点数を取れるようにできますか？
 
-![cross hair on the blue part of the target with the phrase 100 points](images/archery-challenge.png)
+![まとの青い部分の上に十字、100点というセリフ付き](images/archery-challenge.png)
