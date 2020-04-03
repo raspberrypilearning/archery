@@ -1,18 +1,18 @@
 \--- no-print \---
 
-This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/archery-scratch2).
+Es tracta de la versió ** Scratch 3 **del projecte. També hi ha una [ versió de Scratch 2 del projecte ](https://projects.raspberrypi.org/en/projects/archery-scratch2).
 
 \--- /no-print \---
 
-## Introduction
+## Introducció
 
-You are going to learn how to create an archery game, in which you have to shoot arrows as close to the bullseye as you can.
+Aprendràs a crear un joc de tir amb arc, en el qual has de disparar fletxes el més properes al centre de la diana que puguis.
 
-### What you will make
+### Què faràs
 
 \--- no-print \---
 
-Click on the green flag to start. Use the space bar to shoot an arrow
+Fes clic a la bandera verda per començar. Utilitza la barra d’espai per disparar una fletxa
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/114760038/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -29,27 +29,27 @@ Click on the green flag to start. Use the space bar to shoot an arrow
 
 ## \--- collapse \---
 
-## title: What you will need
+## títol: què necessitaràs
 
-### Hardware
+### Maquinari
 
-+ A computer capable of running Scratch
++ Un ordinador capaç d'executar Scratch
 
-### Software
+### Programari
 
-+ Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
++ Scratch 3 (ja sigui [en línia](http://rpf.io/scratchon){:target="_ blank"} o [fora de línia](http://rpf.io/scratchoff){:target="_ blank"})
 
-### Downloads
+### Descàrregues
 
-The starter project can be found [here](http://rpf.io/p/en/archery-go){:target="_blank"}.
+El projecte inicial es pot trobar a [aquí](http://rpf.io/p/en/archery-go){:target="_ blank"}.
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: What you will learn
+## títol: Què aprendràs
 
-+ Use animations 
++ Utilitzar animacions 
 + Use broadcasts
 + Use random numbers
 
