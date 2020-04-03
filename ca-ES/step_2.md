@@ -1,16 +1,16 @@
-## Aiming arrows
+## Fletxes que apunten a un objectiu
 
-Let's start by creating an arrow that moves around the screen.
+Comencem creant una fletxa que es desplaça per la pantalla.
 
 \--- task \---
 
-Open the Scratch starter project.
+Obriu el projecte inicial de Scratch.
 
-**Online**: open the starter project at [rpf.io/archeryon](http://rpf.io/archeryon){:target="_blank"}.
+**en línia**: obre el projecte d’inici a [rpf.io/archeryon](http://rpf.io/archeryon){:target="_ blank"}.
 
-If you have a Scratch account you can make a copy by clicking **Remix**.
+Si tens un compte a Scratch pots fer una còpia fent clic a **Reinventa**.
 
-**Offline**: open the [starter project](http://rpf.io/p/en/archery-go){:target="_blank"} in the offline editor.
+**Fora de línia**: obre el [projecte inicial](http://rpf.io/p/en/archery-go){:target="_ blank"} a l'editor fora de línia.
 
 If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
 
