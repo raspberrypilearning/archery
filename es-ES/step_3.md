@@ -9,8 +9,8 @@ Detén el otro script (el que mueve la flecha) cuando se pulse la barra espaciad
 ![objeto objetivo](images/target-sprite.png)
 
 ```blocks3
-when [space v] key pressed
-stop [other scripts in sprite v]
+al presionar tecla [espacio v]
+detener [otros programas en el objeto v]
 ```
 
 \--- /task \---
@@ -28,10 +28,10 @@ Anima tu flecha para que parezca que se mueve hacia el objetivo.
 ![objeto objetivo](images/target-sprite.png)
 
 ```blocks3
-when [space v] key pressed
-stop [other scripts in sprite v]
-+repeat (50)
-change size by (-10)
+al presionar tecla [espacio v]
+detener [otros programas en el objeto v]
+repetir (50) 
+  cambiar tamaño por (-10)
 end
 ```
 
@@ -52,13 +52,13 @@ Cuando la flecha llegue a la diana le puedes decir al jugador o jugadora los pun
 ![objeto objetivo](images/target-sprite.png)
 
 ```blocks3
-when [space v] key pressed
-stop [other scripts in sprite v]
-repeat (50)
-change size by (-10)
+al presionar tecla [espacio v]
+detener [otros programas en el objeto v]
+repetir (50) 
+  cambiar tamaño por (-10)
 end
-+if <touching color (#ffff00) ?> then
-say [200 points] for (2) seconds
+si <¿tocando el color [#ffff00] ?> entonces 
+  decir [200 puntos] durante (2) segundos
 end
 ```
 
@@ -71,14 +71,14 @@ También puedes reproducir un sonido si dan al amarillo.
 ![objeto objetivo](images/target-sprite.png)
 
 ```blocks3
-when [space v] key pressed
-stop [other scripts in sprite v]
-repeat (50)
-change size by (-10)
+al presionar tecla [espacio v]
+detener [otros programas en el objeto v]
+repetir (50) 
+  cambiar tamaño por (-10)
 end
-if <touching color (#ffff00) ?> then
-+start sound (cheer v)
-say [200 points] for (2) seconds
+si <¿tocando el color [#ffff00] ?> entonces 
+  + iniciar sonido (cheer v)
+  decir [200 puntos] durante (2) segundos
 end
 ```
 
@@ -91,16 +91,16 @@ Finalmente, debes difundir el mensaje `nueva flecha`{:class="block3events"} para
 ![objeto objetivo](images/target-sprite.png)
 
 ```blocks3
-when [space v] key pressed
-stop [other scripts in sprite v]
-repeat (50)
-change size by (-10)
+al presionar tecla [espacio v]
+detener [otros programas en el objeto v]
+repetir (50) 
+  cambiar tamaño por (-10)
 end
-if <touching color (#ffff00) ?> then
-start sound (cheer v)
-say [200 points] for (2) seconds
+si <¿tocando el color [#ffff00] ?> entonces 
+  iniciar sonido (cheer v)
+  decir [200 puntos] durante (2) segundos
 end
-+broadcast (new arrow v)
+enviar (nueva flecha v)
 ```
 
 \--- /task \---
