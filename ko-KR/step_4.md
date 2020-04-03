@@ -1,5 +1,5 @@
-## Challenge: Different scores
+## 도전 과제: 다른 점수
 
-Can you add code to your game, so that you get a different score for hitting different parts of the target?
+게임에 코드를 추가하여 타겟에 다른 부분을 명중했을 때에는, 다른 점수를 부여할 수 있나요?
 
-![cross hair on the blue part of the target with the phrase 100 points](images/archery-challenge.png)
+![파란색 부분을 명중했을 때에는 100 포인트 주기](images/archery-challenge.png)
