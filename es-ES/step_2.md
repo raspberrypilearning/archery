@@ -8,7 +8,7 @@ Abre el proyecto inicial de Scratch.
 
 **En línea**: abre el proyecto inicial en [rpf.io/archeryon](http://rpf.io/archeryon){:target="_blank"}.
 
-Si tienes una cuenta de Scratch puedes hacer una copia haciendo clic en **Remix**.
+Si tienes una cuenta de Scratch puedes hacer una copia haciendo clic en **Reinventar**.
 
 **Sin conexión**: abre el [proyecto inicial](http://rpf.io/p/en/archery-go){:target=_blank"} en el editor sin conexión (offline).
 
