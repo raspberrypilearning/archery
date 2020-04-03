@@ -50,21 +50,21 @@ El projecte inicial es pot trobar a [aquí](http://rpf.io/p/en/archery-go){:targ
 ## títol: Què aprendràs
 
 + Utilitzar animacions 
-+ Use broadcasts
-+ Use random numbers
++ Utilitzar emissions
++ Utilitzar números aleatoris
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Additional information for educators
+## títol: Informació addicional per educadors
 
 \--- no-print \---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/archery/print){:target="_blank"}.
+Si necessites imprimir aquest projecte, si us plau, utilitza la [versió per imprimir](https://projects.raspberrypi.org/en/projects/archery/print){:target="_blank"}.
 
 \--- /no-print \---
 
-You can find the [completed project here](http://rpf.io/p/en/archery-get){:target="_blank"}.
+Pots trobar el [projecte complet aquí](http://rpf.io/p/en/archery-get){:target="_blank"}.
 
 \--- /collapse \---
