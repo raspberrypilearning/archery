@@ -1,12 +1,12 @@
-## Shooting arrows
+## 화살 발사
 
-Let's code your arrow to shoot when the space bar is pressed.
+스페이스 바를 눌렀을 때 화살을 쏘도록 코드를 짜 봅시다.
 
 \--- task \---
 
-Stop the other script (the one moving the arrow) when the space bar is pressed.
+스페이스 바를 누르면 다른 스크립트(화살표 이동) 를 중지합니다.
 
-![target sprite](images/target-sprite.png)
+![타겟 스프라이트](images/target-sprite.png)
 
 ```blocks3
 when [space v] key pressed
@@ -17,15 +17,15 @@ stop [other scripts in sprite v]
 
 \--- task \---
 
-Test your project again. This time, your arrow should stop moving **when the space bar is pressed**.
+프로젝트를 다시 테스트해 보세요. 이번에는 **스페이스 키가 눌렸을 때** 화살의 움직임이 멈춰야 합니다.
 
 \--- /task \---
 
 \--- task \---
 
-Animate your arrow, so that it looks like it's moving towards the target.
+화살이 타겟을 향해 움직이는 것처럼 보이도록 애니메이션을 적용하십시오.
 
-![target sprite](images/target-sprite.png)
+![타겟 스프라이트](images/target-sprite.png)
 
 ```blocks3
 when [space v] key pressed
@@ -39,17 +39,17 @@ end
 
 \--- task \---
 
-Test your game again. This time, when you press the space bar you should see your arrow get smaller, as if it's moving towards the target.
+게임을 다시 테스트 해 보세요. 이번에는 스페이스 바가 누렸을 때 화살이 목표를 향해 움직이며 작아지는 것이 보여야 합니다.
 
-![target with the cross hair on it](images/archery-animate-test.png)
+![조준점이 겨냥된 타겟](images/archery-animate-test.png)
 
 \--- /task \---
 
 \--- task \---
 
-Once your arrow is at the target, you can tell the player how many points they have scored. For example, they could score 200 points for hitting the yellow.
+화살이 타겟에 성공적으로 명중하면, 당신은 플레이어가 얻은 점수를 말해줄 수 있습니다. 예를 들어 노란색을 명중했다면 200 점을 득점 할 수 있습니다.
 
-![target sprite](images/target-sprite.png)
+![타겟 스프라이트](images/target-sprite.png)
 
 ```blocks3
 when [space v] key pressed
@@ -66,9 +66,9 @@ end
 
 \--- task \---
 
-You can also play a sound if they hit the yellow.
+노란색에 명중했을 경우 소리를 재생할 수도 있습니다.
 
-![target sprite](images/target-sprite.png)
+![타겟 스프라이트](images/target-sprite.png)
 
 ```blocks3
 when [space v] key pressed
@@ -86,9 +86,9 @@ end
 
 \--- task \---
 
-Finally, you need to broadcast the `new arrow`{:class="block3events"} message again to get a new arrow.
+마지막으로 새 화살을 얻기 위해서는, `새 화살`{:class="block3events"} 신호를 보내야 합니다.
 
-![target sprite](images/target-sprite.png)
+![타겟 스프라이트](images/target-sprite.png)
 
 ```blocks3
 when [space v] key pressed
