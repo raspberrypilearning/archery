@@ -1,8 +1,8 @@
 ## What next?
 
-Take a look at the [Sprint](https://projects.raspberrypi.org/en/projects/sprint) Scratch project.
+[전력질주](https://projects.raspberrypi.org/en/projects/sprint) 스크래치 프로젝트를 살펴봅시다.
 
-You are going to learn how to create your own sprint game, in which you have to use the left and right arrow keys to get to the finish line as quickly as you can.
+여러분만의 전력질주 게임을 만드는 방법을 배우게 될 것입니다. 가능한 빨리 결승선에 도달하려면 왼쪽 및 오른쪽 화살표 키를 사용해야 합니다.
 
 --- no-print ---
 
