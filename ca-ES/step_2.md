@@ -12,19 +12,19 @@ Si tens un compte a Scratch pots fer una còpia fent clic a **Reinventa**.
 
 **Fora de línia**: obre el [projecte inicial](http://rpf.io/p/en/archery-go){:target="_ blank"} a l'editor fora de línia.
 
-If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+Si necessites descarregar i instal·lar l'editor fora de línia de Scratch, el pots trobar a [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
 
-In the starter project, you should see a target backdrop and a cross hair sprite.
+Al projecte d’inici, hauries de veure un escenari amb una diana com a objectiu i una icona de punt de mira.
 
-![starter projects](images/archery-starter.png)
+![projectes d’inici](images/archery-starter.png)
 
 \--- /task \---
 
 \--- task \---
 
-When your game starts, broadcast a message to shoot a new arrow.
+Quan comenci el joc, emet un missatge per disparar una fletxa nova.
 
-![target sprite](images/target-sprite.png)
+![personatge destí](images/target-sprite.png)
 
 ```blocks3
 when green flag clicked
@@ -35,9 +35,9 @@ broadcast (new arrow v)
 
 \--- task \---
 
-Once this message has been received, set the arrow's position and size.
+Un cop rebut aquest missatge, configura la posició i la mida de la fletxa.
 
-![target sprite](images/target-sprite.png)
+![personatge destí](images/target-sprite.png)
 
 ```blocks3
 when I receive [new arrow v]
@@ -49,17 +49,17 @@ set size to (400) %
 
 \--- task \---
 
-Click the green flag to test your game. You should see your arrow get bigger and move to the bottom-left of the stage.
+Fes clic a la bandera verda per provar el teu joc. Hauries de veure que la teva fletxa s’amplia i es desplaça a la part inferior esquerra de l’escenari.
 
-![larger target sprite in bottom left of stage](images/archery-start-test.png)
+![el personatge destí més gran a la part inferior esquerra de l’escenari](images/archery-start-test.png)
 
 \--- /task \---
 
 \--- task \---
 
-Add code to your arrow so that it `glides`{:class="block3motion"} randomly around the stage `forever`{:class="block3control"}.
+Afegeix codi a la teva fletxa de manera que `llisqui`{:class="block3motion"} aleatòriament al voltant de l'escenari `per sempre`{:class="block3control"}.
 
-![target sprite](images/target-sprite.png)
+![personatge destí](images/target-sprite.png)
 
 ```blocks3
 when I receive [new arrow v]
@@ -74,8 +74,8 @@ end
 
 \--- task \---
 
-Test your game again, and you should see your arrow move randomly around the stage.
+Prova el teu joc de nou i hauries de veure que la teva fletxa es mou aleatòriament per l'escenari.
 
-![target in a different position](images/archery-glide-test.png)
+![objectiu en una posició diferent](images/archery-glide-test.png)
 
 \--- /task \---
