@@ -15,7 +15,7 @@ Aprenderás a crear un juego de tiro con arco, en el que debes disparar flechas 
 Haz clic en la bandera verde para empezar. Usa la barra espaciadora para disparar una flecha
 
 <div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/382060309/?autostart=false" frameborder="0" scrolling="no"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/382064493/?autostart=false" frameborder="0" scrolling="no"></iframe>
   <img src="images/archery-final.png">
 </div>
 
@@ -65,6 +65,6 @@ Si necesitas imprimir este proyecto, usa la [versión para imprimir](https://pro
 
 --- /no-print ---
 
-Puedes encontrar el [proyecto completo aquí](http://rpf.io/p/es-ES/archery-get){:target="_blank"}.
+Puedes encontrar el [proyecto completo aquí](http://rpf.io/p/es-ES/archery-get){:target ="_blank"}.
 
 --- /collapse ---

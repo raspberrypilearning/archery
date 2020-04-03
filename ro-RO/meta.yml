@@ -1,0 +1,15 @@
+---
+hero_image: images/banner.png
+listed: true
+copyedit: false
+title: Tir cu arcul
+description: Trage săgeți cât de aproape poți.
+version: 4
+last_tested: 2019-04-18
+steps:
+  - title: Introducere
+  - title: Ținta săgeților
+  - title: Trasul cu săgeți
+  - title: 'Provocare: scoruri diferite'
+    challenge: true
+  - title: 'Ce urmează?'
