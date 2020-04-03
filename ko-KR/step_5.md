@@ -15,6 +15,6 @@ You are going to learn how to create your own sprint game, in which you have to 
 
 --- print-only ---
 
-![complete project](images/sprint-final.png)
+![완료된 프로젝트](images/sprint-final.png)
 
 --- /print-only ---
