@@ -1,10 +1,10 @@
-## Shooting arrows
+## Disparar fletxes
 
-Let's code your arrow to shoot when the space bar is pressed.
+Codifiquem la teva fletxa per disparar quan es prem la barra d’espai.
 
 \--- task \---
 
-Stop the other script (the one moving the arrow) when the space bar is pressed.
+Atura l'altre codi (el que fa moure la fletxa) quan prems la barra d'espai.
 
 ![target sprite](images/target-sprite.png)
 
@@ -17,7 +17,7 @@ stop [other scripts in sprite v]
 
 \--- task \---
 
-Test your project again. This time, your arrow should stop moving **when the space bar is pressed**.
+Prova el teu projecte de nou. Aquest cop, la teva fletxa s'hauria de deixar de moure **quan es prem la barra d'espai**.
 
 \--- /task \---
 
