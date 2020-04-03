@@ -10,9 +10,9 @@
 
 Scratch アカウントを持っている場合、 **リミックス**ボタンをクリックしてプロジェクトをコピーできます。
 
-**Offline**: open the [starter project](http://rpf.io/p/en/archery-go){:target="_blank"} in the offline editor.
+**オフライン**: オフラインエディターで[基本のプロジェクト](http://rpf.io/p/en/archery-go){:target="_blank"}を開きます。
 
-If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+[rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}からScratch オフラインエディターのダウンロードしてインストールできます。
 
 基本のプロジェクトには、まとの背景 (はいけい) と十字のスプライトがあります。
 
@@ -62,12 +62,12 @@ set size to (400) %
 ![矢のスプライト](images/target-sprite.png)
 
 ```blocks3
-when I receive [new arrow v]
-go to x: (-150) y: (-150)
-set size to (400) %
-+forever
-glide (0.5) secs to x: (pick random (-150) to (150)) y: (pick random (-150) to (150))
-end
+[新しい矢印v]を受け取ったら
+移動x：（-150）y：（-150）
+サイズを（400）％
++永久に
+グライド（0.5）秒x：（ランダムに選択（-150）から（150））y：（ランダムに選択（-150）から（150））
+終了
 ```
 
 \--- /task \---
