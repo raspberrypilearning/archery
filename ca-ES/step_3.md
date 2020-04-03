@@ -6,7 +6,7 @@ Codifiquem la teva fletxa per disparar quan es prem la barra d’espai.
 
 Atura l'altre codi (el que fa moure la fletxa) quan prems la barra d'espai.
 
-![target sprite](images/target-sprite.png)
+![personatge destí](images/target-sprite.png)
 
 ```blocks3
 when [space v] key pressed
@@ -25,7 +25,7 @@ Prova el teu projecte de nou. Aquest cop, la teva fletxa s'hauria de deixar de m
 
 Anima la teva fletxa de manera que sembli que s'està movent cap a l'objectiu.
 
-![target sprite](images/target-sprite.png)
+![personatge destí](images/target-sprite.png)
 
 ```blocks3
 when [space v] key pressed
@@ -41,15 +41,15 @@ end
 
 Prova el teu joc de nou. Aquest cop, quan premis la barra d’espai, hauries de veure que la teva fletxa es fa més petita, com si anés cap a l’objectiu.
 
-![target with the cross hair on it](images/archery-animate-test.png)
+![objectiu amb el punt de mira a sobre](images/archery-animate-test.png)
 
 \--- /task \---
 
 \--- task \---
 
-Once your arrow is at the target, you can tell the player how many points they have scored. For example, they could score 200 points for hitting the yellow.
+Un cop la teva fletxa estigui a l’objectiu, pots indicar al jugador quants punts ha anotat. Per exemple, podrien aconseguir 200 punts per colpejar el groc.
 
-![target sprite](images/target-sprite.png)
+![personatge destí](images/target-sprite.png)
 
 ```blocks3
 when [space v] key pressed
@@ -66,9 +66,9 @@ end
 
 \--- task \---
 
-You can also play a sound if they hit the yellow.
+També pots reproduir un so si toquen el groc.
 
-![target sprite](images/target-sprite.png)
+![personatge destí](images/target-sprite.png)
 
 ```blocks3
 when [space v] key pressed
@@ -86,9 +86,9 @@ end
 
 \--- task \---
 
-Finally, you need to broadcast the `new arrow`{:class="block3events"} message again to get a new arrow.
+Finalment, heu de tornar a emetre el missatge `nova fletxa`{:class="block3events"} per obtenir una fletxa nova.
 
-![target sprite](images/target-sprite.png)
+![personatge destí](images/target-sprite.png)
 
 ```blocks3
 when [space v] key pressed
