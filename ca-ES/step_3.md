@@ -23,7 +23,7 @@ Prova el teu projecte de nou. Aquest cop, la teva fletxa s'hauria de deixar de m
 
 \--- task \---
 
-Animate your arrow, so that it looks like it's moving towards the target.
+Anima la teva fletxa de manera que sembli que s'està movent cap a l'objectiu.
 
 ![target sprite](images/target-sprite.png)
 
@@ -39,7 +39,7 @@ end
 
 \--- task \---
 
-Test your game again. This time, when you press the space bar you should see your arrow get smaller, as if it's moving towards the target.
+Prova el teu joc de nou. Aquest cop, quan premis la barra d’espai, hauries de veure que la teva fletxa es fa més petita, com si anés cap a l’objectiu.
 
 ![target with the cross hair on it](images/archery-animate-test.png)
 
