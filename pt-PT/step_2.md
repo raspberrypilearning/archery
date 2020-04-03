@@ -62,12 +62,12 @@ Adiciona código à tua flecha para que ela `deslize`{: class = "block3motion"} 
 ![ator alvo](images/target-sprite.png)
 
 ```blocks3
-quando eu receber [nova flecha v]
-vai para x: (-150) y: (-150)
-define o tamanho para (400)%
-+ para sempre
-desliza (0,5) segundos para x: (escolha aleatória (-150) para (150)) y: (escolha aleatória (-150) a (150))
-fim
+when I receive [new arrow v]
+go to x: (-150) y: (-150)
+set size to (400) %
++forever
+glide (0.5) secs to x: (pick random (-150) to (150)) y: (pick random (-150) to (150))
+end
 ```
 
 \--- /task \---
