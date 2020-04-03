@@ -1,8 +1,8 @@
-## What next?
+## 次は何をしましょうか？
 
-Take a look at the [Sprint](https://projects.raspberrypi.org/en/projects/sprint) Scratch project.
+Scratch プロジェクト [100メートル走](https://projects.raspberrypi.org/en/projects/sprint)を見てください。
 
-You are going to learn how to create your own sprint game, in which you have to use the left and right arrow keys to get to the finish line as quickly as you can.
+自分の100メートル走ゲームの作り方を学びます。このゲームでは、できるだけ早くゴールするために左右の矢印キーを使います。
 
 --- no-print ---
 
@@ -15,6 +15,6 @@ You are going to learn how to create your own sprint game, in which you have to 
 
 --- print-only ---
 
-![complete project](images/sprint-final.png)
+![完成したプロジェクト](images/sprint-final.png)
 
 --- /print-only ---
