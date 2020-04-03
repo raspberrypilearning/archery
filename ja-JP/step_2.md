@@ -1,30 +1,30 @@
-## Aiming arrows
+## ねらいをつける
 
-Let's start by creating an arrow that moves around the screen.
+まず、画面内を動く矢を作ります。
 
 \--- task \---
 
-Open the Scratch starter project.
+基本の Scratch プロジェクトを開きます。
 
-**Online**: open the starter project at [rpf.io/archeryon](http://rpf.io/archeryon){:target="_blank"}.
+**オンライン**: [rpf.io/archeryon](http://rpf.io/archeryon){:target="_blank"}から基本のプロジェクトを開きます。
 
-If you have a Scratch account you can make a copy by clicking **Remix**.
+Scratch アカウントを持っている場合、 **リミックス**ボタンをクリックしてプロジェクトをコピーできます。
 
 **Offline**: open the [starter project](http://rpf.io/p/en/archery-go){:target="_blank"} in the offline editor.
 
 If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
 
-In the starter project, you should see a target backdrop and a cross hair sprite.
+基本のプロジェクトには、まとの背景 (はいけい) と十字のスプライトがあります。
 
-![starter projects](images/archery-starter.png)
+![基本のプロジェクト](images/archery-starter.png)
 
 \--- /task \---
 
 \--- task \---
 
-When your game starts, broadcast a message to shoot a new arrow.
+ゲームが始まったら、新しい矢をはなつためにメッセージを送ります。
 
-![target sprite](images/target-sprite.png)
+![矢のスプライト](images/target-sprite.png)
 
 ```blocks3
 when green flag clicked
@@ -35,9 +35,9 @@ broadcast (new arrow v)
 
 \--- task \---
 
-Once this message has been received, set the arrow's position and size.
+このメッセージを受け取ったら、矢の位置 (いち) と大きさを決めます。
 
-![target sprite](images/target-sprite.png)
+![矢のスプライト](images/target-sprite.png)
 
 ```blocks3
 when I receive [new arrow v]
@@ -49,17 +49,17 @@ set size to (400) %
 
 \--- task \---
 
-Click the green flag to test your game. You should see your arrow get bigger and move to the bottom-left of the stage.
+緑の旗をクリックしてゲームをテストします。 矢が大きくなり、ステージの左下に動くはずです。
 
-![larger target sprite in bottom left of stage](images/archery-start-test.png)
+![ステージの左下にある大きな矢のスプライト](images/archery-start-test.png)
 
 \--- /task \---
 
 \--- task \---
 
-Add code to your arrow so that it `glides`{:class="block3motion"} randomly around the stage `forever`{:class="block3control"}.
+矢にコードを入れて、 矢が`ずっと`{:class="block3control"}ランダムに、ステージ上の位置を`変える`{:class="block3motion"}ようにします。
 
-![target sprite](images/target-sprite.png)
+![矢のスプライト](images/target-sprite.png)
 
 ```blocks3
 when I receive [new arrow v]
@@ -74,8 +74,8 @@ end
 
 \--- task \---
 
-Test your game again, and you should see your arrow move randomly around the stage.
+もう一度ゲームをテストすると、矢がステージ上でランダムに動くのがわかります。
 
-![target in a different position](images/archery-glide-test.png)
+![別の位置にある矢](images/archery-glide-test.png)
 
 \--- /task \---
