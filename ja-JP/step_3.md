@@ -1,12 +1,12 @@
-## Shooting arrows
+## 矢をはなつ
 
-Let's code your arrow to shoot when the space bar is pressed.
+スペースバーがおされたときに、矢がはなたれるようにコードを入れましょう。
 
 \--- task \---
 
-Stop the other script (the one moving the arrow) when the space bar is pressed.
+スペースバーがおされたとき、他のスクリプト（矢を動かすスクリプト）を止めます。
 
-![target sprite](images/target-sprite.png)
+![矢のスプライト](images/target-sprite.png)
 
 ```blocks3
 when [space v] key pressed
@@ -17,15 +17,15 @@ stop [other scripts in sprite v]
 
 \--- task \---
 
-Test your project again. This time, your arrow should stop moving **when the space bar is pressed**.
+もう一度テストしてみましょう。 今度は、**スペースバーがおされたとき**、矢の動きが止まるはずです。
 
 \--- /task \---
 
 \--- task \---
 
-Animate your arrow, so that it looks like it's moving towards the target.
+矢をアニメーションして、まとに向かって動いているように見せます。
 
-![target sprite](images/target-sprite.png)
+![矢のスプライト](images/target-sprite.png)
 
 ```blocks3
 when [space v] key pressed
@@ -39,17 +39,17 @@ end
 
 \--- task \---
 
-Test your game again. This time, when you press the space bar you should see your arrow get smaller, as if it's moving towards the target.
+もう一度ゲームをテストします。 今度は、スペースバーをおすと矢が小さくなっていき、まとに向かって動いているように見えるはずです。
 
-![target with the cross hair on it](images/archery-animate-test.png)
+![的の上に十字](images/archery-animate-test.png)
 
 \--- /task \---
 
 \--- task \---
 
-Once your arrow is at the target, you can tell the player how many points they have scored. For example, they could score 200 points for hitting the yellow.
+矢がまとにあたると、取った点数をプレイヤーに教えることができます。 たとえば、黄色にあてると200点をとることができます。
 
-![target sprite](images/target-sprite.png)
+![矢のスプライト](images/target-sprite.png)
 
 ```blocks3
 when [space v] key pressed
@@ -66,9 +66,9 @@ end
 
 \--- task \---
 
-You can also play a sound if they hit the yellow.
+黄色にあてると音を出すこともできます。
 
-![target sprite](images/target-sprite.png)
+![矢のスプライト](images/target-sprite.png)
 
 ```blocks3
 when [space v] key pressed
@@ -86,9 +86,9 @@ end
 
 \--- task \---
 
-Finally, you need to broadcast the `new arrow`{:class="block3events"} message again to get a new arrow.
+さいごに、新しい矢を取得 (しゅとく) するには、また`新しい矢`{:class="block3events"}メッセージを送る必要があります。
 
-![target sprite](images/target-sprite.png)
+![矢のスプライト](images/target-sprite.png)
 
 ```blocks3
 when [space v] key pressed
