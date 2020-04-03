@@ -6,13 +6,13 @@ This is the **Scratch 3** version of the project. There is also a [Scratch 2 ver
 
 ## Introduction
 
-You are going to learn how to create an archery game, in which you have to shoot arrows as close to the bullseye as you can.
+이 프로젝트에서는 양궁 게임을 만드는 방법을 배웁니다. 과녁 중앙에 최대한 가깝게 화살을 쏴야 합니다.
 
 ### What you will make
 
 \--- no-print \---
 
-Click on the green flag to start. Use the space bar to shoot an arrow
+시작하려면 녹색 깃발을 클릭하십시오. 스페이스 바를 사용하여 화살을 쏠 수 있습니다.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/114760038/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -29,27 +29,27 @@ Click on the green flag to start. Use the space bar to shoot an arrow
 
 ## \--- collapse \---
 
-## title: What you will need
+## title: 준비물
 
-### Hardware
+### 하드웨어
 
-+ A computer capable of running Scratch
++ 스크래치를 실행할 수 있는 컴퓨터
 
-### Software
+### 소프트웨어
 
-+ Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
++ 스크래치 3 ( [온라인](http://rpf.io/scratchon){:target="_ blank"} 또는 [offline](http://rpf.io/scratchoff){:target="_ blank"})
 
-### Downloads
+### 다운로드
 
-The starter project can be found [here](http://rpf.io/p/en/archery-go){:target="_blank"}.
+스타터 프로젝트는 [여기](http://rpf.io/p/en/archery-go){:target="_blank"}를 클릭하면 열 수 있습니다.
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: What you will learn
+## title: 이런 것들을 배우게 됩니다.
 
-+ Use animations 
++ 애니메이션 사용 
 + Use broadcasts
 + Use random numbers
 
