@@ -1,5 +1,5 @@
-## Challenge: Different scores
+## Repte: diferents puntuacions
 
-Can you add code to your game, so that you get a different score for hitting different parts of the target?
+Pots afegir codi al teu joc per aconseguir diferent puntuació per colpejar diferents parts de l'objectiu?
 
-![cross hair on the blue part of the target with the phrase 100 points](images/archery-challenge.png)
+![punt de mira a la part blava de l’objectiu amb la frase 100 punts](images/archery-challenge.png)
