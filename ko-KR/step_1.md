@@ -1,6 +1,6 @@
 \--- no-print \---
 
-This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/archery-scratch2).
+이 프로젝트는 **스크래치 3** 버전입니다. [스크래치 2 버전의 프로젝트](https://projects.raspberrypi.org/en/projects/archery-scratch2)도 있습니다.
 
 \--- /no-print \---
 
@@ -50,7 +50,7 @@ This is the **Scratch 3** version of the project. There is also a [Scratch 2 ver
 ## title: 이런 것들을 배우게 됩니다.
 
 + 애니메이션 사용 
-+ Use broadcasts
++ 신호 보내기 사용
 + 난수 사용
 
 \--- /collapse \---
