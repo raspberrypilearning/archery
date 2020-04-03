@@ -62,12 +62,12 @@ Dodaj pętlę `zawsze`{: class = "block3control"} do kodu celownika. W pętli po
 ![celownik](images/target-sprite.png)
 
 ```blocks3
-kiedy otrzymam [nowa strzała v]
-idź do x: (-150) y: (-150)
-ustaw rozmiar na (400)%
-+zawsze
-leć przez (0,5) sekund do x: (losuj liczbę od (-150) do (150)) y: (losuj liczbę od (-150) do (150))
-koniec
+when I receive [new arrow v]
+go to x: (-150) y: (-150)
+set size to (400) %
++forever
+glide (0.5) secs to x: (pick random (-150) to (150)) y: (pick random (-150) to (150))
+end
 ```
 
 \--- /task \---
