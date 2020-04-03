@@ -1,6 +1,6 @@
 \--- no-print \---
 
-이 프로젝트는 **스크래치 3** 버전입니다. [스크래치 2 버전의 프로젝트](https://projects.raspberrypi.org/en/projects/archery-scratch2)도 있습니다.
+이 프로젝트의 **스크래치 3** 버전입니다. [프로젝트의 스크래치 2 버전](https://projects.raspberrypi.org/en/projects/archery-scratch2)도 있습니다.
 
 \--- /no-print \---
 
