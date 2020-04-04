@@ -1,20 +1,20 @@
-## Aiming arrows
+## Наведение стрел
 
-Let's start by creating an arrow that moves around the screen.
+Давай начнём с создания стрелы, которая перемещается по экрану.
 
 \--- task \---
 
-Open the Scratch starter project.
+Открой стартовый проект Scratch.
 
-**Online**: open the starter project at [rpf.io/archeryon](http://rpf.io/archeryon){:target="_blank"}.
+**Онлайн**: открой стартовый проект по адресу [rpf.io/archeryon](http://rpf.io/archeryon){:target="_blank"}.
 
-If you have a Scratch account you can make a copy by clicking **Remix**.
+Если у тебя есть учётная запись в Scratch, то ты можешь сделать копию проекта, нажав **Ремикс**.
 
-**Offline**: open the [starter project](http://rpf.io/p/en/archery-go){:target="_blank"} in the offline editor.
+**Оффлайн**: открой [стартовый проект](http://rpf.io/p/en/archery-go){:target="_blank"} в оффлайн редакторе.
 
-If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+Если тебе нужно скачать и установить оффлайн редактор Scratch, ты можешь найти его по адресу [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
 
-In the starter project, you should see a target backdrop and a cross hair sprite.
+В стартовом проекте ты должен увидеть фон в виде мишени и спрайт с перекрестием.
 
 ![starter projects](images/archery-starter.png)
 
@@ -22,34 +22,34 @@ In the starter project, you should see a target backdrop and a cross hair sprite
 
 \--- task \---
 
-When your game starts, broadcast a message to shoot a new arrow.
+Когда твоя игра начнётся, отправь сообщение, чтобы выстрелить новой стрелой.
 
 ![target sprite](images/target-sprite.png)
 
 ```blocks3
-when green flag clicked
-broadcast (new arrow v)
+когда щёлкнут по зелёному флагу
+передать (новая стрела v)
 ```
 
 \--- /task \---
 
 \--- task \---
 
-Once this message has been received, set the arrow's position and size.
+Как только это сообщение будет получено, задай позицию и размер стрелы.
 
 ![target sprite](images/target-sprite.png)
 
 ```blocks3
-when I receive [new arrow v]
-go to x: (-150) y: (-150)
-set size to (400) %
+когда я получу [новая стрела v]
+перейти в x: (-150) y: (-150)
+установить размер (400) %
 ```
 
 \--- /task \---
 
 \--- task \---
 
-Click the green flag to test your game. You should see your arrow get bigger and move to the bottom-left of the stage.
+Нажми на зелёный флаг, чтобы проверить свою игру. Ты должен увидеть, как твоя стрела стала больше и переместилась в нижний левый угол сцены.
 
 ![larger target sprite in bottom left of stage](images/archery-start-test.png)
 
