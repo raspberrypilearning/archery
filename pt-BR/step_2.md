@@ -27,8 +27,8 @@ Quando o jogo começar, transmita uma mensagem para disparar uma nova flecha.
 ![ator mira](images/target-sprite.png)
 
 ```blocks3
-quando bandeira verde for clicado
-transmita(new flecha v)
+when green flag clicked
+broadcast (new arrow v)
 ```
 
 \--- /task \---
@@ -40,9 +40,9 @@ Depois que essa mensagem for recebida, defina a posição e o tamanho da seta.
 ![ator mira](images/target-sprite.png)
 
 ```blocks3
-quando eu receber [nova flecha v]
-vá para x: (-150) y: (-150)
-defina o tamanho como (400) %
+when I receive [new arrow v]
+go to x: (-150) y: (-150)
+set size to (400) %
 ```
 
 \--- /task \---
@@ -62,12 +62,12 @@ Adicione código para que sua mira `deslize`{: class = "block3motion"} aleatoria
 ![ator mira](images/target-sprite.png)
 
 ```blocks3
-quando eu receber [nova flecha v]
-vá para x: (-150) y: (-150)
-defina o tamanho para (400)%
-+sempre
-deslize por (0,5) segs. até x: (número aleatório entre (-150) e(150)) y: (número aleatório entre (-150) e (150))
-fim
+when I receive [new arrow v]
+go to x: (-150) y: (-150)
+set size to (400) %
++forever
+glide (0.5) secs to x: (pick random (-150) to (150)) y: (pick random (-150) to (150))
+end
 ```
 
 \--- /task \---
