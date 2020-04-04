@@ -1,8 +1,8 @@
-## What next?
+## Что дальше?
 
-Take a look at the [Sprint](https://projects.raspberrypi.org/en/projects/sprint) Scratch project.
+Взгляни на проект Scratch [Спринт](https://projects.raspberrypi.org/en/projects/sprint).
 
-You are going to learn how to create your own sprint game, in which you have to use the left and right arrow keys to get to the finish line as quickly as you can.
+Ты узнаешь, как создать свою собственную спринт-игру, в которой тебе нужно использовать клавиши со стрелками влево и вправо, чтобы добраться до финиша как можно быстрее.
 
 --- no-print ---
 
@@ -15,6 +15,6 @@ You are going to learn how to create your own sprint game, in which you have to 
 
 --- print-only ---
 
-![complete project](images/sprint-final.png)
+![завершённый проект](images/sprint-final.png)
 
 --- /print-only ---
