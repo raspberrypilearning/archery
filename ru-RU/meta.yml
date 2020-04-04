@@ -2,19 +2,19 @@
 hero_image: images/banner.png
 listed: true
 copyedit: false
-title: Archery
-description: Shoot arrows as close to the bullseye as you can.
+title: Стрельба из лука —
+description: Стрелять стрелами как можно ближе в яблочко.
 version: 4
 last_tested: 2019-04-18
 steps:
   - 
-    title: Introduction
+    title: Введение
   - 
-    title: Aiming arrows
+    title: Наведение стрел
   - 
-    title: Shooting arrows
+    title: Стрельба стрелами
   - 
-    title: 'Challenge: Different scores'
+    title: 'Задача: разное количество очков'
     challenge: true
   - 
-    title: 'What next?'
+    title: 'Что дальше?'
