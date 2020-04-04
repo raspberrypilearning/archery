@@ -8,7 +8,7 @@ Abra o projeto inicial do Scratch.
 
 **Online**: abra o projeto inicial em [rpf.io/archeryon](http://rpf.io/archeryon){:target="_blank"}.
 
-Se você tiver uma conta do Scratch, pode fazer uma cópia clicando em **Remisturar**.
+Se você tiver uma conta do Scratch, pode fazer uma cópia clicando em **Remix**.
 
 **Offline**: abra o [projeto inicial](http://rpf.io/p/en/archery-go){:target="_ blank"} no editor offline.
 
@@ -24,11 +24,11 @@ No projeto inicial, você verá um cenário de alvo e um ator de mira.
 
 Quando o jogo começar, transmita uma mensagem para disparar uma nova flecha.
 
-![ator alvo](images/target-sprite.png)
+![ator mira](images/target-sprite.png)
 
 ```blocks3
 quando bandeira verde for clicado
-transmita(new arrow v)
+transmita(new flecha v)
 ```
 
 \--- /task \---
@@ -37,10 +37,10 @@ transmita(new arrow v)
 
 Depois que essa mensagem for recebida, defina a posição e o tamanho da seta.
 
-![ator alvo](images/target-sprite.png)
+![ator mira](images/target-sprite.png)
 
 ```blocks3
-quando eu receber [new arrow v]
+quando eu receber [nova flecha v]
 vá para x: (-150) y: (-150)
 defina o tamanho como (400) %
 ```
@@ -51,7 +51,7 @@ defina o tamanho como (400) %
 
 Clique na bandeira verde para testar seu jogo. Você deve ver se sua mira irá aumentar e se mover para o canto inferior esquerdo do palco.
 
-![ator alvo maior no canto inferior esquerdo do palco](images/archery-start-test.png)
+![ator mira maior no canto inferior esquerdo do palco](images/archery-start-test.png)
 
 \--- /task \---
 
@@ -59,10 +59,10 @@ Clique na bandeira verde para testar seu jogo. Você deve ver se sua mira irá a
 
 Adicione código para que sua mira `deslize`{: class = "block3motion"} aleatoriamente pelo palco `para sempre`{: class = "block3control"}.
 
-![sprite alvo](images/target-sprite.png)
+![ator mira](images/target-sprite.png)
 
 ```blocks3
-quando eu receber [new arrow v]
+quando eu receber [nova flecha v]
 vá para x: (-150) y: (-150)
 defina o tamanho para (400)%
 +sempre
@@ -76,6 +76,6 @@ fim
 
 Teste seu jogo novamente e você verá sua mira se movendo aleatoriamente pelo palco.
 
-![alvo em uma posição diferente](images/archery-glide-test.png)
+![mira em uma posição diferente](images/archery-glide-test.png)
 
 \--- /task \---
