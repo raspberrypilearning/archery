@@ -2,7 +2,7 @@
 
 Es tracta de la versió **Scratch 3** del projecte. També hi ha una [versió de Scratch 2 del projecte](https://projects.raspberrypi.org/en/projects/archery-scratch2).
 
---- / no-print ---
+--- /no-print ---
 
 ## Introducció
 
@@ -19,13 +19,13 @@ Fes clic a la bandera verda per començar. Utilitza la barra d’espai per dispa
   <img src="images/archery-final.png">
 </div>
 
---- / no-print ---
+--- /no-print ---
 
 --- print-only ---
 
 ![projecte acabat](images/archery-final.png)
 
---- / print-only ---
+--- /print-only ---
 
 --- collapse ---
 ---
