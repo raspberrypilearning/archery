@@ -1,4 +1,4 @@
-## Atirando flechas
+## Atirando as flechas
 
 Vamos codificar sua mira para atirar quando a barra de espaço for pressionada.
 
@@ -6,10 +6,10 @@ Vamos codificar sua mira para atirar quando a barra de espaço for pressionada.
 
 Pare o outro script (aquele que move a seta) quando a barra de espaço é pressionada.
 
-![ator arrow](images/target-sprite.png)
+![ator mira](images/target-sprite.png)
 
 ```blocks3
-quando a tecla [espaçov] for pressionada
+quando a tecla [espaço v] for pressionada
 pare [outros scripts no ator v]
 ```
 
@@ -25,10 +25,10 @@ Teste o seu projeto novamente. Desta vez, sua mira deve parar de se mover **quan
 
 Anime sua mira para que pareça estar se movendo em direção ao alvo.
 
-![ator arrow](images/target-sprite.png)
+![ator mira](images/target-sprite.png)
 
 ```blocks3
-quando a tecla [espaçov] for pressionada
+quando a tecla [espaço v] for pressionada
 pare [outros scripts no ator v]
 +repita (50) vezes
 mude (-10) no tamanho
@@ -49,10 +49,10 @@ Teste seu jogo novamente. Desta vez, quando você pressiona a barra de espaço, 
 
 Quando sua mira estiver no alvo, você pode dizer ao jogador quantos pontos ele marcou. Por exemplo, eles poderiam marcar 200 pontos por acertar no amarelo.
 
-![ator arrow](images/target-sprite.png)
+![ator mira](images/target-sprite.png)
 
 ```blocks3
-quando a tecla [espaçov] for pressionada
+quando a tecla [espaço v] for pressionada
 pare [outros scripts no ator v]
 +repita (50) vezes
 mude (-10) no tamanho
@@ -68,10 +68,10 @@ fim
 
 Você também pode tocar um som se eles acertarem no amarelo.
 
-![ator arrow](images/target-sprite.png)
+![ator mira](images/target-sprite.png)
 
 ```blocks3
-quando a tecla [espaçov] for pressionada
+quando a tecla [espaço v] for pressionada
 pare [outros scripts no ator v]
 +repita (50) vezes
 mude (-10) no tamanho
@@ -86,21 +86,21 @@ fim
 
 \--- task \---
 
-Por fim, você precisa transmitir novamente a mensagem `new arrow`{: class = "block3events"} para obter uma nova seta.
+Por fim, você precisa transmitir novamente a mensagem `nova flecha`{:class="block3events"} para obter uma nova flecha.
 
-![ator arrow](images/target-sprite.png)
+![ator mira](images/target-sprite.png)
 
 ```blocks3
-when [space v] key pressed
-stop [other scripts in sprite v]
-repeat (50)
-change size by (-10)
-end
-if <touching color (#ffff00) ?> then
-start sound (cheer v)
-say [200 points] for (2) seconds
-end
-+broadcast (new arrow v)
+quando a tecla [espaço v] for pressionada
+pare [outros scripts no ator v]
++repita (50) vezes
+mude (-10) no tamanho
+fim
+se <tocando na cor (amarelo)?> então
+toque o som (cheer v)
+diga (200 pontos) por (2) segundos 
+fim
++transmita (nova flecha v)
 ```
 
 \--- /task \---
