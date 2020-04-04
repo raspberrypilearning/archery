@@ -59,23 +59,23 @@ Haz clic en la bandera verde para probar tu juego. Deberías ver que tu flecha s
 
 Añade código a tu flecha para que `se deslice`{:class="block3motion"} al azar por el escenario `por siempre`{:class="block3control"}.
 
-![target sprite](images/target-sprite.png)
+![objeto blanco](images/target-sprite.png)
 
 ```blocks3
-when I receive [new arrow v]
-go to x: (-150) y: (-150)
-set size to (400) %
-+forever
-glide (0.5) secs to x: (pick random (-150) to (150)) y: (pick random (-150) to (150))
-end
+al recibir [nueva flecha v]
+ir a x: (-150) y: (-150)
+fijar tamaño a (400) %
++por siempre
+deslizar (0.5) segs a x: (número al azar (-150) a (150)) y: (número al azar (-150) a (150))
+fin
 ```
 
 \--- /task \---
 
 \--- task \---
 
-Test your game again, and you should see your arrow move randomly around the stage.
+Vuelve a probar tu juego y verás que tu flecha se mueve aleatoriamente por el escenario.
 
-![target in a different position](images/archery-glide-test.png)
+![objetivo en una posición diferente](images/archery-glide-test.png)
 
 \--- /task \---
