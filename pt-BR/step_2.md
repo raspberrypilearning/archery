@@ -35,21 +35,21 @@ transmita(new arrow v)
 
 \--- task \---
 
-Once this message has been received, set the arrow's position and size.
+Depois que essa mensagem for recebida, defina a posição e o tamanho da seta.
 
 ![ator alvo](images/target-sprite.png)
 
 ```blocks3
-when I receive [new arrow v]
-go to x: (-150) y: (-150)
-set size to (400) %
+quando eu receber [new arrow v]
+vá para x: (-150) y: (-150)
+defina o tamanho como (400) %
 ```
 
 \--- /task \---
 
 \--- task \---
 
-Click the green flag to test your game. You should see your arrow get bigger and move to the bottom-left of the stage.
+Clique na bandeira verde para testar seu jogo. Você deve ver se sua mira irá aumentar e se mover para o canto inferior esquerdo do palco.
 
 ![ator alvo maior no canto inferior esquerdo do palco](images/archery-start-test.png)
 
@@ -57,24 +57,24 @@ Click the green flag to test your game. You should see your arrow get bigger and
 
 \--- task \---
 
-Add code to your arrow so that it `glides`{:class="block3motion"} randomly around the stage `forever`{:class="block3control"}.
+Adicione código para que sua mira `deslize`{: class = "block3motion"} aleatoriamente pelo palco `para sempre`{: class = "block3control"}.
 
 ![sprite alvo](images/target-sprite.png)
 
 ```blocks3
-when I receive [new arrow v]
-go to x: (-150) y: (-150)
-set size to (400) %
-+forever
-glide (0.5) secs to x: (pick random (-150) to (150)) y: (pick random (-150) to (150))
-end
+quando eu receber [new arrow v]
+vá para x: (-150) y: (-150)
+defina o tamanho para (400)%
++sempre
+deslize por (0,5) segs. até x: (número aleatório entre (-150) e(150)) y: (número aleatório entre (-150) e (150))
+fim
 ```
 
 \--- /task \---
 
 \--- task \---
 
-Test your game again, and you should see your arrow move randomly around the stage.
+Teste seu jogo novamente e você verá sua mira se movendo aleatoriamente pelo palco.
 
 ![alvo em uma posição diferente](images/archery-glide-test.png)
 
