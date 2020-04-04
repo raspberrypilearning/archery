@@ -27,8 +27,8 @@
 ![спрайт мишень](images/target-sprite.png)
 
 ```blocks3
-когда щёлкнут по зелёному флагу
-передать (новая стрела v)
+when green flag clicked
+broadcast (new arrow v)
 ```
 
 \--- /task \---
@@ -40,9 +40,9 @@
 ![спрайт мишень](images/target-sprite.png)
 
 ```blocks3
-когда я получу [новая стрела v]
-перейти в x: (-150) y: (-150)
-установить размер (400) %
+when I receive [new arrow v]
+go to x: (-150) y: (-150)
+set size to (400) %
 ```
 
 \--- /task \---
@@ -62,11 +62,11 @@
 ![спрайт мишень](images/target-sprite.png)
 
 ```blocks3
-когда я получу [новая стрела v]
-перейти в x: (-150) y: (-150)
-установить размер (400) %
-+повторять всегда 
-плыть (0.5) секунд в точку x: (выдать случайное от (-150) до (150)) y: (выдать случайное от (-150) до (150))
+when I receive [new arrow v]
+go to x: (-150) y: (-150)
+set size to (400) %
++forever
+glide (0.5) secs to x: (pick random (-150) to (150)) y: (pick random (-150) to (150))
 end
 ```
 
