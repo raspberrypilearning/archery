@@ -1,10 +1,10 @@
 ## Стрільба
 
-Let's code your arrow to shoot when the space bar is pressed.
+Давай напишемо код для стріли, щоб стріляти, коли натискається клавіша пробіл.
 
 \--- task \---
 
-Stop the other script (the one moving the arrow) when the space bar is pressed.
+Зупини інший скрипт (той, що рухає стрілу), коли натискається клавіша пробіл.
 
 ![target sprite](images/target-sprite.png)
 
