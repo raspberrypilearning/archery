@@ -1,18 +1,18 @@
 \--- no-print \---
 
-This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/archery-scratch2).
+Це — версія проєкту для **Скретч 3**. Також існує [версія проєкту для Скретч 2](https://projects.raspberrypi.org/en/projects/archery-scratch2).
 
 \--- /no-print \---
 
-## Introduction
+## Вступ
 
-You are going to learn how to create an archery game, in which you have to shoot arrows as close to the bullseye as you can.
+Ти дізнаєшся як створити гру для стрільби з лука, в якій треба влучати стрілами якомога ближче до цілі.
 
-### What you will make
+### Що ти зробиш
 
 \--- no-print \---
 
-Click on the green flag to start. Use the space bar to shoot an arrow
+Натисни на зелений прапор для запуску. Використовуй пробіл, щоб стріляти
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/114760038/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -23,48 +23,48 @@ Click on the green flag to start. Use the space bar to shoot an arrow
 
 \--- print-only \---
 
-![complete project](images/archery-final.png)
+![завершений проєкт](images/archery-final.png)
 
 \--- /print-only \---
 
 ## \--- collapse \---
 
-## title: What you will need
+## title: Що тобі знадобиться
 
-### Hardware
+### Обладнання
 
-+ A computer capable of running Scratch
++ Комп'ютер, що підтримує Скретч
 
-### Software
+### Програмне забезпечення
 
-+ Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
++ Скретч 3 (або [онлайн](http://rpf.io/scratchon){:target="_ blank"}, або [офлайн](http://rpf.io/scratchoff){:target="_ blank"})
 
-### Downloads
+### Завантаження
 
-The starter project can be found [here](http://rpf.io/p/en/archery-go){:target="_blank"}.
-
-\--- /collapse \---
-
-## \--- collapse \---
-
-## title: What you will learn
-
-+ Use animations 
-+ Use broadcasts
-+ Use random numbers
+Початковий шаблон проєкта можна знайти [тут](http://rpf.io/p/en/archery-go){:target="_ blank"}.
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Additional information for educators
+## title: Чого ти навчишся
+
++ Використовувати анімацію 
++ Використовувати повідомлення
++ Використовувати випадкові числа
+
+-- /collapse \---
+
+## \--- collapse \---
+
+## title: Додаткова інформація для викладачів
 
 \--- no-print \---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/archery/print){:target="_blank"}.
+Якщо вам потрібно роздрукувати цей проєкт, будь ласка, скористайтеся [версією для друку](https://projects.raspberrypi.org/en/projects/archery/print){:target="_blank"}.
 
 \--- /no-print \---
 
-You can find the [completed project here](http://rpf.io/p/en/archery-get){:target="_blank"}.
+Ви можете знайти [завершений проєкт тут](http://rpf.io/p/en/archery-get){:target="_ blank"}.
 
 \--- /collapse \---
