@@ -1,18 +1,18 @@
 \--- no-print \---
 
-This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/archery-scratch2).
+Esta es la versión **Scratch 3** del proyecto. También hay una [versión del proyecto en Scratch 2](https://projects.raspberrypi.org/en/projects/archery-scratch2).
 
 \--- /no-print \---
 
-## Introduction
+## Introducción
 
-You are going to learn how to create an archery game, in which you have to shoot arrows as close to the bullseye as you can.
+Aprenderás a crear un juego de tiro con arco, en el que debes disparar flechas lo más cerca posible del blanco de la diana.
 
-### What you will make
+### Lo que harás
 
 \--- no-print \---
 
-Click on the green flag to start. Use the space bar to shoot an arrow
+Haz clic en la bandera verde para empezar. Usa la barra espaciadora para disparar una flecha
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/114760038/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -23,48 +23,48 @@ Click on the green flag to start. Use the space bar to shoot an arrow
 
 \--- print-only \---
 
-![complete project](images/archery-final.png)
+![proyecto completo](images/archery-final.png)
 
 \--- /print-only \---
 
 ## \--- collapse \---
 
-## title: What you will need
+## title: Lo que necesitarás
 
-### Hardware
+### Equipo
 
-+ A computer capable of running Scratch
++ Una computadora capaz de ejecutar Scratch
 
-### Software
+### Programas
 
-+ Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
++ Scratch 3 (ya sea [en línea](http://rpf.io/scratchon){:target="_blank"} o [sin conexión](http://rpf.io/scratchoff) {:target="_blank"})
 
-### Downloads
+### Descargas
 
-The starter project can be found [here](http://rpf.io/p/en/archery-go){:target="_blank"}.
-
-\--- /collapse \---
-
-## \--- collapse \---
-
-## title: What you will learn
-
-+ Use animations 
-+ Use broadcasts
-+ Use random numbers
+Puedes encontrar el proyecto inicial [aquí](http://rpf.io/p/en/archery-go){:target="_blank"}.
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Additional information for educators
+## title: Lo que aprenderás
+
++ Usar animaciones 
++ Usar transmisiones
++ Usar números aleatorios
+
+\--- /collapse \---
+
+## \--- collapse \---
+
+## title: Información adicional para educadores
 
 \--- no-print \---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/archery/print){:target="_blank"}.
+Si necesitas imprimir este proyecto, usa la [versión para imprimir](https://projects.raspberrypi.org/en/projects/archery/print){:target="_blank"}.
 
 \--- /no-print \---
 
-You can find the [completed project here](http://rpf.io/p/en/archery-get){:target="_blank"}.
+Puedes encontrar el [ proyecto completo aquí ](http://rpf.io/p/en/archery-get){:target="_blank"}.
 
 \--- /collapse \---
