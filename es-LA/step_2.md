@@ -24,7 +24,7 @@ En el proyecto inicial, deberías ver un fondo con una diana y un objeto en form
 
 Cuando comience el juego, transmite un mensaje para disparar una nueva flecha.
 
-![target sprite](images/target-sprite.png)
+![objeto blanco](images/target-sprite.png)
 
 ```blocks3
 when green flag clicked
@@ -35,9 +35,9 @@ broadcast (new arrow v)
 
 \--- task \---
 
-Once this message has been received, set the arrow's position and size.
+Una vez recibido este mensaje, configura la posición y el tamaño de la flecha.
 
-![target sprite](images/target-sprite.png)
+![objeto blanco](images/target-sprite.png)
 
 ```blocks3
 when I receive [new arrow v]
@@ -49,15 +49,15 @@ set size to (400) %
 
 \--- task \---
 
-Click the green flag to test your game. You should see your arrow get bigger and move to the bottom-left of the stage.
+Haz clic en la bandera verde para probar tu juego. Deberías ver que tu flecha se agranda y se mueve hacia la esquina inferior izquierda del escenario.
 
-![larger target sprite in bottom left of stage](images/archery-start-test.png)
+![objeto blanco más grande en la parte inferior izquierda del escenario](images/archery-start-test.png)
 
 \--- /task \---
 
 \--- task \---
 
-Add code to your arrow so that it `glides`{:class="block3motion"} randomly around the stage `forever`{:class="block3control"}.
+Añade código a tu flecha para que `se deslice`{:class="block3motion"} al azar por el escenario `por siempre`{:class="block3control"}.
 
 ![target sprite](images/target-sprite.png)
 
