@@ -29,39 +29,39 @@
 
 ## \--- collapse \---
 
-## title: What you will need
+## title: Что тебе понадобится
 
-### Hardware
+### Оборудование
 
-+ A computer capable of running Scratch
++ Компьютер, способный запускать Scratch
 
-### Software
+### Программное обеспечение
 
-+ Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
++ Scratch 3 (либо [онлайн-редактор](http://rpf.io/scratchon){:target="_blank"}, либо [автономный редактор (без подключения к Интернету)](http://rpf.io/scratchoff){:target="_blank"})
 
-### Downloads
+### Загрузки
 
-The starter project can be found [here](http://rpf.io/p/en/archery-go){:target="_blank"}.
-
-\--- /collapse \---
-
-## \--- collapse \---
-
-## title: What you will learn
-
-+ Use animations 
-+ Use broadcasts
-+ Use random numbers
+Начальный проект можно найти [здесь](http://rpf.io/p/en/archery-go){:target="_blank"}.
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Additional information for educators
+## title: Чему ты научишься
+
++ Использовать анимацию 
++ Использовать передачу сообщений
++ Использовать случайные числа
+
+\--- /collapse \---
+
+## \--- collapse \---
+
+## title: Дополнительная информация для преподавателей
 
 \--- no-print \---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/archery/print){:target="_blank"}.
+Если вы хотите распечатать этот проект, то воспользуйтесь [версией для печати](https://projects.raspberrypi.org/en/projects/archery/print){:target="_blank"}.
 
 \--- /no-print \---
 
