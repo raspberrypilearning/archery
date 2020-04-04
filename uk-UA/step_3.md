@@ -1,4 +1,4 @@
-## Shooting arrows
+## Стрільба
 
 Let's code your arrow to shoot when the space bar is pressed.
 
