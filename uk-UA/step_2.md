@@ -24,7 +24,7 @@
 
 Коли твоя гра починається, оповісти повідомленням, що нова стріла випущена.
 
-![target sprite](images/target-sprite.png)
+![спрайт приціла](images/target-sprite.png)
 
 ```blocks3
 when green flag clicked
@@ -37,7 +37,7 @@ broadcast (new arrow v)
 
 Після отримання цього повідомлення задай положення та розмір стріли.
 
-![target sprite](images/target-sprite.png)
+![спрайт приціла](images/target-sprite.png)
 
 ```blocks3
 when I receive [new arrow v]
@@ -51,7 +51,7 @@ set size to (400) %
 
 Натисни на зелений прапор, щоб перевірити свою гру. Ти маєш побачити, як стріла збільшилася, і перемістилася в нижню ліву частину сцени.
 
-![larger target sprite in bottom left of stage](images/archery-start-test.png)
+![більший спрайт приціла у лівій нижній частині сцени](images/archery-start-test.png)
 
 \--- /task \---
 
@@ -59,7 +59,7 @@ set size to (400) %
 
 Додай код до стріли, щоб вона навмання `ковзала`{:class="block3motion"} по сцені `завжди`{:class="block3control"}.
 
-![target sprite](images/target-sprite.png)
+![спрайт приціла](images/target-sprite.png)
 
 ```blocks3
 when I receive [new arrow v]
@@ -76,6 +76,6 @@ end
 
 Перевір свою гру ще раз, і ти маєш побачити, як стріла рухається випадковим чином по сцені.
 
-![target in a different position](images/archery-glide-test.png)
+![приціл в іншій позиції](images/archery-glide-test.png)
 
 \--- /task \---
