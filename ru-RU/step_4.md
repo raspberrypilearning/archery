@@ -1,5 +1,5 @@
-## Challenge: Different scores
+## Задача: разное количество очков
 
-Can you add code to your game, so that you get a different score for hitting different parts of the target?
+Можешь ли ты добавить код в свою игру, чтобы получить разное колчество очков за попадание в разные части мишени?
 
-![cross hair on the blue part of the target with the phrase 100 points](images/archery-challenge.png)
+![перекрестие на синей части мишени со словами 100 баллов](images/archery-challenge.png)
