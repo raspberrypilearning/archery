@@ -1,20 +1,20 @@
-## Aiming arrows
+## Прицілювання
 
-Let's start by creating an arrow that moves around the screen.
+Почнемо зі створення стріли, яка рухається по екрану.
 
 \--- task \---
 
-Open the Scratch starter project.
+Відкрий початковий проєкт у Скретч.
 
-**Online**: open the starter project at [rpf.io/archeryon](http://rpf.io/archeryon){:target="_blank"}.
+**Онлайн**: відкрий початковий проєкт на [rpf.io/archeryon](http://rpf.io/archeryon){:target="_ blank"}.
 
-If you have a Scratch account you can make a copy by clicking **Remix**.
+Якщо у тебе є обліковий запис Скретч, то ти можеш зробити копію проєкту, натиснувши **Ремікс**.
 
-**Offline**: open the [starter project](http://rpf.io/p/en/archery-go){:target="_blank"} in the offline editor.
+**Офлайн**: відкрий [початковий проєкт](http://rpf.io/p/en/archery-go){:target="_blank"} в офлайн-редакторі.
 
-If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+Якщо тобі треба завантажити та встановити офлайн-редактор Скретч, то ти можеш його знайти на [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
 
-In the starter project, you should see a target backdrop and a cross hair sprite.
+У початковому проєкті ти маєш бачити тло із мішенню та спрайт для приціла.
 
 ![starter projects](images/archery-starter.png)
 
@@ -22,7 +22,7 @@ In the starter project, you should see a target backdrop and a cross hair sprite
 
 \--- task \---
 
-When your game starts, broadcast a message to shoot a new arrow.
+Коли твоя гра починається, оповісти повідомленням, що нова стріла випущена.
 
 ![target sprite](images/target-sprite.png)
 
@@ -35,7 +35,7 @@ broadcast (new arrow v)
 
 \--- task \---
 
-Once this message has been received, set the arrow's position and size.
+Після отримання цього повідомлення задай положення та розмір стріли.
 
 ![target sprite](images/target-sprite.png)
 
@@ -49,7 +49,7 @@ set size to (400) %
 
 \--- task \---
 
-Click the green flag to test your game. You should see your arrow get bigger and move to the bottom-left of the stage.
+Натисни на зелений прапор, щоб перевірити свою гру. Ти маєш побачити, як стріла збільшилася, і перемістилася в нижню ліву частину сцени.
 
 ![larger target sprite in bottom left of stage](images/archery-start-test.png)
 
@@ -57,7 +57,7 @@ Click the green flag to test your game. You should see your arrow get bigger and
 
 \--- task \---
 
-Add code to your arrow so that it `glides`{:class="block3motion"} randomly around the stage `forever`{:class="block3control"}.
+Додай код до стріли, щоб вона навмання `ковзала`{:class="block3motion"} по сцені `завжди`{:class="block3control"}.
 
 ![target sprite](images/target-sprite.png)
 
