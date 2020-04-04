@@ -4,17 +4,17 @@ Vamos começar criando uma mira que se move pela tela.
 
 \--- task \---
 
-Open the Scratch starter project.
+Abra o projeto inicial do Scratch.
 
-**Online**: open the starter project at [rpf.io/archeryon](http://rpf.io/archeryon){:target="_blank"}.
+**Online**: abra o projeto inicial em [rpf.io/archeryon](http://rpf.io/archeryon){:target="_blank"}.
 
-If you have a Scratch account you can make a copy by clicking **Remix**.
+Se você tiver uma conta do Scratch, pode fazer uma cópia clicando em **Remisturar**.
 
-**Offline**: open the [starter project](http://rpf.io/p/en/archery-go){:target="_blank"} in the offline editor.
+**Offline**: abra o [projeto inicial](http://rpf.io/p/en/archery-go){:target="_ blank"} no editor offline.
 
-If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+Se você precisar baixar e instalar o editor offline do Scratch, você pode encontrá-lo em [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
 
-In the starter project, you should see a target backdrop and a cross hair sprite.
+No projeto inicial, você verá um cenário de alvo e um ator de mira.
 
 ![projetos iniciais](images/archery-starter.png)
 
@@ -22,13 +22,13 @@ In the starter project, you should see a target backdrop and a cross hair sprite
 
 \--- task \---
 
-When your game starts, broadcast a message to shoot a new arrow.
+Quando o jogo começar, transmita uma mensagem para disparar uma nova flecha.
 
 ![ator alvo](images/target-sprite.png)
 
 ```blocks3
-when green flag clicked
-broadcast (new arrow v)
+quando bandeira verde for clicado
+transmita(new arrow v)
 ```
 
 \--- /task \---
