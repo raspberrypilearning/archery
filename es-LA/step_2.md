@@ -1,28 +1,28 @@
-## Aiming arrows
+## Apuntando flechas
 
-Let's start by creating an arrow that moves around the screen.
+Comencemos creando una flecha que se mueva por la pantalla.
 
 \--- task \---
 
-Open the Scratch starter project.
+Abre el proyecto inicial de Scratch.
 
-**Online**: open the starter project at [rpf.io/archeryon](http://rpf.io/archeryon){:target="_blank"}.
+**En línea**: abre el proyecto de inicio en [rpf.io/archeryon](http://rpf.io/archeryon){:target="_blank"}.
 
-If you have a Scratch account you can make a copy by clicking **Remix**.
+Si tienes una cuenta de Scratch puedes hacer una copia haciendo clic en **Remix**.
 
-**Offline**: open the [starter project](http://rpf.io/p/en/archery-go){:target="_blank"} in the offline editor.
+**Sin conexión**: abre el [proyecto de inicio](http://rpf.io/p/en/archery-go){:target="_blank"} en el editor sin conexión.
 
-If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+Si necesitas descargar e instalar el editor offline de Scratch, puedes encontrarlo en [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
 
-In the starter project, you should see a target backdrop and a cross hair sprite.
+En el proyecto inicial, deberías ver un fondo con una diana y un objeto en forma de punto de mira.
 
-![starter projects](images/archery-starter.png)
+![proyectos iniciales](images/archery-starter.png)
 
 \--- /task \---
 
 \--- task \---
 
-When your game starts, broadcast a message to shoot a new arrow.
+Cuando comience el juego, transmite un mensaje para disparar una nueva flecha.
 
 ![target sprite](images/target-sprite.png)
 
