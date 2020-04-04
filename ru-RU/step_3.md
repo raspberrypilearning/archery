@@ -1,29 +1,29 @@
-## Shooting arrows
+## Стрельба стрелами
 
-Let's code your arrow to shoot when the space bar is pressed.
+Давай сделаем код для твоей стрелы, чтобы можно было стрелять при нажатии пробела.
 
 \--- task \---
 
-Stop the other script (the one moving the arrow) when the space bar is pressed.
+Останови другой скрипт (тот, который перемещает стрелу), когда нажимается пробел.
 
 ![target sprite](images/target-sprite.png)
 
 ```blocks3
-when [space v] key pressed
-stop [other scripts in sprite v]
+когда клавиша [пробел v] нажата
+стоп [другие скрипты спрайта v]
 ```
 
 \--- /task \---
 
 \--- task \---
 
-Test your project again. This time, your arrow should stop moving **when the space bar is pressed**.
+Запусти свой проект для проверки ещё раз. На этот раз твоя стрела должна перестать двигаться **при нажатии клавиши пробел**.
 
 \--- /task \---
 
 \--- task \---
 
-Animate your arrow, so that it looks like it's moving towards the target.
+Анимируй свою стрелу, чтобы она выглядела так, как будто она движется к мишени.
 
 ![target sprite](images/target-sprite.png)
 
