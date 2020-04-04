@@ -12,7 +12,7 @@
 
 \--- no-print \---
 
-Натисни на зелений прапор для запуску. Використовуй пробіл, щоб стріляти
+Натисни на зелений прапор для запуску. Використовуй клавішу пропуск, щоб стріляти
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/114760038/?autostart=false" frameborder="0" scrolling="no"></iframe>
