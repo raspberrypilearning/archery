@@ -16,7 +16,7 @@
 
 У початковому проєкті ти маєш бачити тло із мішенню та спрайт для приціла.
 
-![starter projects](images/archery-starter.png)
+![початкові проєкти](images/archery-starter.png)
 
 \--- /task \---
 
@@ -74,7 +74,7 @@ end
 
 \--- task \---
 
-Test your game again, and you should see your arrow move randomly around the stage.
+Перевір свою гру ще раз, і ти маєш побачити, як стріла рухається випадковим чином по сцені.
 
 ![target in a different position](images/archery-glide-test.png)
 
