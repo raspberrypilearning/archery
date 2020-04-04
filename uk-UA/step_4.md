@@ -1,5 +1,5 @@
-## Challenge: Different scores
+## Завдання: різна кількість балів
 
-Can you add code to your game, so that you get a different score for hitting different parts of the target?
+Чи можеш ти додати код до своєї гри, щоб отримувати різну кількість балів за попадання в різні частини мішені?
 
-![cross hair on the blue part of the target with the phrase 100 points](images/archery-challenge.png)
+![приціл на синій частині мішені з фразою "100 балів"](images/archery-challenge.png)
