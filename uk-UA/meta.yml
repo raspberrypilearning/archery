@@ -1,0 +1,15 @@
+---
+hero_image: images/banner.png
+listed: true
+copyedit: false
+title: Стрільба з лука
+description: Влучай стрілами якомога ближче до цілі.
+version: 4
+last_tested: 2019-04-18
+steps:
+  - title: Вступ
+  - title: Прицілювання
+  - title: Стрільба
+  - title: 'Завдання: Різна кількість балів'
+    challenge: true
+  - title: 'Що далі?'
