@@ -1,12 +1,12 @@
 ## Стрільба
 
-Давай напишемо код для стріли, щоб стріляти, коли натискається клавіша пробіл.
+Давай напишемо код для стріли, щоб стріляти, коли натиснуто клавішу пропуск.
 
 \--- task \---
 
-Зупини інший скрипт (той, що рухає стрілу), коли натискається клавіша пробіл.
+Зупини інший скрипт (той, що рухає стрілою), коли натиснуто клавішу пропуск.
 
-![target sprite](images/target-sprite.png)
+![спрайт приціла](images/target-sprite.png)
 
 ```blocks3
 when [space v] key pressed
@@ -17,15 +17,15 @@ stop [other scripts in sprite v]
 
 \--- task \---
 
-Test your project again. This time, your arrow should stop moving **when the space bar is pressed**.
+Перевір свій проєкт знову. Цього разу стріла повинна перестати рухатись **коли клавішу пропуск натиснуто**.
 
 \--- /task \---
 
 \--- task \---
 
-Animate your arrow, so that it looks like it's moving towards the target.
+Анімуй стрілу, щоб вона виглядала так, ніби рухається до цілі.
 
-![target sprite](images/target-sprite.png)
+![спрайт приціла](images/target-sprite.png)
 
 ```blocks3
 when [space v] key pressed
@@ -39,17 +39,17 @@ end
 
 \--- task \---
 
-Test your game again. This time, when you press the space bar you should see your arrow get smaller, as if it's moving towards the target.
+Перевір свою гру ще раз. Цього разу, натискаючи клавішу пропуск, ти побачиш, як стріла зменшується, ніби рухається до цілі.
 
-![target with the cross hair on it](images/archery-animate-test.png)
+![мішень з прицілом на ній](images/archery-animate-test.png)
 
 \--- /task \---
 
 \--- task \---
 
-Once your arrow is at the target, you can tell the player how many points they have scored. For example, they could score 200 points for hitting the yellow.
+Як тільки стріла досягне цілі, ти можеш повідомити гравцеві, скільки балів той набрав. Наприклад, він може набрати 200 балів за попадання в жовтий колір.
 
-![target sprite](images/target-sprite.png)
+![спрайт приціла](images/target-sprite.png)
 
 ```blocks3
 when [space v] key pressed
@@ -66,9 +66,9 @@ end
 
 \--- task \---
 
-You can also play a sound if they hit the yellow.
+Також ти можеш програвати звук, якщо він потрапляє в жовтий колір.
 
-![target sprite](images/target-sprite.png)
+![спрайт приціла](images/target-sprite.png)
 
 ```blocks3
 when [space v] key pressed
@@ -86,9 +86,9 @@ end
 
 \--- task \---
 
-Finally, you need to broadcast the `new arrow`{:class="block3events"} message again to get a new arrow.
+Нарешті, тобі потрібно оповістити повідомленням `нова стріла`{:class="block3events"}, щоб отримати нову стрілу.
 
-![target sprite](images/target-sprite.png)
+![спрайт приціла](images/target-sprite.png)
 
 ```blocks3
 when [space v] key pressed
