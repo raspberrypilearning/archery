@@ -1,10 +1,10 @@
-## Shooting arrows
+## Atirando flechas
 
-Let's code your arrow to shoot when the space bar is pressed.
+Vamos codificar sua mira para atirar quando a barra de espaço for pressionada.
 
 \--- task \---
 
-Stop the other script (the one moving the arrow) when the space bar is pressed.
+Pare o outro script (aquele que move a seta) quando a barra de espaço é pressionada.
 
 ![target sprite](images/target-sprite.png)
 
