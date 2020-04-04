@@ -6,7 +6,7 @@ Esta é a versão **Scratch 3** do projeto. Há também uma [versão Scratch 2 d
 
 ## Introdução
 
-Você vai aprender a criar um jogo de tiro com arco, no qual você tem que atirar flechas o mais próximo possível do alvo.
+Você vai aprender a criar um jogo de tiro ao alvo, no qual você tem que atirar as flechas o mais próximo possível do centro do alvo.
 
 ### O que você vai fazer
 
@@ -57,7 +57,7 @@ O projeto inicial pode ser encontrado [aqui](http://rpf.io/p/en/archery-go){:tar
 
 ## \--- collapse \---
 
-## informações adicionais para educadores
+## title: Informações adicionais para educadores
 
 \--- no-print \---
 
