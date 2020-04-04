@@ -41,7 +41,7 @@
 
 ### Завантаження
 
-Початковий шаблон проєкта можна знайти [тут](http://rpf.io/p/en/archery-go){:target="_ blank"}.
+Початковий проєкт можна знайти [тут](http://rpf.io/p/en/archery-go){:target="_ blank"}.
 
 \--- /collapse \---
 
