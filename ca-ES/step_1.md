@@ -29,7 +29,7 @@ Fes clic a la bandera verda per començar. Utilitza la barra d’espai per dispa
 
 --- collapse ---
 ---
-title: què necessitaràs
+title: Què necessitaràs
 ---
 ### Maquinari
 

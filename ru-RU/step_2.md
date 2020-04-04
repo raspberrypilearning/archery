@@ -57,7 +57,7 @@ set size to (400) %
 
 --- task ---
 
-Добавь код к своей стреле, чтобы она `всегда`{}:class="block3control"}`скользила`{:class="block3motion"} случайным образом вокруг сцены.
+Добавь код к своей стреле, чтобы она `всегда`{:class="block3control"}`скользила`{:class="block3motion"} случайным образом вокруг сцены.
 
 ![спрайт мишень](images/target-sprite.png)
 

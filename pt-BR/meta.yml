@@ -10,6 +10,6 @@ steps:
   - title: Introdução
   - title: Mirando as flechas
   - title: Atirando as flechas
-  - title: 'Desafio: Pontuações diferentes'
+  - title: 'Desafio: pontuações diferentes'
     challenge: true
   - title: 'E agora?'
