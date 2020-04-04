@@ -6,7 +6,7 @@
 
 Останови другой скрипт (тот, который перемещает стрелу), когда нажимается пробел.
 
-![target sprite](images/target-sprite.png)
+![спрайт мишень](images/target-sprite.png)
 
 ```blocks3
 когда клавиша [пробел v] нажата
@@ -25,13 +25,13 @@
 
 Анимируй свою стрелу, чтобы она выглядела так, как будто она движется к мишени.
 
-![target sprite](images/target-sprite.png)
+![спрайт мишень](images/target-sprite.png)
 
 ```blocks3
-when [space v] key pressed
-stop [other scripts in sprite v]
-+repeat (50)
-change size by (-10)
+когда клавиша [пробел v] нажата
+стоп [другие скрипты спрайта v]
++повторить (50) раз 
+изменить размер на (-10) %
 end
 ```
 
@@ -39,26 +39,26 @@ end
 
 \--- task \---
 
-Test your game again. This time, when you press the space bar you should see your arrow get smaller, as if it's moving towards the target.
+Проверь свою игру снова. На этот раз, когда ты нажимаешь клавишу пробел, ты должен увидеть, как стрела становится меньше, как будто она движется к мишени.
 
-![target with the cross hair on it](images/archery-animate-test.png)
+![мишень с перекрестием на нем](images/archery-animate-test.png)
 
 \--- /task \---
 
 \--- task \---
 
-Once your arrow is at the target, you can tell the player how many points they have scored. For example, they could score 200 points for hitting the yellow.
+Как только твоя стрела окажется в мишени, ты сможешь сказать игроку, сколько очков он набрал. Например, он мог набрать 200 очков за попадание в жёлтый цвет.
 
-![target sprite](images/target-sprite.png)
+![спрайт мишень](images/target-sprite.png)
 
 ```blocks3
-when [space v] key pressed
-stop [other scripts in sprite v]
-repeat (50)
-change size by (-10)
+когда клавиша [пробел v] нажата
+стоп [другие скрипты спрайта v]
+повторить (50) раз 
+ изменить размер на (-10) %
 end
-+if <touching color (#ffff00) ?> then
-say [200 points] for (2) seconds
++если <касается цвета [#ffff00] ?> , то 
+ говорить [200 points] (2) секунд
 end
 ```
 
@@ -66,19 +66,19 @@ end
 
 \--- task \---
 
-You can also play a sound if they hit the yellow.
+Ты также можешь воспроизвести звук, если он попал в желтый цвет.
 
-![target sprite](images/target-sprite.png)
+![спрайт мишень](images/target-sprite.png)
 
 ```blocks3
-when [space v] key pressed
-stop [other scripts in sprite v]
-repeat (50)
-change size by (-10)
+когда клавиша [пробел v] нажата
+стоп [другие скрипты спрайта v]
+повторить (50) раз 
+ изменить размер на (-10) %
 end
-if <touching color (#ffff00) ?> then
-+start sound (cheer v)
-say [200 points] for (2) seconds
+если <касается цвета [#ffff00] ?> , то 
+ + включить звук (cheer v)
+ говорить [200 points] (2) секунд
 end
 ```
 
@@ -86,21 +86,21 @@ end
 
 \--- task \---
 
-Finally, you need to broadcast the `new arrow`{:class="block3events"} message again to get a new arrow.
+Наконец, тебе нужно снова передать сообщение `новая стрела`{:class="block3events"}, чтобы получить новую стрелу.
 
-![target sprite](images/target-sprite.png)
+![спрайт мишень](images/target-sprite.png)
 
 ```blocks3
-when [space v] key pressed
-stop [other scripts in sprite v]
-repeat (50)
-change size by (-10)
+когда клавиша [пробел v] нажата
+стоп [другие скрипты спрайта v]
+повторить (50) раз 
+ изменить размер на (-10) %
 end
-if <touching color (#ffff00) ?> then
-start sound (cheer v)
-say [200 points] for (2) seconds
+если <касается цвета [#ffff00] ?> , то 
+ включить звук (cheer v)
+ говорить [200 points] (2) секунд
 end
-+broadcast (new arrow v)
++передать (новая стрела v)
 ```
 
 \--- /task \---
