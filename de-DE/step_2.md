@@ -24,7 +24,7 @@ Im Start-Projekt solltest du eine Zielkulisse und ein Fadenkreuz sehen.
 
 Wenn dein Spiel beginnt, sende eine Nachricht um einen neuen Pfeil zu schießen.
 
-![Zielscheiben Bühne](images/target-sprite.png)
+![Ziel Figur](images/target-sprite.png)
 
 ```blocks3
 when green flag clicked
@@ -37,7 +37,7 @@ broadcast (new arrow v)
 
 Sobald diese Nachricht empfangen wurde, lege die Position und Größe des Pfeils fest.
 
-![Zielscheiben Bühne](images/target-sprite.png)
+![Ziel Figur](images/target-sprite.png)
 
 ```blocks3
 when I receive [new arrow v]
@@ -59,7 +59,7 @@ Klicke auf die grüne Flagge, um dein Spiel zu testen. Du solltest sehen, dass d
 
 Fügen deinem Pfeil Code hinzu, damit er `fortlaufend`{:class ="block3control"} zufällig um das Ziel `gleitet`{:class ="block3motion"}.
 
-![Zielscheiben Bühne](images/target-sprite.png)
+![Ziel Figur](images/target-sprite.png)
 
 ```blocks3
 when I receive [new arrow v]
