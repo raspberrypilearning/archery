@@ -1,12 +1,12 @@
-## Shooting arrows
+## Disparando flechas
 
-Let's code your arrow to shoot when the space bar is pressed.
+Vamos a programar tu flecha para disparar cuando se presiona la barra espaciadora.
 
 \--- task \---
 
-Stop the other script (the one moving the arrow) when the space bar is pressed.
+Detén el otro script (el que mueve la flecha) cuando se presiona la barra espaciadora.
 
-![target sprite](images/target-sprite.png)
+![objeto blanco](images/target-sprite.png)
 
 ```blocks3
 when [space v] key pressed
@@ -17,15 +17,15 @@ stop [other scripts in sprite v]
 
 \--- task \---
 
-Test your project again. This time, your arrow should stop moving **when the space bar is pressed**.
+Prueba tu proyecto de nuevo. Esta vez, tu flecha debe dejar de moverse ** cuando se presiona la barra espaciadora **.
 
 \--- /task \---
 
 \--- task \---
 
-Animate your arrow, so that it looks like it's moving towards the target.
+Anima tu flecha, para que parezca que se mueve hacia el blanco.
 
-![target sprite](images/target-sprite.png)
+![objeto blanco](images/target-sprite.png)
 
 ```blocks3
 when [space v] key pressed
@@ -39,17 +39,17 @@ end
 
 \--- task \---
 
-Test your game again. This time, when you press the space bar you should see your arrow get smaller, as if it's moving towards the target.
+Vuelve a probar tu juego. Esta vez, cuando presionas la barra espaciadora, deberías ver que tu flecha se vuelve más pequeña, como si se moviera hacia el blanco.
 
-![target with the cross hair on it](images/archery-animate-test.png)
+![diana con el punto de mira sobre ella](images/archery-animate-test.png)
 
 \--- /task \---
 
 \--- task \---
 
-Once your arrow is at the target, you can tell the player how many points they have scored. For example, they could score 200 points for hitting the yellow.
+Una vez que su flecha está en el blanco, puedes decirle al jugador cuántos puntos obtuvo. Por ejemplo, podrían anotar 200 puntos por golpear el amarillo.
 
-![target sprite](images/target-sprite.png)
+![objeto blanco](images/target-sprite.png)
 
 ```blocks3
 when [space v] key pressed
@@ -66,9 +66,9 @@ end
 
 \--- task \---
 
-You can also play a sound if they hit the yellow.
+También puedes reproducir un sonido si tocan el amarillo.
 
-![target sprite](images/target-sprite.png)
+![objeto blanco](images/target-sprite.png)
 
 ```blocks3
 when [space v] key pressed
@@ -86,9 +86,9 @@ end
 
 \--- task \---
 
-Finally, you need to broadcast the `new arrow`{:class="block3events"} message again to get a new arrow.
+Por último, tienes que transmitir de nuevo el mensaje `nueva flecha`{:class="block3events"} para obtener una nueva flecha.
 
-![target sprite](images/target-sprite.png)
+![objeto blanco](images/target-sprite.png)
 
 ```blocks3
 when [space v] key pressed
