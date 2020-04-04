@@ -1,6 +1,6 @@
-## Aiming arrows
+## Mirando as flechas
 
-Let's start by creating an arrow that moves around the screen.
+Vamos começar criando uma mira que se move pela tela.
 
 \--- task \---
 
@@ -16,7 +16,7 @@ If you need to download and install the Scratch offline editor, you can find it 
 
 In the starter project, you should see a target backdrop and a cross hair sprite.
 
-![starter projects](images/archery-starter.png)
+![projetos iniciais](images/archery-starter.png)
 
 \--- /task \---
 
@@ -24,7 +24,7 @@ In the starter project, you should see a target backdrop and a cross hair sprite
 
 When your game starts, broadcast a message to shoot a new arrow.
 
-![target sprite](images/target-sprite.png)
+![ator alvo](images/target-sprite.png)
 
 ```blocks3
 when green flag clicked
@@ -37,7 +37,7 @@ broadcast (new arrow v)
 
 Once this message has been received, set the arrow's position and size.
 
-![target sprite](images/target-sprite.png)
+![ator alvo](images/target-sprite.png)
 
 ```blocks3
 when I receive [new arrow v]
@@ -51,7 +51,7 @@ set size to (400) %
 
 Click the green flag to test your game. You should see your arrow get bigger and move to the bottom-left of the stage.
 
-![larger target sprite in bottom left of stage](images/archery-start-test.png)
+![ator alvo maior no canto inferior esquerdo do palco](images/archery-start-test.png)
 
 \--- /task \---
 
@@ -59,7 +59,7 @@ Click the green flag to test your game. You should see your arrow get bigger and
 
 Add code to your arrow so that it `glides`{:class="block3motion"} randomly around the stage `forever`{:class="block3control"}.
 
-![target sprite](images/target-sprite.png)
+![sprite alvo](images/target-sprite.png)
 
 ```blocks3
 when I receive [new arrow v]
@@ -76,6 +76,6 @@ end
 
 Test your game again, and you should see your arrow move randomly around the stage.
 
-![target in a different position](images/archery-glide-test.png)
+![alvo em uma posição diferente](images/archery-glide-test.png)
 
 \--- /task \---
