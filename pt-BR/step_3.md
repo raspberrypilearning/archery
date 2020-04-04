@@ -9,8 +9,8 @@ Pare o outro script (aquele que move a seta) quando a barra de espaço é pressi
 ![ator mira](images/target-sprite.png)
 
 ```blocks3
-quando a tecla [espaço v] for pressionada
-pare [outros scripts no ator v]
+when [space v] key pressed
+stop [other scripts in sprite v]
 ```
 
 \--- /task \---
@@ -28,11 +28,11 @@ Anime sua mira para que pareça estar se movendo em direção ao alvo.
 ![ator mira](images/target-sprite.png)
 
 ```blocks3
-quando a tecla [espaço v] for pressionada
-pare [outros scripts no ator v]
-+repita (50) vezes
-mude (-10) no tamanho
-fim
+when [space v] key pressed
+stop [other scripts in sprite v]
++repeat (50)
+change size by (-10)
+end
 ```
 
 \--- /task \---
@@ -52,14 +52,14 @@ Quando sua mira estiver no alvo, você pode dizer ao jogador quantos pontos ele 
 ![ator mira](images/target-sprite.png)
 
 ```blocks3
-quando a tecla [espaço v] for pressionada
-pare [outros scripts no ator v]
-+repita (50) vezes
-mude (-10) no tamanho
-fim
-+se <tocando na cor (amarelo)?> então
-diga (200 pontos) por (2) segundos 
-fim
+when [space v] key pressed
+stop [other scripts in sprite v]
+repeat (50)
+change size by (-10)
+end
++if <touching color (#ffff00) ?> then
+say [200 points] for (2) seconds
+end
 ```
 
 \--- /task \---
@@ -71,15 +71,15 @@ Você também pode tocar um som se eles acertarem no amarelo.
 ![ator mira](images/target-sprite.png)
 
 ```blocks3
-quando a tecla [espaço v] for pressionada
-pare [outros scripts no ator v]
-+repita (50) vezes
-mude (-10) no tamanho
-fim
-se <tocando na cor (amarelo)?> então
-+toque o som (cheer v)
-diga (200 pontos) por (2) segundos 
-fim
+when [space v] key pressed
+stop [other scripts in sprite v]
+repeat (50)
+change size by (-10)
+end
+if <touching color (#ffff00) ?> then
++start sound (cheer v)
+say [200 points] for (2) seconds
+end
 ```
 
 \--- /task \---
@@ -91,16 +91,16 @@ Por fim, você precisa transmitir novamente a mensagem `nova flecha`{:class="blo
 ![ator mira](images/target-sprite.png)
 
 ```blocks3
-quando a tecla [espaço v] for pressionada
-pare [outros scripts no ator v]
-+repita (50) vezes
-mude (-10) no tamanho
-fim
-se <tocando na cor (amarelo)?> então
-toque o som (cheer v)
-diga (200 pontos) por (2) segundos 
-fim
-+transmita (nova flecha v)
+when [space v] key pressed
+stop [other scripts in sprite v]
+repeat (50)
+change size by (-10)
+end
+if <touching color (#ffff00) ?> then
+start sound (cheer v)
+say [200 points] for (2) seconds
+end
++broadcast (new arrow v)
 ```
 
 \--- /task \---
