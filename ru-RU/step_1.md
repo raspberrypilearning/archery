@@ -23,7 +23,7 @@
 
 \--- print-only \---
 
-![complete project](images/archery-final.png)
+![завершённый проект](images/archery-final.png)
 
 \--- /print-only \---
 
@@ -65,6 +65,6 @@
 
 \--- /no-print \---
 
-You can find the [completed project here](http://rpf.io/p/en/archery-get){:target="_blank"}.
+Здесь вы можете найти [завершённый проект](http://rpf.io/p/en/archery-get){:target="_blank"}.
 
 \--- /collapse \---
