@@ -1,30 +1,30 @@
-## Aiming arrows
+## Pfeile zielen
 
-Let's start by creating an arrow that moves around the screen.
+Beginnen wir mit der Erstellung eines Pfeils, der sich auf dem Bildschirm bewegt.
 
 \--- task \---
 
-Open the Scratch starter project.
+Öffne das Scratch Start-Projekt.
 
-**Online**: open the starter project at [rpf.io/archeryon](http://rpf.io/archeryon){:target="_blank"}.
+**Online**: Öffne das Start-Projekt: [rpf.io/archeryon](http://rpf.io/archeryon){:target="_blank"}.
 
-If you have a Scratch account you can make a copy by clicking **Remix**.
+Wenn du bereits einen Scratch-Account besitzt, kannst du dir durch Klick auf **Remix** eine Kopie anlegen.
 
-**Offline**: open the [starter project](http://rpf.io/p/en/archery-go){:target="_blank"} in the offline editor.
+**Offline**: Öffne das [Start-Projekt](http://rpf.io/p/en/archery-go){:target="_blank"} im Offline-Editor.
 
-If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+Wenn du Scratch herunterladen und auf deinem Rechner installieren möchtest, dann findest du die Datei unter diesem Link: [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
 
-In the starter project, you should see a target backdrop and a cross hair sprite.
+Im Start-Projekt solltest du eine Zielkulisse und ein Fadenkreuz sehen.
 
-![starter projects](images/archery-starter.png)
+![Start-Projekt](images/archery-starter.png)
 
 \--- /task \---
 
 \--- task \---
 
-When your game starts, broadcast a message to shoot a new arrow.
+Wenn dein Spiel beginnt, sende eine Nachricht um einen neuen Pfeil zu schießen.
 
-![target sprite](images/target-sprite.png)
+![Zielscheiben Bühne](images/target-sprite.png)
 
 ```blocks3
 when green flag clicked
@@ -35,9 +35,9 @@ broadcast (new arrow v)
 
 \--- task \---
 
-Once this message has been received, set the arrow's position and size.
+Sobald diese Nachricht empfangen wurde, lege die Position und Größe des Pfeils fest.
 
-![target sprite](images/target-sprite.png)
+![Zielscheiben Bühne](images/target-sprite.png)
 
 ```blocks3
 when I receive [new arrow v]
@@ -49,17 +49,17 @@ set size to (400) %
 
 \--- task \---
 
-Click the green flag to test your game. You should see your arrow get bigger and move to the bottom-left of the stage.
+Klicke auf die grüne Flagge, um dein Spiel zu testen. Du solltest sehen, dass der Pfeil größer wird und sich auf der Zielscheibe nach links unten bewegt.
 
-![larger target sprite in bottom left of stage](images/archery-start-test.png)
+![größeres Ziel unten links auf der Bühne](images/archery-start-test.png)
 
 \--- /task \---
 
 \--- task \---
 
-Add code to your arrow so that it `glides`{:class="block3motion"} randomly around the stage `forever`{:class="block3control"}.
+Fügen deinem Pfeil Code hinzu, damit er `fortlaufend`{:class ="block3control"} zufällig um das Ziel `gleitet`{:class ="block3motion"}.
 
-![target sprite](images/target-sprite.png)
+![Zielscheiben Bühne](images/target-sprite.png)
 
 ```blocks3
 when I receive [new arrow v]
@@ -74,8 +74,8 @@ end
 
 \--- task \---
 
-Test your game again, and you should see your arrow move randomly around the stage.
+Teste dein Spiel erneut und du solltest sehen, wie sich dein Pfeil zufällig über die Zielscheibe bewegt.
 
-![target in a different position](images/archery-glide-test.png)
+![Ziel in einer anderen Position](images/archery-glide-test.png)
 
 \--- /task \---
