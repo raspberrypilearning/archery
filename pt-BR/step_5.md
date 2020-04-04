@@ -15,6 +15,6 @@ Você aprenderá a criar seu próprio jogo de corrida, no qual precisará usar a
 
 --- print-only ---
 
-![complete project](images/sprint-final.png)
+![projeto concluído](images/sprint-final.png)
 
 --- /print-only ---
