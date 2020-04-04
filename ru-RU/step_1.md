@@ -1,18 +1,18 @@
 \--- no-print \---
 
-This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/archery-scratch2).
+Это версия проекта для **Scratch 3**. Есть также [версия проекта для Scratch 2](https://projects.raspberrypi.org/en/projects/archery-scratch2).
 
 \--- /no-print \---
 
-## Introduction
+## Введение
 
-You are going to learn how to create an archery game, in which you have to shoot arrows as close to the bullseye as you can.
+Ты узнаешь, как создать игру стрельба из лука, в которой ты должен стрелять стрелами как можно ближе в яблочко.
 
-### What you will make
+### Что тебе нужно будет сделать
 
 \--- no-print \---
 
-Click on the green flag to start. Use the space bar to shoot an arrow
+Нажми на зеленый флаг, чтобы начать. Используйте пробел, чтобы выстрелить стрелой
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/114760038/?autostart=false" frameborder="0" scrolling="no"></iframe>
