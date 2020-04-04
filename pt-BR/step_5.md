@@ -2,7 +2,7 @@
 
 Dê uma olhada no projeto [Sprint](https://projects.raspberrypi.org/en/projects/sprint) no Scratch.
 
-Você aprenderá a criar seu próprio jogo de corrida, no qual precisará usar as teclas de seta esquerda e direita para chegar à linha de chegada o mais rápido possível.
+Você aprenderá a criar seu próprio jogo de corrida, no qual precisará usar as teclas seta esquerda e seta direita para chegar à linha de chegada o mais rápido possível.
 
 --- no-print ---
 
