@@ -1,10 +1,10 @@
-## Shooting arrows
+## Pfeile schießen
 
-Let's code your arrow to shoot when the space bar is pressed.
+Lass uns deinen Pfeil coden, der abgeschossen wird, wenn die Leertaste gedrückt wird.
 
 \--- task \---
 
-Stop the other script (the one moving the arrow) when the space bar is pressed.
+Stoppe das andere Skript (das den Pfeil bewegt), wenn du die Leertaste drückst.
 
 ![target sprite](images/target-sprite.png)
 
@@ -17,13 +17,13 @@ stop [other scripts in sprite v]
 
 \--- task \---
 
-Test your project again. This time, your arrow should stop moving **when the space bar is pressed**.
+Teste dein Projekt erneut. Dieses Mal sollte dein Pfeil aufhören sich zu bewegen, **wenn die Taste Leertaste gedrückt wird**.
 
 \--- /task \---
 
 \--- task \---
 
-Animate your arrow, so that it looks like it's moving towards the target.
+Animiere deinen Pfeil so, dass er sich auf das Ziel zubewegt.
 
 ![target sprite](images/target-sprite.png)
 
@@ -39,7 +39,7 @@ end
 
 \--- task \---
 
-Test your game again. This time, when you press the space bar you should see your arrow get smaller, as if it's moving towards the target.
+Teste dein Spiel erneut. Dieses Mal, wenn du die Leertaste drückst, solltest du sehen, dass der Pfeil kleiner wird, als ob er sich in Richtung des Ziels bewegt.
 
 ![target with the cross hair on it](images/archery-animate-test.png)
 
@@ -47,7 +47,7 @@ Test your game again. This time, when you press the space bar you should see you
 
 \--- task \---
 
-Once your arrow is at the target, you can tell the player how many points they have scored. For example, they could score 200 points for hitting the yellow.
+Sobald dein Pfeil am Ziel ist, kannst du dem Spieler mitteilen, wie viele Punkte er erzielt hat. Zum Beispiel könnte man 200 Punkte erzielen, wenn man das gelbe Feld trifft.
 
 ![target sprite](images/target-sprite.png)
 
@@ -66,7 +66,7 @@ end
 
 \--- task \---
 
-You can also play a sound if they hit the yellow.
+Du kannst auch einen Ton abspielen, wenn das gelbe Feld getroffen wird.
 
 ![target sprite](images/target-sprite.png)
 
@@ -86,7 +86,7 @@ end
 
 \--- task \---
 
-Finally, you need to broadcast the `new arrow`{:class="block3events"} message again to get a new arrow.
+Am Ende musst du die `neuer Pfeil `{:class="block3events"} Nachricht erneut senden, um einen neuen Pfeil zu erhalten.
 
 ![target sprite](images/target-sprite.png)
 
