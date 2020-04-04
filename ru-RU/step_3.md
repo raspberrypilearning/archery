@@ -9,8 +9,8 @@
 ![спрайт мишень](images/target-sprite.png)
 
 ```blocks3
-когда клавиша [пробел v] нажата
-стоп [другие скрипты спрайта v]
+when [space v] key pressed
+stop [other scripts in sprite v]
 ```
 
 \--- /task \---
@@ -28,10 +28,10 @@
 ![спрайт мишень](images/target-sprite.png)
 
 ```blocks3
-когда клавиша [пробел v] нажата
-стоп [другие скрипты спрайта v]
-+повторить (50) раз 
-изменить размер на (-10) %
+when [space v] key pressed
+stop [other scripts in sprite v]
++repeat (50)
+change size by (-10)
 end
 ```
 
@@ -52,13 +52,13 @@ end
 ![спрайт мишень](images/target-sprite.png)
 
 ```blocks3
-когда клавиша [пробел v] нажата
-стоп [другие скрипты спрайта v]
-повторить (50) раз 
- изменить размер на (-10) %
+when [space v] key pressed
+stop [other scripts in sprite v]
+repeat (50)
+change size by (-10)
 end
-+если <касается цвета [#ffff00] ?> , то 
- говорить [200 points] (2) секунд
++if <touching color (#ffff00) ?> then
+say [200 points] for (2) seconds
 end
 ```
 
@@ -71,14 +71,14 @@ end
 ![спрайт мишень](images/target-sprite.png)
 
 ```blocks3
-когда клавиша [пробел v] нажата
-стоп [другие скрипты спрайта v]
-повторить (50) раз 
- изменить размер на (-10) %
+when [space v] key pressed
+stop [other scripts in sprite v]
+repeat (50)
+change size by (-10)
 end
-если <касается цвета [#ffff00] ?> , то 
- + включить звук (cheer v)
- говорить [200 points] (2) секунд
+if <touching color (#ffff00) ?> then
++start sound (cheer v)
+say [200 points] for (2) seconds
 end
 ```
 
@@ -91,16 +91,16 @@ end
 ![спрайт мишень](images/target-sprite.png)
 
 ```blocks3
-когда клавиша [пробел v] нажата
-стоп [другие скрипты спрайта v]
-повторить (50) раз 
- изменить размер на (-10) %
+when [space v] key pressed
+stop [other scripts in sprite v]
+repeat (50)
+change size by (-10)
 end
-если <касается цвета [#ffff00] ?> , то 
- включить звук (cheer v)
- говорить [200 points] (2) секунд
+if <touching color (#ffff00) ?> then
+start sound (cheer v)
+say [200 points] for (2) seconds
 end
-+передать (новая стрела v)
++broadcast (new arrow v)
 ```
 
 \--- /task \---
