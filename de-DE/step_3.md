@@ -23,7 +23,7 @@ Teste dein Projekt erneut. Dieses Mal sollte dein Pfeil aufhören sich zu bewege
 
 \--- task \---
 
-Animiere deinen Pfeil so, dass er sich auf das Ziel zubewegt.
+Animiere deinen Pfeil so, dass es so aussieht als würde er sich auf das Ziel zubewegen.
 
 ![Ziel Figur](images/target-sprite.png)
 
