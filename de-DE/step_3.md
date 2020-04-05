@@ -1,6 +1,6 @@
 ## Pfeile schießen
 
-Lass uns deinen Pfeil coden, der abgeschossen wird, wenn die Leertaste gedrückt wird.
+Lass uns deinen Pfeil so programmieren, dass er abgeschossen wird, wenn die Leertaste gedrückt wird.
 
 \--- task \---
 
