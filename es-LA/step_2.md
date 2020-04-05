@@ -62,12 +62,12 @@ Añade código a tu flecha para que `se deslice`{:class="block3motion"} al azar 
 ![objeto blanco](images/target-sprite.png)
 
 ```blocks3
-al recibir [nueva flecha v]
-ir a x: (-150) y: (-150)
-fijar tamaño a (400) %
-+por siempre
-deslizar (0.5) segs a x: (número al azar (-150) a (150)) y: (número al azar (-150) a (150))
-fin
+when I receive [new arrow v]
+go to x: (-150) y: (-150)
+set size to (400) %
++forever
+glide (0.5) secs to x: (pick random (-150) to (150)) y: (pick random (-150) to (150))
+end
 ```
 
 \--- /task \---
