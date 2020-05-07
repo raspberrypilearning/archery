@@ -1,6 +1,6 @@
-## 瞄准箭头
+## 瞄箭
 
-让我们从创建一个在屏幕上移动的准心开始。
+让我们从创建一个在屏幕上移动的箭开始。
 
 \--- task \---
 
@@ -14,7 +14,7 @@
 
 如果您需要下载并安装 Scratch 离线编辑器，可以点击链接 [ rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"} 获取 。
 
-在初始项目中，您应该看到预设好的背景和十字准心精灵。
+在初始项目中，您应该看到一个靶子的背景和一个十字准心的角色。
 
 ![初始项目](images/archery-starter.png)
 
@@ -22,9 +22,9 @@
 
 \--- task \---
 
-游戏开始时，广播一条消息用于发射新箭头。
+游戏开始时，广播一条消息用于发射新箭。
 
-![箭头精灵](images/target-sprite.png)
+![箭的角色](images/target-sprite.png)
 
 ```blocks3
 when green flag clicked
@@ -37,7 +37,7 @@ broadcast (new arrow v)
 
 接收到此消息后，设置准心的位置和大小。
 
-![箭头精灵](images/target-sprite.png)
+![箭的角色](images/target-sprite.png)
 
 ```blocks3
 when I receive [new arrow v]
@@ -51,15 +51,15 @@ set size to (400) %
 
 单击绿色小旗标志来测试您的游戏。 您应该看到准心变大并移到舞台的左下角。
 
-![舞台左下方的较大的箭头精灵](images/archery-start-test.png)
+![舞台左下方的较大的箭的角色](images/archery-start-test.png)
 
 \--- /task \---
 
 \--- task \---
 
-将代码添加到您的箭头精灵，使其 `重复执行`{:class ="block3motion"} `滑行`{:class ="block3control"} 到随机位置。
+将代码添加到您的准心角色，使其`滑行`并`重复执行`{:class ="block3control"} 到随机位置。
 
-![箭头精灵](images/target-sprite.png)
+![箭的角色](images/target-sprite.png)
 
 ```blocks3
 when I receive [new arrow v]
