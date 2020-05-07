@@ -1,4 +1,4 @@
-## Desafío: Diferentes puntajes
+## Desafío: Diferentes puntuaciones
 
 ¿Puedes agregar código a tu juego para obtener una puntuación diferente por acertar en diferentes partes del blanco?
 
