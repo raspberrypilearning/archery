@@ -1,6 +1,6 @@
 ## Disparando flechas
 
-Vamos a programar tu flecha para disparar cuando se presiona la barra espaciadora.
+Vamos a programar la flecha para dispararla cuando se presiona la barra espaciadora.
 
 \--- task \---
 
@@ -23,7 +23,7 @@ Prueba tu proyecto de nuevo. Esta vez, tu flecha debe dejar de moverse ** cuando
 
 \--- task \---
 
-Anima tu flecha, para que parezca que se mueve hacia el blanco.
+Da movimiento a la flecha para que parezca que se mueve hacia el objetivo.
 
 ![objeto blanco](images/target-sprite.png)
 
@@ -47,7 +47,7 @@ Vuelve a probar tu juego. Esta vez, cuando presionas la barra espaciadora, deber
 
 \--- task \---
 
-Una vez que su flecha está en el blanco, puedes decirle al jugador cuántos puntos obtuvo. Por ejemplo, podrían anotar 200 puntos por golpear el amarillo.
+Una vez que la flecha está en el blanco, puedes decirle al jugador cuántos puntos obtuvo. Por ejemplo, podrían anotar 200 puntos por golpear el amarillo.
 
 ![objeto blanco](images/target-sprite.png)
 
@@ -66,7 +66,7 @@ end
 
 \--- task \---
 
-También puedes reproducir un sonido si tocan el amarillo.
+También puedes reproducir un sonido si dan al amarillo.
 
 ![objeto blanco](images/target-sprite.png)
 
