@@ -1,12 +1,12 @@
-## 发射箭头
+## 射箭
 
-我们来给箭头精灵加上一些代码，以便在按下空格键时发射。
+我们来给箭加上一些代码，以便在按下空格键时发射。
 
 \--- task \---
 
 按下空格键时，停止另一个脚本(移动准心的脚本)。
 
-![箭头精灵](images/target-sprite.png)
+![箭的角色](images/target-sprite.png)
 
 ```blocks3
 when [space v] key pressed
@@ -25,7 +25,7 @@ stop [other scripts in sprite v]
 
 给准心加一些动画，让它看起来像是在不断朝靶子移动。
 
-![箭头精灵](images/target-sprite.png)
+![箭的角色](images/target-sprite.png)
 
 ```blocks3
 when [space v] key pressed
@@ -47,9 +47,9 @@ end
 
 \--- task \---
 
-一旦箭头射中了目标，您就可以告诉玩家他们得分了多少分。 举个例子，如果射中了黄色靶心可以得到200分。
+一旦箭射中了目标，您就可以告诉玩家他们得了多少分。 举个例子，如果射中了黄色靶心可以得到200分。
 
-![箭头精灵](images/target-sprite.png)
+![箭的角色](images/target-sprite.png)
 
 ```blocks3
 when [space v] key pressed
@@ -68,7 +68,7 @@ end
 
 当射中黄色靶心，也可以来点音效。
 
-![箭头精灵](images/target-sprite.png)
+![箭的角色](images/target-sprite.png)
 
 ```blocks3
 when [space v] key pressed
@@ -86,9 +86,9 @@ end
 
 \--- task \---
 
-最后，您需要再次广播 `新箭头`{:class ="block3events"} 消息来得到一个新箭头。
+最后，您需要再次广播 `新的箭`{:class ="block3events"} 的消息来得到一支新箭。
 
-![箭头精灵](images/target-sprite.png)
+![箭的角色](images/target-sprite.png)
 
 ```blocks3
 when [space v] key pressed
