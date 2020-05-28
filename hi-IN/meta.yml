@@ -2,15 +2,15 @@
 hero_image: images/banner.png
 listed: true
 copyedit: false
-title: Archery
+title: तीरंदाजी
 description: Shoot arrows as close to the bullseye as you can.
 version: 4
 last_tested: 2019-04-18
 steps:
   - 
-    title: Introduction
+    title: परिचय
   - 
-    title: Aiming arrows
+    title: तीर चलाना
   - 
     title: Shooting arrows
   - 
