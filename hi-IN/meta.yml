@@ -3,18 +3,18 @@ hero_image: images/banner.png
 listed: true
 copyedit: false
 title: तीरंदाजी
-description: Shoot arrows as close to the bullseye as you can.
+description: तीर मारो बुल्सआई के करीब जैसे आप कर सकते हैं।
 version: 4
 last_tested: 2019-04-18
 steps:
   - 
     title: परिचय
   - 
+    title: निशाना लगानेवाला तीर
+  - 
     title: तीर चलाना
   - 
-    title: Shooting arrows
-  - 
-    title: 'Challenge: Different scores'
+    title: 'चुनौती: विभिन्न स्कोर'
     challenge: true
   - 
-    title: 'What next?'
+    title: 'आगे क्या?'
