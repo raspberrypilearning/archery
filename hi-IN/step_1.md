@@ -4,15 +4,15 @@ This is the **Scratch 3** version of the project. There is also a [Scratch 2 ver
 
 \--- /no-print \---
 
-## Introduction
+## परिचय
 
 You are going to learn how to create an archery game, in which you have to shoot arrows as close to the bullseye as you can.
 
-### What you will make
+### आप क्या बनाएँगे
 
 \--- no-print \---
 
-Click on the green flag to start. Use the space bar to shoot an arrow
+शुरू करने के लिए हरी झंडी पर क्लिक करें। Use the space bar to shoot an arrow
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/114760038/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -23,7 +23,7 @@ Click on the green flag to start. Use the space bar to shoot an arrow
 
 \--- print-only \---
 
-![complete project](images/archery-final.png)
+![पूरा प्रोजैक्ट](images/archery-final.png)
 
 \--- /print-only \---
 
