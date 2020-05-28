@@ -1,30 +1,30 @@
-## Aiming arrows
+## निशाना लगाने वाला तीर
 
-Let's start by creating an arrow that moves around the screen.
+चलो शुरू करते हैं बनाने एक तीर जो स्क्रीन के चारों ओर घूमता है।
 
 \--- task \---
 
-Open the Scratch starter project.
+स्क्रैच स्टार्टर प्रोजेक्ट खोलें।
 
-**Online**: open the starter project at [rpf.io/archeryon](http://rpf.io/archeryon){:target="_blank"}.
+**ऑनलाइन**: स्टार्टर प्रोजेक्ट को [rpf.io/archeryon](http://rpf.io/archeryon){: target = "_ blank"} पर खोलें।
 
-If you have a Scratch account you can make a copy by clicking **Remix**.
+यदि आपके पास एक स्क्रैच खाता है, तो आप ** रीमिक्स ** पर क्लिक करके कापी बना सकते हैं ।
 
-**Offline**: open the [starter project](http://rpf.io/p/en/archery-go){:target="_blank"} in the offline editor.
+**ऑफलाइन**:खोलो[ स्टार्टर प्रोजेक्ट](http://rpf.io/p/en/archery-go){:target="_blank"} को ऑफलाइन एडिटर में खोलिये।
 
-If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+यदि आपको स्क्रैच ऑफ़लाइन एडिटर को डाउनलोड और इंस्टॉल करने की आवश्यकता है, तो आप इसे [rpf.io/scratchoff](http://rpf.io/scratchoff) {:target="_blank"} पर पा सकते हैं।
 
-In the starter project, you should see a target backdrop and a cross hair sprite.
+स्टार्टर प्रोजेक्ट में, आपको एक लक्ष्य पृष्ठभूमि और एक क्रॉस हेयर स्प्राइट देखना चाहिए।
 
-![starter projects](images/archery-starter.png)
+![प्रारंभक प्रोजैक्ट](images/archery-starter.png)
 
 \--- /task \---
 
 \--- task \---
 
-When your game starts, broadcast a message to shoot a new arrow.
+जब आपका खेल शुरू होता है, एक नया तीर शूट करने के लिए एक संदेश प्रसारित करें।
 
-![target sprite](images/target-sprite.png)
+![लक्ष्य स्प्राइट](images/target-sprite.png)
 
 ```blocks3
 when green flag clicked
@@ -37,7 +37,7 @@ broadcast (new arrow v)
 
 Once this message has been received, set the arrow's position and size.
 
-![target sprite](images/target-sprite.png)
+![लक्ष्य स्प्राइट](images/target-sprite.png)
 
 ```blocks3
 when I receive [new arrow v]
