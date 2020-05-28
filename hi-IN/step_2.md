@@ -35,7 +35,7 @@ broadcast (new arrow v)
 
 \--- task \---
 
-Once this message has been received, set the arrow's position and size.
+यह संदेश प्राप्त होने के बाद, तीर की स्थिति और आकार सेट करें।
 
 ![लक्ष्य स्प्राइट](images/target-sprite.png)
 
@@ -49,33 +49,33 @@ set size to (400) %
 
 \--- task \---
 
-Click the green flag to test your game. You should see your arrow get bigger and move to the bottom-left of the stage.
+अपने खेल का परीक्षण करने के लिए हरे झंडे पर क्लिक करें। आपको अपने तीर को बड़ा होता हुआ देखना चाहिए और चरण के नीचे-बाएँ चलना चाहिए।
 
-![larger target sprite in bottom left of stage](images/archery-start-test.png)
+![बड़े लक्ष्य स्प्राइट मंच के नीचे बाईं ओर](images/archery-start-test.png)
 
 \--- /task \---
 
 \--- task \---
 
-Add code to your arrow so that it `glides`{:class="block3motion"} randomly around the stage `forever`{:class="block3control"}.
+अपने बाण पर कोड जोड़ें ताकि यह `ग्लाइड हो`{: class = "block3motion"} निरुद्देश्यता से स्टेज `आसपास हमेशा के लिए`{: class = "block3control"}।
 
-![target sprite](images/target-sprite.png)
+![लक्ष्य स्प्राइट](images/target-sprite.png)
 
 ```blocks3
-when I receive [new arrow v]
-go to x: (-150) y: (-150)
-set size to (400) %
-+forever
-glide (0.5) secs to x: (pick random (-150) to (150)) y: (pick random (-150) to (150))
-end
+जब मुझे [नया तीर v]
+है तो x: (-150) y: (-150)
+सेट साइज़ से (400)%
++ हमेशा के लिए
+ग्लाइड (0.5) सेकेंड x तक ले जाएँ: (यादृच्छिक (-150 चुनें) को (150)) y: (यादृच्छिक (-150) से (150))
+छोर तक ले जाएं
 ```
 
 \--- /task \---
 
 \--- task \---
 
-Test your game again, and you should see your arrow move randomly around the stage.
+अपने खेल का फिर से परीक्षण करें, और आपको अपने तीर को मंच के चारों ओर बेतरतीब ढंग से घूमते हुए देखना चाहिए।
 
-![target in a different position](images/archery-glide-test.png)
+![एक अलग स्थिति में लक्ष्य](images/archery-glide-test.png)
 
 \--- /task \---
