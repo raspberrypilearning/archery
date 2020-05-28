@@ -39,7 +39,7 @@ end
 
 \--- task \---
 
-Test your game again. This time, when you press the space bar you should see your arrow get smaller, as if it's moving towards the target.
+अपने खेल का फिर से परीक्षण करें। इस बार, जब आप स्पेस बार दबाते हैं, तो आपको अपने तीर को छोटा होना चाहिए, जैसे कि वह लक्ष्य की ओर बढ़ रहा हो।
 
 ![target with the cross hair on it](images/archery-animate-test.png)
 
