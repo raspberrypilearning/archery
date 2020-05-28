@@ -31,15 +31,15 @@ You are going to learn how to create an archery game, in which you have to shoot
 
 ## title: What you will need
 
-### Hardware
+### लोहे का सामान
 
 + A computer capable of running Scratch
 
-### Software
+### सॉफ्टवेयर
 
 + Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
 
-### Downloads
+### डाउनलोड
 
 The starter project can be found [here](http://rpf.io/p/en/archery-go){:target="_blank"}.
 
@@ -47,9 +47,9 @@ The starter project can be found [here](http://rpf.io/p/en/archery-go){:target="
 
 ## \--- collapse \---
 
-## title: What you will learn
+## नाम देना: आप क्या सीखें
 
-+ Use animations 
++ एनिमेशन का उपयोग करें 
 + Use broadcasts
 + Use random numbers
 
