@@ -1,6 +1,6 @@
-## Shooting arrows
+## तीर चलाना
 
-Let's code your arrow to shoot when the space bar is pressed.
+जब स्पेस बार दबाया जाता है तो शूट करने के लिए अपने तीर को कोड करें।
 
 \--- task \---
 
