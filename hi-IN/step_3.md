@@ -4,9 +4,9 @@
 
 \--- task \---
 
-Stop the other script (the one moving the arrow) when the space bar is pressed.
+जब स्पेस बार दबाया जाता है तो दूसरी script (एक तीर चलाना) बंद करें। 
 
-![target sprite](images/target-sprite.png)
+![निशाना sprite](images/target-sprite.png)
 
 ```blocks3
 when [space v] key pressed
@@ -17,15 +17,15 @@ stop [other scripts in sprite v]
 
 \--- task \---
 
-Test your project again. This time, your arrow should stop moving **when the space bar is pressed**.
+अपने प्रोजैक्ट का फिर से जाँच करें। इस समय, आपका तीर चलना बंद कर देना चाहिए **जब स्पेस बार दबाया जाता है।**
 
 \--- /task \---
 
 \--- task \---
 
-Animate your arrow, so that it looks like it's moving towards the target.
+अपने तीर को चेतन करें, ताकि ऐसा लगे कि यह लक्ष्य की ओर बढ़ रहा है।
 
-![target sprite](images/target-sprite.png)
+![लक्ष्य sprite](images/target-sprite.png)
 
 ```blocks3
 when [space v] key pressed
