@@ -1,5 +1,5 @@
-## Challenge: Different scores
+## चुनौती: विभिन्न स्कोर
 
-Can you add code to your game, so that you get a different score for hitting different parts of the target?
+क्या आप अपने गेम में कोड जोड़ सकते हैं, ताकि आपको लक्ष्य के विभिन्न हिस्सों को मारने के लिए एक अलग स्कोर मिल सके?
 
-![cross hair on the blue part of the target with the phrase 100 points](images/archery-challenge.png)
+![100 अंक मुहावरा के साथ लक्ष्य के नीले भाग पर बाल पार करें](images/archery-challenge.png)
