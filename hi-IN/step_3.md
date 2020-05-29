@@ -47,7 +47,7 @@ end
 
 \--- task \---
 
-Once your arrow is at the target, you can tell the player how many points they have scored. For example, they could score 200 points for hitting the yellow.
+एक बार जब आपका तीर निशाने पर होगा, तो आप खिलाड़ी को बता सकते हैं कि उन्होंने कितने अंक बनाए हैं। For example, they could score 200 points for hitting the yellow.
 
 ![target sprite](images/target-sprite.png)
 
