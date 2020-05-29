@@ -1,6 +1,6 @@
-## What next?
+## आगे क्या?
 
-Take a look at the [Sprint](https://projects.raspberrypi.org/en/projects/sprint) Scratch project.
+Scratch परियोजना पर एक नज़र डालें।[बहुत तेज़ी से दौड़ना](https://projects.raspberrypi.org/en/projects/sprint)
 
 You are going to learn how to create your own sprint game, in which you have to use the left and right arrow keys to get to the finish line as quickly as you can.
 
