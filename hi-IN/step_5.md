@@ -2,7 +2,7 @@
 
 Scratch परियोजना पर एक नज़र डालें।[बहुत तेज़ी से दौड़ना](https://projects.raspberrypi.org/en/projects/sprint)
 
-You are going to learn how to create your own sprint game, in which you have to use the left and right arrow keys to get to the finish line as quickly as you can.
+आप अपना स्वयं का स्प्रिंट गेम बनाने का तरीका जानने जा रहे हैं, जिसमें आपको जितनी जल्दी हो सके फिनिश लाइन को पाने के लिए बाएं और दाएं तीर कुंजियों का उपयोग करना होगा।
 
 --- no-print ---
 
@@ -15,6 +15,6 @@ You are going to learn how to create your own sprint game, in which you have to 
 
 --- print-only ---
 
-![complete project](images/sprint-final.png)
+![पूरा प्रोजैक्ट](images/sprint-final.png)
 
 --- /print-only ---
