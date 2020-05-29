@@ -49,7 +49,7 @@ end
 
 एक बार जब आपका तीर निशाने पर होगा, तो आप खिलाड़ी को बता सकते हैं कि उन्होंने कितने अंक बनाए हैं। उदाहरण के लिए, वे पीले मारने के लिए 200 अंक बना सकते थे।
 
-![target sprite](images/target-sprite.png)
+![निशाना sprite](images/target-sprite.png)
 
 ```blocks3
 when [space v] key pressed
