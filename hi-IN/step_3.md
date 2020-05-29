@@ -41,13 +41,13 @@ end
 
 अपने खेल का फिर से परीक्षण करें। इस बार, जब आप स्पेस बार दबाते हैं, तो आपको अपने तीर को छोटा होना चाहिए, जैसे कि वह लक्ष्य की ओर बढ़ रहा हो।
 
-![target with the cross hair on it](images/archery-animate-test.png)
+![लक्ष्य के साथ बाल पार करना](images/archery-animate-test.png)
 
 \--- /task \---
 
 \--- task \---
 
-एक बार जब आपका तीर निशाने पर होगा, तो आप खिलाड़ी को बता सकते हैं कि उन्होंने कितने अंक बनाए हैं। For example, they could score 200 points for hitting the yellow.
+एक बार जब आपका तीर निशाने पर होगा, तो आप खिलाड़ी को बता सकते हैं कि उन्होंने कितने अंक बनाए हैं। उदाहरण के लिए, वे पीले मारने के लिए 200 अंक बना सकते थे।
 
 ![target sprite](images/target-sprite.png)
 
@@ -66,9 +66,9 @@ end
 
 \--- task \---
 
-You can also play a sound if they hit the yellow.
+यदि आप पीले रंग से टकराते हैं तो आप ध्वनि भी बजा सकते हैं।
 
-![target sprite](images/target-sprite.png)
+![लक्ष्य sprite](images/target-sprite.png)
 
 ```blocks3
 when [space v] key pressed
@@ -86,9 +86,9 @@ end
 
 \--- task \---
 
-Finally, you need to broadcast the `new arrow`{:class="block3events"} message again to get a new arrow.
+अंत में, आपको एक नया तीर प्राप्त करने के लिए `नए तीर`{: class = "block3events"} संदेश को फिर से ब्राडकास्ट करने की आवश्यकता है।
 
-![target sprite](images/target-sprite.png)
+![लक्ष्य sprite](images/target-sprite.png)
 
 ```blocks3
 when [space v] key pressed
