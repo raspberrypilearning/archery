@@ -1,12 +1,12 @@
-## Shooting arrows
+## Okları atma
 
-Let's code your arrow to shoot when the space bar is pressed.
+Boşluk tuşuna basıldığında oku fırlatmak için okunuzun kodlarını yazalım.
 
 \--- task \---
 
-Stop the other script (the one moving the arrow) when the space bar is pressed.
+Boşluk çubuğuna basıldığında (oku hareket ettiren) diğer komut dosyasını durdurun.
 
-![target sprite](images/target-sprite.png)
+![hedef kukla](images/target-sprite.png)
 
 ```blocks3
 when [space v] key pressed
@@ -17,15 +17,15 @@ stop [other scripts in sprite v]
 
 \--- task \---
 
-Test your project again. This time, your arrow should stop moving **when the space bar is pressed**.
+Kodunuzu tekrar test edin. Bu kez, **boşluk çubuğuna basıldığında** okunuz durmalı.
 
 \--- /task \---
 
 \--- task \---
 
-Animate your arrow, so that it looks like it's moving towards the target.
+Okunuzu canlandırın, böylece hedefe doğru hareket ediyormuş gibi görünür.
 
-![target sprite](images/target-sprite.png)
+![hedef kukla](images/target-sprite.png)
 
 ```blocks3
 when [space v] key pressed
@@ -39,15 +39,15 @@ end
 
 \--- task \---
 
-Test your game again. This time, when you press the space bar you should see your arrow get smaller, as if it's moving towards the target.
+Oyununuzu tekrardan test edin. Bu kez, boşluk tuşuna bastığınızda, okunuzun hedefe doğru hareket ediyormuş gibi küçüldüğünü görmelisiniz.
 
-![target with the cross hair on it](images/archery-animate-test.png)
+![üzerinde artı işareti ile hedef](images/archery-animate-test.png)
 
 \--- /task \---
 
 \--- task \---
 
-Once your arrow is at the target, you can tell the player how many points they have scored. For example, they could score 200 points for hitting the yellow.
+Okunuz hedefe ulaştığında, oyuncuya kaç puan kazandığını söyleyebilirsiniz. Örneğin, sarıya vurduklarında 200 puan alabilirler.
 
 ![target sprite](images/target-sprite.png)
 
@@ -66,7 +66,7 @@ end
 
 \--- task \---
 
-You can also play a sound if they hit the yellow.
+Eğer sarıya vururlarsa bir de ses çıkmasını sağlayabilirsiniz.
 
 ![target sprite](images/target-sprite.png)
 
@@ -86,7 +86,7 @@ end
 
 \--- task \---
 
-Finally, you need to broadcast the `new arrow`{:class="block3events"} message again to get a new arrow.
+Son olarak, yeni bir ok almak için `yeni ok`{: class = "block3events"} mesajını tekrar yayınlamanız gerekir.
 
 ![target sprite](images/target-sprite.png)
 
@@ -103,4 +103,4 @@ end
 +broadcast (new arrow v)
 ```
 
-\--- /task \---
+\--- /görev \---
