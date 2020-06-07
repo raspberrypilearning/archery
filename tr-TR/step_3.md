@@ -41,7 +41,7 @@ end
 
 Oyununuzu tekrardan test edin. Bu kez, boşluk tuşuna bastığınızda, okunuzun hedefe doğru hareket ediyormuş gibi küçüldüğünü görmelisiniz.
 
-![üzerinde artı işareti ile hedef](images/archery-animate-test.png)
+![üzerinde artı işareti olan hedef](images/archery-animate-test.png)
 
 \--- /task \---
 
@@ -49,7 +49,7 @@ Oyununuzu tekrardan test edin. Bu kez, boşluk tuşuna bastığınızda, okunuzu
 
 Okunuz hedefe ulaştığında, oyuncuya kaç puan kazandığını söyleyebilirsiniz. Örneğin, sarıya vurduklarında 200 puan alabilirler.
 
-![target sprite](images/target-sprite.png)
+![hedef kukla](images/target-sprite.png)
 
 ```blocks3
 when [space v] key pressed
@@ -68,7 +68,7 @@ end
 
 Eğer sarıya vururlarsa bir de ses çıkmasını sağlayabilirsiniz.
 
-![target sprite](images/target-sprite.png)
+![hedef kukla](images/target-sprite.png)
 
 ```blocks3
 when [space v] key pressed
@@ -88,7 +88,7 @@ end
 
 Son olarak, yeni bir ok almak için `yeni ok`{: class = "block3events"} mesajını tekrar yayınlamanız gerekir.
 
-![target sprite](images/target-sprite.png)
+![hedef kukla](images/target-sprite.png)
 
 ```blocks3
 when [space v] key pressed
