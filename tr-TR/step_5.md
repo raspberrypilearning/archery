@@ -1,8 +1,8 @@
-## What next?
+## Sırada ne var?
 
-Take a look at the [Sprint](https://projects.raspberrypi.org/en/projects/sprint) Scratch project.
+[Sprint](https://projects.raspberrypi.org/en/projects/sprint) Scratch projesine bir göz atın.
 
-You are going to learn how to create your own sprint game, in which you have to use the left and right arrow keys to get to the finish line as quickly as you can.
+Bitiş çizgisine olabildiğince çabuk ulaşmak için sol ve sağ ok tuşlarını kullanmanız gereken kendi kukla oyununuzu yapmayı öğreneceksiniz.
 
 --- no-print ---
 
@@ -15,6 +15,6 @@ You are going to learn how to create your own sprint game, in which you have to 
 
 --- print-only ---
 
-![complete project](images/sprint-final.png)
+![tamamlanmış proje](images/sprint-final.png)
 
 --- /print-only ---
