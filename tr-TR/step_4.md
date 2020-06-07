@@ -1,5 +1,5 @@
-## Challenge: Different scores
+## Meydan Okuma: Farklı skorlar
 
-Can you add code to your game, so that you get a different score for hitting different parts of the target?
+Hedefin farklı kısımlarına vurulduğunda farklı bir puan elde etmek için oyununuza kod ekleyebilir misiniz?
 
-![cross hair on the blue part of the target with the phrase 100 points](images/archery-challenge.png)
+![hedefin mavi kısmındaki artı işareti 100 puanı ifade ediyor](images/archery-challenge.png)
