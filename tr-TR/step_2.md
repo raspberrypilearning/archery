@@ -1,20 +1,20 @@
 ## Okları nişan alma
 
-Let's start by creating an arrow that moves around the screen.
+Ekranda hareket eden bir ok oluşturarak başlayalım.
 
 \--- task \---
 
-Open the Scratch starter project.
+Scratch başlangıç projesini açın.
 
-**Online**: open the starter project at [rpf.io/archeryon](http://rpf.io/archeryon){:target="_blank"}.
+**Çevrimiçi**: başlangıç projesini [rpf.io/archeryon](http://rpf.io/archeryon){:target="_ blank"} linkinden açın.
 
-If you have a Scratch account you can make a copy by clicking **Remix**.
+Eğer bir Scratch hesabınız varsa, **Remix**'e tıklayarak bir kopyasını oluşturabilirsiniz.
 
-**Offline**: open the [starter project](http://rpf.io/p/en/archery-go){:target="_blank"} in the offline editor.
+** Çevrimdışı**: [başlangıç projesini](http://rpf.io/p/en/archery-go) Çevrimdışı editörde {:target ="_blank"} açın.
 
-If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+Scratch çevrimdışı editörünü indirip kurmanız gerekirse, bunu [ rpf.io/scratchoff adresinde bulabilirsiniz.](http://rpf.io/scratchoff) {: Hedef = "_ blank"}.
 
-In the starter project, you should see a target backdrop and a cross hair sprite.
+Başlangıç projesinde, bir hedef zemini ve bir artı şeklinde kukla görmelisiniz.
 
 ![starter projects](images/archery-starter.png)
 
@@ -22,7 +22,7 @@ In the starter project, you should see a target backdrop and a cross hair sprite
 
 \--- task \---
 
-When your game starts, broadcast a message to shoot a new arrow.
+Oyununuz başladığında, yeni bir ok atmak için bir mesaj yayınlayın.
 
 ![target sprite](images/target-sprite.png)
 
@@ -35,7 +35,7 @@ broadcast (new arrow v)
 
 \--- task \---
 
-Once this message has been received, set the arrow's position and size.
+Bu mesaj alındıktan sonra, okun konumunu ve boyutunu ayarlayın.
 
 ![target sprite](images/target-sprite.png)
 
@@ -49,7 +49,7 @@ set size to (400) %
 
 \--- task \---
 
-Click the green flag to test your game. You should see your arrow get bigger and move to the bottom-left of the stage.
+Oyununuzu test etmek için yeşil bayrağa tıklayın. Okunuzun büyüdüğünü ve sahnenin sol alt köşesine hareket ettiğini görmelisiniz.
 
 ![larger target sprite in bottom left of stage](images/archery-start-test.png)
 
@@ -57,7 +57,7 @@ Click the green flag to test your game. You should see your arrow get bigger and
 
 \--- task \---
 
-Add code to your arrow so that it `glides`{:class="block3motion"} randomly around the stage `forever`{:class="block3control"}.
+Sahnede etrafında rastgele `sürekli`{: class = "block3control"} `süzülmesi`{: class = "block3motion"} için okunuza kod ekleyin.
 
 ![target sprite](images/target-sprite.png)
 
@@ -74,7 +74,7 @@ end
 
 \--- task \---
 
-Test your game again, and you should see your arrow move randomly around the stage.
+Oyununuzu tekrar test edin ve okunuzun sahnede rastgele hareket ettiğini görmelisiniz.
 
 ![target in a different position](images/archery-glide-test.png)
 
