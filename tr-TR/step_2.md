@@ -2,7 +2,7 @@
 
 Ekranda hareket eden bir ok oluşturarak başlayalım.
 
-\--- task \---
+\--- görev \---
 
 Scratch başlangıç projesini açın.
 
@@ -16,66 +16,65 @@ Scratch çevrimdışı editörünü indirip kurmanız gerekirse, bunu [ rpf.io/s
 
 Başlangıç projesinde, bir hedef zemini ve bir artı şeklinde kukla görmelisiniz.
 
-![starter projects](images/archery-starter.png)
+![başlangıç projeleri](images/archery-starter.png)
 
-\--- /task \---
+\--- görev \---
 
-\--- task \---
+\--- görev \---
 
 Oyununuz başladığında, yeni bir ok atmak için bir mesaj yayınlayın.
 
-![target sprite](images/target-sprite.png)
+![hedef kukla](images/target-sprite.png)
 
 ```blocks3
-when green flag clicked
-broadcast (new arrow v)
+yeşil bayrak tıkladığında yayınla (yeni ok v)
 ```
 
-\--- /task \---
+\--- görev \---
 
-\--- task \---
+\--- görev \---
 
 Bu mesaj alındıktan sonra, okun konumunu ve boyutunu ayarlayın.
 
-![target sprite](images/target-sprite.png)
+![hedef kukla](images/target-sprite.png)
 
 ```blocks3
-when I receive [new arrow v]
-go to x: (-150) y: (-150)
-set size to (400) %
+[yeni ok v]
+aldığımda x: (-150)'ye y: (-150)'ye gidin
+ve boyutu (%400) olarak ayarlayın.
 ```
 
-\--- /task \---
+\--- görev \---
 
-\--- task \---
+\--- görev \---
 
 Oyununuzu test etmek için yeşil bayrağa tıklayın. Okunuzun büyüdüğünü ve sahnenin sol alt köşesine hareket ettiğini görmelisiniz.
 
-![larger target sprite in bottom left of stage](images/archery-start-test.png)
+![sahnenin sol alt tarafında daha büyük hedef kukla](images/archery-start-test.png)
 
-\--- /task \---
+\--- görev \---
 
-\--- task \---
+\--- görev \---
 
 Sahnede etrafında rastgele `sürekli`{: class = "block3control"} `süzülmesi`{: class = "block3motion"} için okunuza kod ekleyin.
 
-![target sprite](images/target-sprite.png)
+![hedef kukla](images/target-sprite.png)
 
 ```blocks3
-when I receive [new arrow v]
-go to x: (-150) y: (-150)
-set size to (400) %
-+forever
-glide (0.5) secs to x: (pick random (-150) to (150)) y: (pick random (-150) to (150))
-end
+[yeni ok v]
+aldığımda x: (-150) y: (-150) konumuna gidin 
+boyutu (400)% olarak belirleyin
++ sonsuza kadar
+süzülme (0,5) saniye x'e: ((-150)'den (150)'ye kadar rastgele seçin) y'ye: ((-150)'den (150)'ye kadar rastgele seçin)
+son
 ```
 
-\--- /task \---
+\--- görev \---
 
-\--- task \---
+\--- görev \---
 
 Oyununuzu tekrar test edin ve okunuzun sahnede rastgele hareket ettiğini görmelisiniz.
 
-![target in a different position](images/archery-glide-test.png)
+![hedef farklı bir konumda](images/archery-glide-test.png)
 
-\--- /task \---
+\--- görev \---
