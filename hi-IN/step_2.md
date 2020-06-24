@@ -57,17 +57,17 @@ set size to (400) %
 
 \--- task \---
 
-अपने बाण पर कोड जोड़ें ताकि यह `ग्लाइड हो`{: class = "block3motion"} निरुद्देश्यता से स्टेज `आसपास हमेशा के लिए`{: class = "block3control"}।
+अपने बाण पर कोड जोड़ें ताकि यह `glides`{:class="block3motion"} निरुद्देश्यता से स्टेज `forever`{:class="block3control"}।
 
 ![लक्ष्य स्प्राइट](images/target-sprite.png)
 
 ```blocks3
-जब मुझे [नया तीर v]
-है तो x: (-150) y: (-150)
-सेट साइज़ से (400)%
-+ हमेशा के लिए
-ग्लाइड (0.5) सेकेंड x तक ले जाएँ: (यादृच्छिक (-150 चुनें) को (150)) y: (यादृच्छिक (-150) से (150))
-छोर तक ले जाएं
+when I receive [new arrow v]
+go to x: (-150) y: (-150)
+set size to (400) %
++forever
+glide (0.5) secs to x: (pick random (-150) to (150)) y: (pick random (-150) to (150))
+end
 ```
 
 \--- /task \---
