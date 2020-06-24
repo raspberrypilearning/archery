@@ -57,7 +57,7 @@ set size to (400) %
 
 --- task ---
 
-अपने बाण पर कोड जोड़ें ताकि यह `glides`{:class="block3motion"} निरुद्देश्यता से स्टेज `forever`{:class="block3control"}।
+अपने बाण पर कोड जोड़ें ताकि यह `glide`{:class="block3motion"} निरुद्देश्यता से स्टेज `forever`{:class="block3control"}।
 
 ![लक्ष्य स्प्राइट](images/target-sprite.png)
 
