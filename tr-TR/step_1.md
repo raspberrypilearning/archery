@@ -4,11 +4,11 @@ Bu, projenin **Scratch 3** versiyonudur. Ayrıca projenin bir de [Scratch 2 vers
 
 \--- /no-print \---
 
-## Introduction
+## Giriş
 
 Burada, okları hedef tahtasına mümkün olduğunca yakın atman gereken bir okçuluk oyununu yapmayı öğreneceksiniz.
 
-### What you will make
+### Ne yapacaksınız
 
 \--- no-print \---
 
@@ -55,7 +55,7 @@ Başlangıç projesini [burada](http://rpf.io/p/en/archery-go){:target="_blank"}
 
 \--- /collapse \---
 
-## \--- collapse \---
+## \--- /collapse \---
 
 ## title: Eğitimciler için ek bilgiler
 
