@@ -7,9 +7,11 @@ description: Strzel z łuku jak najbliżej środka tarczy.
 version: 4
 last_tested: 2019-04-18
 steps:
-  - title: Wprowadzenie
-  - title: Celowanie strzałami
-  - title: Strzelanie z łuku
-  - title: 'Wyzwanie: Różne wyniki'
-    challenge: true
-  - title: 'Co dalej?'
+- title: Wprowadzenie
+  completion: engaged
+- title: Celowanie strzałami
+  completion: internal
+- title: Strzelanie z łuku
+- title: 'Wyzwanie: Różne wyniki'
+  challenge: true
+- title: Co dalej?

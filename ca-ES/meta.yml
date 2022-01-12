@@ -7,9 +7,11 @@ description: Tireu fletxes el més properes que puguis a la diana.
 version: 4
 last_tested: 2019-04-18
 steps:
-  - title: Introducció
-  - title: Fletxes que apunten a un objectiu
-  - title: Disparar fletxes
-  - title: 'Repte: diferents puntuacions'
-    challenge: true
-  - title: 'I ara què ve?'
+- title: Introducció
+  completion: engaged
+- title: Fletxes que apunten a un objectiu
+  completion: internal
+- title: Disparar fletxes
+- title: 'Repte: diferents puntuacions'
+  challenge: true
+- title: I ara què ve?

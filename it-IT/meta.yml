@@ -7,9 +7,11 @@ description: Tira le frecce il più vicino possibile al centro del bersaglio.
 version: 4
 last_tested: 2019-04-18
 steps:
-  - title: Introduzione
-  - title: Mirare
-  - title: Scoccare le frecce
-  - title: 'Sfida: Punteggi differenti'
-    challenge: true
-  - title: 'E poi?'
+- title: Introduzione
+  completion: engaged
+- title: Mirare
+  completion: internal
+- title: Scoccare le frecce
+- title: 'Sfida: Punteggi differenti'
+  challenge: true
+- title: E poi?
