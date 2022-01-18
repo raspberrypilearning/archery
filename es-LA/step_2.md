@@ -10,9 +10,9 @@ Abre el proyecto inicial de Scratch.
 
 Si tienes una cuenta de Scratch puedes hacer una copia haciendo clic en **Remix**.
 
-**Sin conexión**: abre el [proyecto de inicio](http://rpf.io/p/es-LA/archery-go){:target="_blank"} en el editor sin conexión.
+**Sin conexión**: abre el [proyecto de inicio](https://rpf.io/p/es-LA/archery-go){:target="_blank"} en el editor sin conexión.
 
-Si necesitas descargar e instalar el editor offline de Scratch, puedes encontrarlo en [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+Si necesitas descargar e instalar el editor offline de Scratch, puedes encontrarlo en [rpf.io/scratchoff](https://rpf.io/scratchoff){:target="_blank"}.
 
 En el proyecto inicial, deberías ver un fondo con una diana y un objeto en forma de punto de mira.
 
