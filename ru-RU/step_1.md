@@ -37,11 +37,11 @@ title: Что тебе понадобится
 
 ### Программное обеспечение
 
-+ Scratch 3 (либо [онлайн-редактор](http://rpf.io/scratchon){:target="_blank"}, либо [автономный редактор (без подключения к Интернету)](http://rpf.io/scratchoff){:target="_blank"})
++ Scratch 3 (либо [онлайн-редактор](https://rpf.io/scratchon){:target="_blank"}, либо [автономный редактор (без подключения к Интернету)](https://rpf.io/scratchoff){:target="_blank"})
 
 ### Загрузки
 
-Начальный проект можно найти [здесь](http://rpf.io/p/ru-RU/archery-go){:target="_blank"}.
+Начальный проект можно найти [здесь](https://rpf.io/p/ru-RU/archery-go){:target="_blank"}.
 
 --- /collapse ---
 
@@ -65,6 +65,6 @@ title: Дополнительная информация для преподав
 
 --- /no-print ---
 
-Здесь вы можете найти [завершённый проект](http://rpf.io/p/ru-RU/archery-get){:target="_blank"}.
+Здесь вы можете найти [завершённый проект](https://rpf.io/p/ru-RU/archery-get){:target="_blank"}.
 
 --- /collapse ---

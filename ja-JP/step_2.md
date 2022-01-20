@@ -10,9 +10,9 @@
 
 Scratch アカウントを持っている場合、 **リミックス**ボタンをクリックしてプロジェクトをコピーできます。
 
-**オフライン**: オフラインエディターで[基本のプロジェクト](http://rpf.io/p/ja-JP/archery-go){:target="_blank"}を開きます。
+**オフライン**: オフラインエディターで[基本のプロジェクト](https://rpf.io/p/ja-JP/archery-go){:target="_blank"}を開きます。
 
-[rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}からScratch オフラインエディターのダウンロードしてインストールできます。
+[rpf.io/scratchoff](https://rpf.io/scratchoff){:target="_blank"}からScratch オフラインエディターのダウンロードしてインストールできます。
 
 基本のプロジェクトには、まとの背景 (はいけい) と十字のスプライトがあります。
 

@@ -10,9 +10,9 @@
 
 如果您有一个 Scratch 帐户，您可以通过点击 **改编** 复制该项目。
 
-**离线版本**: 在离线编辑器中打开 [初始项目](http://rpf.io/p/zh-CN/archery-go){:target="_blank"}.
+**离线版本**: 在离线编辑器中打开 [初始项目](https://rpf.io/p/zh-CN/archery-go){:target="_blank"}.
 
-如果您需要下载并安装 Scratch 离线编辑器，可以点击链接 [ rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"} 获取 。
+如果您需要下载并安装 Scratch 离线编辑器，可以点击链接 [ rpf.io/scratchoff](https://rpf.io/scratchoff){:target="_blank"} 获取 。
 
 在初始项目中，您应该看到预设好的背景和十字准心精灵。
 
