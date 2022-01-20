@@ -10,9 +10,9 @@ Obriu el projecte inicial de Scratch.
 
 Si tens un compte a Scratch pots fer una còpia fent clic a **Reinventa**.
 
-**Fora de línia**: obre el [projecte inicial](http://rpf.io/p/ca-ES/archery-go){:target="_blank"} a l'editor fora de línia.
+**Fora de línia**: obre el [projecte inicial](https://rpf.io/p/ca-ES/archery-go){:target="_blank"} a l'editor fora de línia.
 
-Si necessites descarregar i instal·lar l'editor fora de línia de Scratch, el pots trobar a [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+Si necessites descarregar i instal·lar l'editor fora de línia de Scratch, el pots trobar a [rpf.io/scratchoff](https://rpf.io/scratchoff){:target="_blank"}.
 
 Al projecte d’inici, hauries de veure un escenari amb una diana com a objectiu i una icona de punt de mira.
 

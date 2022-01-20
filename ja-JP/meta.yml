@@ -7,9 +7,11 @@ description: できるだけまとの中心に矢をあてよう！
 version: 4
 last_tested: 2019-04-18
 steps:
-  - title: はじめに
-  - title: ねらいをつける
-  - title: 矢をはなつ
-  - title: 'チャレンジ: ちがうスコア'
-    challenge: true
-  - title: '次は何をしましょうか？'
+- title: はじめに
+  completion: engaged
+- title: ねらいをつける
+  completion: internal
+- title: 矢をはなつ
+- title: 'チャレンジ: ちがうスコア'
+  challenge: true
+- title: 次は何をしましょうか？

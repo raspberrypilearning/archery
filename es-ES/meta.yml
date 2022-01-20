@@ -7,9 +7,11 @@ description: Dispara flechas tan cerca del blanco de la diana como puedas.
 version: 4
 last_tested: 2019-04-18
 steps:
-  - title: Introducción
-  - title: Apuntando las flechas
-  - title: Disparando flechas
-  - title: 'Desafío: Diferentes puntuaciones'
-    challenge: true
-  - title: '¿Qué hacer a continuación?'
+- title: Introducción
+  completion: engaged
+- title: Apuntando las flechas
+  completion: internal
+- title: Disparando flechas
+- title: 'Desafío: Diferentes puntuaciones'
+  challenge: true
+- title: "¿Qué hacer a continuación?"

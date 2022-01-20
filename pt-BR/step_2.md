@@ -10,9 +10,9 @@ Abra o projeto inicial do Scratch.
 
 Se você tiver uma conta do Scratch, pode fazer uma cópia clicando em **Remix**.
 
-**Offline**: abra o [projeto inicial](http://rpf.io/p/pt-BR/archery-go){:target="_blank"} no editor offline.
+**Offline**: abra o [projeto inicial](https://rpf.io/p/pt-BR/archery-go){:target="_blank"} no editor offline.
 
-Se você precisar baixar e instalar o editor offline do Scratch, você pode encontrá-lo em [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+Se você precisar baixar e instalar o editor offline do Scratch, você pode encontrá-lo em [rpf.io/scratchoff](https://rpf.io/scratchoff){:target="_blank"}.
 
 No projeto inicial, você verá um cenário de alvo e um ator de mira.
 

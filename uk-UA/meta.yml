@@ -7,9 +7,11 @@ description: Влучай стрілами якомога ближче до ці
 version: 4
 last_tested: 2019-04-18
 steps:
-  - title: Вступ
-  - title: Прицілювання
-  - title: Стрільба
-  - title: 'Завдання: Різна кількість балів'
-    challenge: true
-  - title: 'Що далі?'
+- title: Вступ
+  completion: engaged
+- title: Прицілювання
+  completion: internal
+- title: Стрільба
+- title: 'Завдання: Різна кількість балів'
+  challenge: true
+- title: Що далі?

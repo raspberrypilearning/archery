@@ -40,7 +40,7 @@ Sicrhewch fod gan bob plentyn fynediad i'r adnoddau yma.
 ## Nodau Dysgu
 + Detholiad.
 
-Mae'r prosiect yma yn trin elfennau sydd yn rhan o'r adran ganlynol o [Faes Llafur Gwneud Digidol Raspberry Pi](http://rpf.io/curriculum):
+Mae'r prosiect yma yn trin elfennau sydd yn rhan o'r adran ganlynol o [Faes Llafur Gwneud Digidol Raspberry Pi](https://rpf.io/curriculum):
 
 + [Defnyddio cystrawen iaith raglennu sylfaenol i greu rhaglenni syml](https://www.raspberrypi.org/curriculum/programming/creator)
 

@@ -37,11 +37,11 @@ title: O que vais precisar
 
 ### Software
 
-+ Scratch 3 (ou [online](http://rpf.io/scratchon){:target="_blank"} ou [offline](http://rpf.io/scratchoff){:target="_blank"})
++ Scratch 3 (ou [online](https://rpf.io/scratchon){:target="_blank"} ou [offline](https://rpf.io/scratchoff){:target="_blank"})
 
 ### Downloads
 
-O projeto inicial está [aqui](http://rpf.io/p/pt-PT/archery-go){:target="_blank"}.
+O projeto inicial está [aqui](https://rpf.io/p/pt-PT/archery-go){:target="_blank"}.
 
 --- /collapse ---
 
@@ -65,6 +65,6 @@ Se necessitas imprimir este projeto, por favor, utiliza a [versão para impress�
 
 --- /no-print ---
 
-Podes encontrar o [projeto concluído aqui](http://rpf.io/p/pt-PT/archery-get){:target="_blank"}.
+Podes encontrar o [projeto concluído aqui](https://rpf.io/p/pt-PT/archery-get){:target="_blank"}.
 
 --- /collapse ---

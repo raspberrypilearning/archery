@@ -16,8 +16,10 @@ hardware: ''
 software: scratch
 version: 3
 last_tested: 2017-01-01
-steps: 
+steps:
 - title: Cyflwyniad
+  completion: engaged
 - title: Anelu saethau
+  completion: internal
 - title: Gollwng saethau
 - title: 'Her: Sgôr gwahanol'

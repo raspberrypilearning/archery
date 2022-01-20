@@ -7,9 +7,11 @@ description: Dispara flechas o mais ao centro do alvo que conseguires.
 version: 4
 last_tested: 2019-04-18
 steps:
-  - title: Introdução
-  - title: Apontando flechas
-  - title: Atirar flechas
-  - title: 'Desafio: pontuações diferentes'
-    challenge: true
-  - title: 'O que se segue?'
+- title: Introdução
+  completion: engaged
+- title: Apontando flechas
+  completion: internal
+- title: Atirar flechas
+- title: 'Desafio: pontuações diferentes'
+  challenge: true
+- title: O que se segue?
