@@ -18,8 +18,9 @@ version: 3
 last_tested: 2017-01-01
 steps:
 - title: Cyflwyniad
-  completion: engaged
 - title: Anelu saethau
-  completion: internal
 - title: Gollwng saethau
+  completion:
+  - engaged
+  - internal
 - title: 'Her: Sgôr gwahanol'

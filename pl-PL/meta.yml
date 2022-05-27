@@ -8,10 +8,11 @@ version: 4
 last_tested: 2019-04-18
 steps:
 - title: Wprowadzenie
-  completion: engaged
 - title: Celowanie strzałami
-  completion: internal
 - title: Strzelanie z łuku
+  completion:
+  - engaged
+  - internal
 - title: 'Wyzwanie: Różne wyniki'
   challenge: true
 - title: Co dalej?

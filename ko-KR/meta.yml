@@ -8,10 +8,11 @@ version: 4
 last_tested: 2019-04-18
 steps:
 - title: 소개
-  completion: engaged
 - title: 화살 조준
-  completion: internal
 - title: 화살 발사
+  completion:
+  - engaged
+  - internal
 - title: '도전 과제: 다른 점수'
   challenge: true
 - title: 더 나아가기

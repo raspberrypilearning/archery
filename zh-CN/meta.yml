@@ -8,10 +8,11 @@ version: 4
 last_tested: 2019-04-18
 steps:
 - title: 介绍
-  completion: engaged
 - title: 瞄准箭头
-  completion: internal
 - title: 发射箭头
+  completion:
+  - engaged
+  - internal
 - title: 挑战：不同的分数
   challenge: true
 - title: 接下来还有什么？

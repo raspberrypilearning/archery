@@ -8,10 +8,11 @@ version: 4
 last_tested: 2019-04-18
 steps:
 - title: Einleitung
-  completion: engaged
 - title: Pfeile zielen
-  completion: internal
 - title: Pfeile schießen
+  completion:
+  - engaged
+  - internal
 - title: 'Herausforderung: Unterschiedliche Punkte'
   challenge: true
 - title: Wie geht es weiter?

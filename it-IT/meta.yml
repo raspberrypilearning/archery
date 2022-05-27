@@ -8,10 +8,11 @@ version: 4
 last_tested: 2019-04-18
 steps:
 - title: Introduzione
-  completion: engaged
 - title: Mirare
-  completion: internal
 - title: Scoccare le frecce
+  completion:
+  - engaged
+  - internal
 - title: 'Sfida: Punteggi differenti'
   challenge: true
 - title: E poi?

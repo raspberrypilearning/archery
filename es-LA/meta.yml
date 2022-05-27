@@ -8,10 +8,11 @@ version: 4
 last_tested: 2019-04-18
 steps:
 - title: Introducción
-  completion: engaged
 - title: Apuntando flechas
-  completion: internal
 - title: Disparando flechas
+  completion:
+  - engaged
+  - internal
 - title: 'Desafío: Diferentes puntajes'
   challenge: true
 - title: "¿Qué sigue?"
