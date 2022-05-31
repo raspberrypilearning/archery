@@ -8,10 +8,11 @@ version: 4
 last_tested: 2019-04-18
 steps:
 - title: परिचय
-  completion: engaged
 - title: निशाना लगानेवाला तीर
-  completion: internal
 - title: तीर चलाना
+  completion:
+  - engaged
+  - internal
 - title: 'चुनौती: विभिन्न स्कोर'
   challenge: true
 - title: आगे क्या?
