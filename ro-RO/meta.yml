@@ -8,10 +8,11 @@ version: 4
 last_tested: 2019-04-18
 steps:
 - title: Introducere
-  completion: engaged
 - title: Ținta săgeților
-  completion: internal
 - title: Trasul cu săgeți
+  completion:
+  - engaged
+  - internal
 - title: 'Provocare: scoruri diferite'
   challenge: true
 - title: Ce urmează?

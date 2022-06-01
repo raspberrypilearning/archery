@@ -8,10 +8,11 @@ version: 4
 last_tested: 2019-04-18
 steps:
 - title: Вступ
-  completion: engaged
 - title: Прицілювання
-  completion: internal
 - title: Стрільба
+  completion:
+  - engaged
+  - internal
 - title: 'Завдання: Різна кількість балів'
   challenge: true
 - title: Що далі?
