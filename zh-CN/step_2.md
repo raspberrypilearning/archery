@@ -6,13 +6,13 @@
 
 打开 Scratch 初始项目。
 
-**在线版本：** 从 [rpf.io/archeryon](http://rpf.io/archeryon){:target ="_ blank"} 打开初始项目。
+**Online**: open the starter project at [rpf.io/archeryon](https://rpf.io/archeryon){:target="_blank"}.
 
 如果您有一个 Scratch 帐户，您可以通过点击 **改编** 复制该项目。
 
-**离线版本**: 在离线编辑器中打开 [初始项目](http://rpf.io/p/en/archery-go){:target="_blank"}.
+**Offline**: open the [starter project](https://rpf.io/p/en/archery-go){:target="_blank"} in the offline editor.
 
-如果您需要下载并安装 Scratch 离线编辑器，可以点击链接 [ rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"} 获取 。
+If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](https://rpf.io/scratchoff){:target="_blank"}.
 
 在初始项目中，您应该看到一个靶子的背景和一个十字准心的角色。
 
