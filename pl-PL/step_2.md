@@ -6,7 +6,7 @@ Zacznijmy od stworzenia celownika, który porusza się po ekranie.
 
 Otwórz projekt startowy Scratch.
 
-**Online**: otwórz projekt startowy na stronie [scratch.mit.edu/projects/382447114](https://scratch.mit.edu/projects/382447114){:target="_blank"}.
+**Online**: otwórz projekt startowy na stronie [rpf.io/archeryon](https://rpf.io/archeryon){:target="_blank"}.
 
 Jeśli masz konto Scratch, możesz wykonać kopię klikając **Remiks**.
 
@@ -22,7 +22,7 @@ W projekcie startowym powinieneś zobaczyć tło docelowe i duszka celownika.
 
 --- task ---
 
-Po uruchomieniu gry wyślij wiadomość, aby wystrzelić nową strzałę.
+Po uruchomieniu gry użyj bloku "nadaj komunikat", aby przygotować nową strzałę.
 
 ![celownik](images/target-sprite.png)
 
@@ -35,7 +35,7 @@ broadcast (nowa strzała v)
 
 --- task ---
 
-Po otrzymaniu wiadomości ustaw pozycję i rozmiar celownika.
+Po otrzymaniu komunikatu ustaw pozycję i rozmiar celownika.
 
 ![celownik](images/target-sprite.png)
 
