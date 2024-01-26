@@ -13,8 +13,11 @@ steps:
     title: Наведение стрел
   - 
     title: Стрельба стрелами
+    completion:
+      - engaged
+      - internal
   - 
     title: 'Задача: разное количество очков'
     challenge: true
   - 
-    title: 'Что дальше?'
+    title: Что дальше?
