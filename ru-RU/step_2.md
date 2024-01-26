@@ -6,13 +6,13 @@
 
 Открой стартовый проект Scratch.
 
-**Онлайн**: открой стартовый проект по адресу [rpf.io/archeryon](http://rpf.io/archeryon){:target="_blank"}.
+**Online**: open the starter project at [rpf.io/archeryon](https://rpf.io/archeryon){:target="_blank"}.
 
 Если у тебя есть учётная запись в Scratch, то ты можешь сделать копию проекта, нажав **Ремикс**.
 
-**Оффлайн**: открой [стартовый проект](http://rpf.io/p/en/archery-go){:target="_blank"} в оффлайн редакторе.
+**Offline**: open the [starter project](https://rpf.io/p/en/archery-go){:target="_blank"} in the offline editor.
 
-Если тебе нужно скачать и установить оффлайн редактор Scratch, ты можешь найти его по адресу [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](https://rpf.io/scratchoff){:target="_blank"}.
 
 В стартовом проекте ты должен увидеть фон в виде мишени и спрайт с перекрестием.
 
