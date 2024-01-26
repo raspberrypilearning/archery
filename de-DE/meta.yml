@@ -13,8 +13,11 @@ steps:
     title: Pfeile zielen
   - 
     title: Pfeile schießen
+    completion:
+      - engaged
+      - internal
   - 
     title: 'Herausforderung: Unterschiedliche Punkte'
     challenge: true
   - 
-    title: 'Wie geht es weiter?'
+    title: Wie geht es weiter?
