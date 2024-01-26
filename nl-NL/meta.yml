@@ -13,8 +13,11 @@ steps:
     title: Richt je pijlen
   - 
     title: Pijlen afschieten
+    completion:
+      - engaged
+      - internal
   - 
     title: 'Uitdaging: verschillende scores'
     challenge: true
   - 
-    title: 'Wat kun je verder nog doen?'
+    title: Wat kun je verder nog doen?
