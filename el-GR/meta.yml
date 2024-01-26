@@ -13,8 +13,11 @@ steps:
     title: Βέλη στόχευσης
   - 
     title: Βέλη σκοποβολής
+    completion:
+      - engaged
+      - internal
   - 
     title: 'Πρόκληση: Διαφορετικές βαθμολογίες'
     challenge: true
   - 
-    title: 'Τι υπάρχει στη συνέχεια;'
+    title: Τι υπάρχει στη συνέχεια;
