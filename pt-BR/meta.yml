@@ -13,8 +13,11 @@ steps:
     title: Mirando as flechas
   - 
     title: Atirando as flechas
+    completion:
+      - engaged
+      - internal
   - 
     title: 'Desafio: Pontuações diferentes'
     challenge: true
   - 
-    title: 'E agora?'
+    title: E agora?
