@@ -6,13 +6,13 @@
 
 스크래치 스타터 프로젝트를 엽니다.
 
-**온라인**: [ rpf.io/archeryon](http://rpf.io/archeryon) {:target="_blank"}에서 스타터 프로젝트를 여세요.
+**Online**: open the starter project at [rpf.io/archeryon](https://rpf.io/archeryon){:target="_blank"}.
 
 스크래치 계정이 있는 경우 **Remix를 클릭** 하여 사본을 만들 수 있습니다.
 
-**오프라인**: [스타터 프로젝트](http://rpf.io/p/en/archery-go){:target="_blank"} 를 오프라인 에디터에서 여세요.
+**Offline**: open the [starter project](https://rpf.io/p/en/archery-go){:target="_blank"} in the offline editor.
 
-스크래치 오프라인 에디터를 다운로드 받아야 하는 경우, [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"} 에서 다운로드 받을 수 있습니다.
+If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](https://rpf.io/scratchoff){:target="_blank"}.
 
 스타터 프로젝트에서 배경과 십자가 모양의 스프라이트를 확인할 수 있습니다.
 
