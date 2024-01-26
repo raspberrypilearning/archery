@@ -13,8 +13,11 @@ steps:
     title: Celowanie strzałami
   - 
     title: Strzelanie z łuku
+    completion:
+      - engaged
+      - internal
   - 
     title: 'Wyzwanie: Różne wyniki'
     challenge: true
   - 
-    title: 'Co dalej?'
+    title: Co dalej?
