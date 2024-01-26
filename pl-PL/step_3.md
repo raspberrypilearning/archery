@@ -17,7 +17,7 @@ stop [other scripts in sprite v]
 
 \--- task \---
 
-Przetestuj swój projekt ponownie. Tym razem twoja strzała powinna przestać się poruszać **po naciśnięciu spacji**.
+Przetestuj swój projekt ponownie. Tym razem twój celownik powinien przestać się poruszać **po naciśnięciu spacji**.
 
 \--- /task \---
 
