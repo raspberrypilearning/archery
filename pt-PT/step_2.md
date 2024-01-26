@@ -6,13 +6,13 @@ Vamos começar por criar uma flecha que se move pelo ecrã.
 
 Abre o projeto inicial do Scratch.
 
-**Online:** abre o projeto inicial em [rpf.io/archeryon](http://rpf.io/archeryon){:target="_blank"}.
+**Online**: open the starter project at [rpf.io/archeryon](https://rpf.io/archeryon){:target="_blank"}.
 
 Se tiveres uma 'conta Scratch' podes fazer uma cópia ao clicares **Remix**.
 
-**Offline**: Abre o [projecto inicial](http://rpf.io/p/en/archery-go){:target="_blank"} no editor offline.
+**Offline**: open the [starter project](https://rpf.io/p/en/archery-go){:target="_blank"} in the offline editor.
 
-Se precisares de descarregar e instalar o editor offline do Scratch, podes encontrá-lo em [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](https://rpf.io/scratchoff){:target="_blank"}.
 
 No projeto inicial, vais ver um cenário com um alvo e um ator com a mira.
 
