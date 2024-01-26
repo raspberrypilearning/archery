@@ -6,13 +6,13 @@ Cominciamo creando una freccia che si sposta sullo schermo.
 
 Apri il progetto iniziale.
 
-**Online**: apri il progetto iniziale su [rpf.io/archeryon](http://rpf.io/archeryon){:target="_blank"}.
+**Online**: open the starter project at [rpf.io/archeryon](https://rpf.io/archeryon){:target="_blank"}.
 
 Se hai un account su Scratch, puoi farne una copia cliccando su **Remix**.
 
-**Offline**: apri il [progetto iniziale](http://rpf.io/p/en/archery-go){:target="_blank"} nell'editor offline.
+**Offline**: open the [starter project](https://rpf.io/p/en/archery-go){:target="_blank"} in the offline editor.
 
-Se hai bisogno di scaricare ed installare l'editor Scratch offline, puoi trovarlo su [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](https://rpf.io/scratchoff){:target="_blank"}.
 
 Nel progetto iniziale, dovresti vedere un bersaglio di sfondo e uno sprite rappresentante un mirino.
 
