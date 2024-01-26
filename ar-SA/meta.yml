@@ -13,8 +13,11 @@ steps:
     title: تصويب السهام
   - 
     title: سهام الرماية
+    completion:
+      - engaged
+      - internal
   - 
     title: 'التحدي: درجات مختلفة'
     challenge: true
   - 
-    title: 'ما التالي؟'
+    title: ما التالي؟
