@@ -13,8 +13,11 @@ steps:
     title: Прицілювання
   - 
     title: Стрільба
+    completion:
+      - engaged
+      - internal
   - 
     title: 'Завдання: Різна кількість балів'
     challenge: true
   - 
-    title: 'Що далі?'
+    title: Що далі?
