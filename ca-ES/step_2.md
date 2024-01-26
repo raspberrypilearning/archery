@@ -6,13 +6,13 @@ Comencem creant una fletxa que es desplaça per la pantalla.
 
 Obriu el projecte inicial de Scratch.
 
-**en línia**: obre el projecte d’inici a [rpf.io/archeryon](http://rpf.io/archeryon){:target="_ blank"}.
+**Online**: open the starter project at [rpf.io/archeryon](https://rpf.io/archeryon){:target="_blank"}.
 
 Si tens un compte a Scratch pots fer una còpia fent clic a **Reinventa**.
 
-**Fora de línia**: obre el [projecte inicial](http://rpf.io/p/en/archery-go){:target="_ blank"} a l'editor fora de línia.
+**Offline**: open the [starter project](https://rpf.io/p/en/archery-go){:target="_blank"} in the offline editor.
 
-Si necessites descarregar i instal·lar l'editor fora de línia de Scratch, el pots trobar a [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](https://rpf.io/scratchoff){:target="_blank"}.
 
 Al projecte d’inici, hauries de veure un escenari amb una diana com a objectiu i una icona de punt de mira.
 
