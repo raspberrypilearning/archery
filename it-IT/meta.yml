@@ -13,8 +13,11 @@ steps:
     title: Mirare
   - 
     title: Scoccare le frecce
+    completion:
+      - engaged
+      - internal
   - 
     title: 'Sfida: Punteggi differenti'
     challenge: true
   - 
-    title: 'E adesso?'
+    title: E adesso?
