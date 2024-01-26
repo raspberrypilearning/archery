@@ -6,13 +6,13 @@ Ekranda hareket eden bir ok oluşturarak başlayalım.
 
 Scratch başlangıç projesini açın.
 
-**Çevrimiçi**: başlangıç projesini [rpf.io/archeryon](http://rpf.io/archeryon){:target="_ blank"} linkinden açın.
+**Online**: open the starter project at [rpf.io/archeryon](https://rpf.io/archeryon){:target="_blank"}.
 
 Eğer bir Scratch hesabınız varsa, **Remix**'e tıklayarak bir kopyasını oluşturabilirsiniz.
 
-** Çevrimdışı**: [başlangıç projesini](http://rpf.io/p/en/archery-go) Çevrimdışı editörde {:target ="_blank"} açın.
+**Offline**: open the [starter project](https://rpf.io/p/en/archery-go){:target="_blank"} in the offline editor.
 
-Scratch çevrimdışı editörünü indirip kurmanız gerekirse, bunu [ rpf.io/scratchoff adresinde bulabilirsiniz.](http://rpf.io/scratchoff) {: Hedef = "_ blank"}.
+If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](https://rpf.io/scratchoff){:target="_blank"}.
 
 Başlangıç projesinde, bir hedef zemini ve bir artı şeklinde kukla görmelisiniz.
 
