@@ -13,8 +13,11 @@ steps:
     title: 瞄箭
   - 
     title: 射箭
+    completion:
+      - engaged
+      - internal
   - 
     title: '挑战：不同的分数'
     challenge: true
   - 
-    title: '接下来呢？'
+    title: 接下来呢？
