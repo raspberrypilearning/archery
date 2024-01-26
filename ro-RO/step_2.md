@@ -6,13 +6,13 @@ Să începem prin crearea unei săgeți care se mișcă pe ecran.
 
 Deschide proiectul Scratch de început.
 
-**Online**: deschide proiectul de bază de la [rpf.io/archeryon](http://rpf.io/archeryon){:target="_blank"}.
+**Online**: open the starter project at [rpf.io/archeryon](https://rpf.io/archeryon){:target="_blank"}.
 
 Dacă ai un cont Scratch, poți să creezi o copie dând click pe **Remix**.
 
-**Offline**: deschide [proiectul de bază](http://rpf.io/p/en/archery-go){:target="_blank"} în editorul offline.
+**Offline**: open the [starter project](https://rpf.io/p/en/archery-go){:target="_blank"} in the offline editor.
 
-Dacă trebuie să descarci și să instalezi editorul Scratch offline, îl poți găsi la [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](https://rpf.io/scratchoff){:target="_blank"}.
 
 În proiectul de început, ar trebui să vezi un fundal de țintă și un costum cu o cruce roșie.
 
