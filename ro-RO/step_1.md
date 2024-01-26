@@ -37,11 +37,11 @@ Dă click pe steagul verde pentru a începe. Folosește bara de spațiu pentru a
 
 ### Software
 
-+ Scratch 3 (fie [online](http://rpf.io/scratchon){:target="_blank"} sau [offline](http://rpf.io/scratchoff){:target="_blank"})
++ Scratch 3 (either [online](https://rpf.io/scratchon){:target="_blank"} or [offline](https://rpf.io/scratchoff){:target="_blank"})
 
 ### Fișiere descărcabile
 
-Proiectul inițial poate fi găsit [aici](http://rpf.io/p/en/archery-go){:target="_blank"}.
+The starter project can be found [here](https://rpf.io/p/en/archery-go){:target="_blank"}.
 
 \--- /collapse \---
 
@@ -65,6 +65,6 @@ Dacă ai nevoie să tipărești acest proiect, folosește [versiunea printabilă
 
 \--- /no-print \---
 
-Poți găsi [proiectul finalizat aici](http://rpf.io/p/en/archery-get){:target="_blank"}.
+You can find the [completed project here](https://rpf.io/p/en/archery-get){:target="_blank"}.
 
 \--- /collapse \---
