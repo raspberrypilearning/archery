@@ -13,6 +13,9 @@ steps:
     title: Apuntando las flechas
   - 
     title: Disparando flechas
+    completion:
+      - engaged
+      - internal
   - 
     title: 'Desafío: Diferentes puntajes'
     challenge: true
