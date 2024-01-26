@@ -6,13 +6,13 @@ Zacznijmy od stworzenia celownika, który porusza się po ekranie.
 
 Otwórz projekt startowy Scratch.
 
-**Online**: otwórz projekt startowy na stronie [rpf.io/archeryon](http://rpf.io/archeryon){:target="_blank"}.
+**Online**: open the starter project at [rpf.io/archeryon](https://rpf.io/archeryon){:target="_blank"}.
 
 Jeśli masz konto Scratch, możesz wykonać kopię klikając **Remiks**.
 
-**Offline**: otwórz [ projekt startowy ](http://rpf.io/p/en/archery-go) {:target="_ blank"} w edytorze offline.
+**Offline**: open the [starter project](https://rpf.io/p/en/archery-go){:target="_blank"} in the offline editor.
 
-Jeśli musisz pobrać i zainstalować edytor offline Scratcha, znajdziesz go na stronie [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](https://rpf.io/scratchoff){:target="_blank"}.
 
 W projekcie startowym powinieneś zobaczyć tło docelowe i duszka celownika.
 
@@ -22,7 +22,7 @@ W projekcie startowym powinieneś zobaczyć tło docelowe i duszka celownika.
 
 \--- task \---
 
-Po uruchomieniu gry wyślij wiadomość, aby wystrzelić nową strzałę.
+Po uruchomieniu gry użyj bloku "nadaj komunikat", aby przygotować nową strzałę.
 
 ![celownik](images/target-sprite.png)
 
@@ -35,7 +35,7 @@ broadcast (new arrow v)
 
 \--- task \---
 
-Po otrzymaniu wiadomości ustaw pozycję i rozmiar celownika.
+Po otrzymaniu komunikatu ustaw pozycję i rozmiar celownika.
 
 ![celownik](images/target-sprite.png)
 
