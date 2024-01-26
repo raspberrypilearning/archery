@@ -13,8 +13,11 @@ steps:
     title: Okla nişan alma
   - 
     title: Okları fırlatma
+    completion:
+      - engaged
+      - internal
   - 
     title: 'Meydan Okuma: Farklı skorlar'
     challenge: true
   - 
-    title: 'Sırada ne var?'
+    title: Sırada ne var?
