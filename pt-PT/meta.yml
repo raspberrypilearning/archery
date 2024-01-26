@@ -13,8 +13,11 @@ steps:
     title: Apontar as flechas
   - 
     title: Disparar as flechas
+    completion:
+      - engaged
+      - internal
   - 
     title: 'Desafio: pontuações diferentes'
     challenge: true
   - 
-    title: 'O que se segue?'
+    title: O que se segue?
