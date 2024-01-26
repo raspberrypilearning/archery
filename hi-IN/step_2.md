@@ -6,13 +6,13 @@
 
 स्क्रैच स्टार्टर प्रोजेक्ट खोलें।
 
-**ऑनलाइन**: स्टार्टर प्रोजेक्ट को [rpf.io/archeryon](http://rpf.io/archeryon){: target = "_ blank"} पर खोलें।
+**Online**: open the starter project at [rpf.io/archeryon](https://rpf.io/archeryon){:target="_blank"}.
 
 यदि आपके पास एक स्क्रैच खाता है, तो आप ** रीमिक्स ** पर क्लिक करके कापी बना सकते हैं ।
 
-**ऑफलाइन**:खोलो[ स्टार्टर प्रोजेक्ट](http://rpf.io/p/en/archery-go){:target="_blank"} को ऑफलाइन एडिटर में खोलिये।
+**Offline**: open the [starter project](https://rpf.io/p/en/archery-go){:target="_blank"} in the offline editor.
 
-यदि आपको स्क्रैच ऑफ़लाइन एडिटर को डाउनलोड और इंस्टॉल करने की आवश्यकता है, तो आप इसे [rpf.io/scratchoff](http://rpf.io/scratchoff) {:target="_blank"} पर पा सकते हैं।
+If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](https://rpf.io/scratchoff){:target="_blank"}.
 
 स्टार्टर प्रोजेक्ट में, आपको एक लक्ष्य पृष्ठभूमि और एक क्रॉस हेयर स्प्राइट देखना चाहिए।
 
