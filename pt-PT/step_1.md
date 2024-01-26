@@ -37,11 +37,11 @@ Clica na bandeira verde para começar. Usa a barra de espaços para atirar uma f
 
 ### Software
 
-+ Scratch 3 (ou [online](http://rpf.io/scratchon){:target="_ blank"} ou [offline](http://rpf.io/scratchoff){:target="_ blank"})
++ Scratch 3 (either [online](https://rpf.io/scratchon){:target="_blank"} or [offline](https://rpf.io/scratchoff){:target="_blank"})
 
 ### Downloads
 
-O projeto inicial está [aqui](http://rpf.io/p/en/archery-go){:target="_blank"}.
+The starter project can be found [here](https://rpf.io/p/en/archery-go){:target="_blank"}.
 
 \--- /collapse \---
 
@@ -65,6 +65,6 @@ Se necessitas imprimir este projeto, por favor, utiliza a [versão para impress�
 
 \--- /no-print \---
 
-Podes encontrar o [projeto concluído aqui](http://rpf.io/p/en/archery-get){: target = "_ blank"}.
+You can find the [completed project here](https://rpf.io/p/en/archery-get){:target="_blank"}.
 
 \--- /collapse \---
