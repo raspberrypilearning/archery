@@ -37,11 +37,11 @@
 
 ### सॉफ्टवेयर
 
-+ स्क्रैच ३ (भी [ऑनलाइन](http://rpf.io/scratchon){:target="_blank"} or [ऑफ़लाइन](http://rpf.io/scratchoff){:target="_blank"})
++ Scratch 3 (either [online](https://rpf.io/scratchon){:target="_blank"} or [offline](https://rpf.io/scratchoff){:target="_blank"})
 
 ### डाउनलोड
 
-स्टार्टर प्रोजेक्ट यहाँ पाया जा सकता है[here](http://rpf.io/p/en/archery-go){:target="_blank"}.
+The starter project can be found [here](https://rpf.io/p/en/archery-go){:target="_blank"}.
 
 \--- /collapse \---
 
@@ -65,6 +65,6 @@
 
 \--- /no-print \---
 
-आप इधर [पूरी प्रोजेक्ट](http://rpf.io/p/en/archery-get){:target="_blank"} देख सकते हैं ।
+You can find the [completed project here](https://rpf.io/p/en/archery-get){:target="_blank"}.
 
 \--- /collapse \---
