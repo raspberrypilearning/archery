@@ -13,8 +13,11 @@ steps:
     title: Aiming arrows
   - 
     title: Shooting arrows
+    completion:
+      - engaged
+      - internal
   - 
     title: 'Challenge: Different scores'
     challenge: true
   - 
-    title: 'What next?'
+    title: What next?
