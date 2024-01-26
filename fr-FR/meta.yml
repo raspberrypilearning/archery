@@ -13,8 +13,11 @@ steps:
     title: Viser avec les flèches
   - 
     title: Tirer des flèches
+    completion:
+      - engaged
+      - internal
   - 
     title: 'Défi: scores différents'
     challenge: true
   - 
-    title: 'Et ensuite ?'
+    title: Et ensuite ?
