@@ -13,8 +13,11 @@ steps:
     title: Fletxes que apunten a un objectiu
   - 
     title: Disparar fletxes
+    completion:
+      - engaged
+      - internal
   - 
     title: 'Repte: diferents puntuacions'
     challenge: true
   - 
-    title: 'I ara què ve?'
+    title: I ara què ve?
