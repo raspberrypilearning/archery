@@ -6,13 +6,13 @@
 
 基本の Scratch プロジェクトを開きます。
 
-**オンライン**: [rpf.io/archeryon](http://rpf.io/archeryon){:target="_blank"}から基本のプロジェクトを開きます。
+**Online**: open the starter project at [rpf.io/archeryon](https://rpf.io/archeryon){:target="_blank"}.
 
 Scratch アカウントを持っている場合、 **リミックス**ボタンをクリックしてプロジェクトをコピーできます。
 
-**オフライン**: オフラインエディターで[基本のプロジェクト](http://rpf.io/p/en/archery-go){:target="_blank"}を開きます。
+**Offline**: open the [starter project](https://rpf.io/p/en/archery-go){:target="_blank"} in the offline editor.
 
-[rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}からScratch オフラインエディターのダウンロードしてインストールできます。
+If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](https://rpf.io/scratchoff){:target="_blank"}.
 
 基本のプロジェクトには、まとの背景 (はいけい) と十字のスプライトがあります。
 
