@@ -10,9 +10,9 @@ Otwórz projekt startowy Scratch.
 
 Jeśli masz konto Scratch, możesz wykonać kopię klikając **Remiks**.
 
-**Offline**: open the [starter project](https://rpf.io/p/en/archery-go){:target="_blank"} in the offline editor.
+**Offline**: otwórz [projekt startowy](https://rpf.io/p/pl-PL/archery-go){:target="_blank"} w edytorze offline.
 
-If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](https://rpf.io/scratchoff){:target="_blank"}.
+Jeśli musisz pobrać i zainstalować edytor offline Scratcha, znajdziesz go na stronie [rpf.io/scratchoff](https://rpf.io/scratchoff){:target="_blank"}.
 
 W projekcie startowym powinieneś zobaczyć tło docelowe i duszka celownika.
 
