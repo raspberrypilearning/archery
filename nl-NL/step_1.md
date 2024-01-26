@@ -37,11 +37,11 @@ Klik op de groene vlag om te starten. Gebruik de spatiebalk om een pijl af te sc
 
 ### Software
 
-+ Scratch 3 ([online](http://rpf.io/scratchon){:target="_blank"} of [offline](http://rpf.io/scratchoff){:target="_blank"})
++ Scratch 3 (either [online](https://rpf.io/scratchon){:target="_blank"} or [offline](https://rpf.io/scratchoff){:target="_blank"})
 
 ### Downloads
 
-Het startproject kan [hier](http://rpf.io/p/en/archery-go){:target="_blank"} gevonden worden.
+The starter project can be found [here](https://rpf.io/p/en/archery-go){:target="_blank"}.
 
 \--- /collapse \---
 
@@ -65,6 +65,6 @@ Als je dit project wilt afdrukken, gebruik dan de [printvriendelijke versie](htt
 
 \--- /no-print \---
 
-Je kunt het [voltooide project hier](http://rpf.io/p/en/archery-get)"{:target="_blank"} vinden.
+You can find the [completed project here](https://rpf.io/p/en/archery-get){:target="_blank"}.
 
 \--- /collapse \---
