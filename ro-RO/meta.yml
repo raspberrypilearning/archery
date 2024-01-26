@@ -13,8 +13,11 @@ steps:
     title: Ținta săgeților
   - 
     title: Trasul cu săgeți
+    completion:
+      - engaged
+      - internal
   - 
     title: 'Provocare: scoruri diferite'
     challenge: true
   - 
-    title: 'Ce urmează?'
+    title: Ce urmează?
