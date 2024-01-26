@@ -13,8 +13,11 @@ steps:
     title: निशाना लगानेवाला तीर
   - 
     title: तीर चलाना
+    completion:
+      - engaged
+      - internal
   - 
     title: 'चुनौती: विभिन्न स्कोर'
     challenge: true
   - 
-    title: 'आगे क्या?'
+    title: आगे क्या?
