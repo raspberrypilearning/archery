@@ -37,11 +37,11 @@ Başlamak için yeşil bayrağa tıklayın. Bir ok atmak için boşluk tuşunu k
 
 ### Yazılım
 
-+ ([Çevrimiçi](http://rpf.io/scratchon){:target="_blank"} veya [çevrimdışı](http://rpf.io/scratchoff){:target="_blank"}) Scratch 3
++ Scratch 3 (either [online](https://rpf.io/scratchon){:target="_blank"} or [offline](https://rpf.io/scratchoff){:target="_blank"})
 
 ### İndirilenler
 
-Başlangıç projesini [burada](http://rpf.io/p/en/archery-go){:target="_blank"} bulabilirsiniz.
+The starter project can be found [here](https://rpf.io/p/en/archery-go){:target="_blank"}.
 
 \--- /collapse \---
 
@@ -65,6 +65,6 @@ Bu projeyi yazdırmanız gerekiyorsa lütfen [yazıcı-dostu sürümü](https://
 
 \--- /no-print \---
 
-Tamamlanmış projeye [buradan](http://rpf.io/p/en/archery-get){:target="_blank"} ulaşabilirsiniz.
+You can find the [completed project here](https://rpf.io/p/en/archery-get){:target="_blank"}.
 
 \--- /collapse \---
