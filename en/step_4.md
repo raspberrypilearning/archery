@@ -1,6 +1,6 @@
 --- challenge ---
 
-## Challenge: Different scores
+## Challenge
 
 --- task ---
 Add code to your game so that you get a different score for hitting different parts of the target.
