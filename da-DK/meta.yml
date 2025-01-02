@@ -1,0 +1,15 @@
+---
+hero_image: images/banner.png
+listed: true
+copyedit: false
+title: Bueskydning
+description: Du vil lære, hvordan man laver et bueskyttespil, hvor man skal skyde pile så tæt på midten af en skydeskive som muligt.
+version: 4
+last_tested: 2019-04-18
+steps:
+- title: Introduktion
+- title: Sigte pile
+- title: Skyde pile
+- title: 'Udfordring: Forskellige scores'
+  challenge: true
+- title: 'Næste skridt'
