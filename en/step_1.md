@@ -1,14 +1,11 @@
---- no-print ---
+## What you will make
 
-This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/archery-scratch2).
+Create an archery game, in which you have to shoot arrows as close to the bullseye as you can.
 
---- /no-print ---
+--- print-only ---
+![A target with three coloured rings. A crosshair is towards the middle of the target and is reporting 200 points. ](images/archery-final.png)
+--- /print-only ---
 
-## Introduction
-
-You are going to learn how to create an archery game, in which you have to shoot arrows as close to the bullseye as you can.
-
-### What you will make
 
 --- no-print ---
 
@@ -20,56 +17,3 @@ Click on the green flag to start. Use the space bar to shoot an arrow
 </div>
 
 --- /no-print ---
-
---- print-only ---
-
-![complete project](images/archery-final.png)
-
---- /print-only ---
-
---- collapse ---
----
-title: What you will need
----
-
-### Hardware
-
-+ A computer capable of running Scratch
-
-### Software
-
-+ Scratch 3 (either [online](https://rpf.io/scratchon){:target="_blank"} or [offline](https://rpf.io/scratchoff){:target="_blank"})
-
-### Downloads
-
-The starter project can be found [here](https://rpf.io/p/en/archery-go){:target="_blank"}.
-
---- /collapse ---
-
---- collapse ---
----
-title: What you will learn
----
-
-+ Use animations 
-+ Use broadcasts
-+ Use random numbers
-
---- /collapse ---
-
---- collapse ---
----
-title: Additional information for educators
----
-
---- no-print ---
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/archery/print){:target="_blank"}.
-
---- /no-print ---
-
-You can find the [completed project here](https://rpf.io/p/en/archery-get){:target="_blank"}.
-
---- /collapse ---
-
-

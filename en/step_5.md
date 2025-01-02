@@ -1,8 +1,12 @@
-## What next?
+## What can you do now?
 
-Take a look at the [Sprint](https://projects.raspberrypi.org/en/projects/sprint) Scratch project.
+Try our [Sprint](https://projects.raspberrypi.org/en/projects/sprint) project where you will create your own sprint game, in which you have to use the left and right arrow keys to get to the finish line as quickly as you can.
 
-You are going to learn how to create your own sprint game, in which you have to use the left and right arrow keys to get to the finish line as quickly as you can.
+--- print-only ---
+
+![A mountain scene with a road and a finish line. Time and distance variables are displayed on the screen.](images/sprint-final.png)
+
+--- /print-only ---
 
 --- no-print ---
 
@@ -13,8 +17,5 @@ You are going to learn how to create your own sprint game, in which you have to 
 
 --- /no-print ---
 
---- print-only ---
+Or, why not try out another [Scratch](https://projects.raspberrypi.org/en/projects?software%5B%5D=scratch) project.
 
-![complete project](images/sprint-final.png)
-
---- /print-only ---
