@@ -17,5 +17,5 @@ Try our [Sprint](https://projects.raspberrypi.org/en/projects/sprint) project wh
 
 --- /no-print ---
 
-Or, why not try out another [Scratch](https://projects.raspberrypi.org/en/projects?software%5B%5D=scratch) project.
+Or, why not try out another [Scratch](https://projects.raspberrypi.org/en/projects?software%5B%5D=scratch) project?
 

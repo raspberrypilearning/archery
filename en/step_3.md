@@ -1,6 +1,6 @@
 ## Shooting arrows
 
-Now you will code your arrow to shoot when the space bar is pressed.
+Code your arrow to shoot when the space bar is pressed.
 
 --- task ---
 
@@ -35,9 +35,9 @@ end
 
 --- task ---
 
-Test your game again. This time, when you press the space bar you should see your arrow get smaller, as if it's moving towards the target.
+Test your game again. 
 
-![target with the cross hair on it](images/archery-animate-test.png)
+This time, when you press the space bar you should see your arrow get smaller, as if it's moving towards the target.
 
 --- /task ---
 

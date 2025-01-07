@@ -15,7 +15,7 @@ In the starter project, you should see a target backdrop and a cross hair sprite
 
 --- task ---
 
-When your game starts, broadcast a message to shoot a new arrow.
+When your game starts, broadcast a message to create a new arrow.
 
 ```blocks3
 when green flag clicked
@@ -38,7 +38,7 @@ set size to (400) %
 
 --- task ---
 
-Click the green flag to test your game. You should see your arrow get bigger and move to the bottom-left of the stage.
+Click the green flag to test your game. You should see your arrow move to the bottom-left of the stage and get bigger.
 
 ![larger target sprite in bottom left of stage](images/archery-start-test.png)
 
@@ -62,7 +62,5 @@ end
 --- task ---
 
 Test your game again, and you should see your arrow move randomly around the stage.
-
-![target in a different position](images/archery-glide-test.png)
 
 --- /task ---
