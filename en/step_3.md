@@ -1,12 +1,10 @@
 ## Shooting arrows
 
-Let's code your arrow to shoot when the space bar is pressed.
+Code your arrow to shoot when the space bar is pressed.
 
 --- task ---
 
 Stop the other script (the one moving the arrow) when the space bar is pressed.
-
-![target sprite](images/target-sprite.png)
 
 ```blocks3
 when [space v] key pressed
@@ -25,8 +23,6 @@ Test your project again. This time, your arrow should stop moving __when the spa
 
 Animate your arrow, so that it looks like it's moving towards the target.
 
-![target sprite](images/target-sprite.png)
-
 ```blocks3
 when [space v] key pressed
 stop [other scripts in sprite v]
@@ -39,9 +35,9 @@ end
 
 --- task ---
 
-Test your game again. This time, when you press the space bar you should see your arrow get smaller, as if it's moving towards the target.
+Test your game again. 
 
-![target with the cross hair on it](images/archery-animate-test.png)
+This time, when you press the space bar you should see your arrow get smaller, as if it's moving towards the target.
 
 --- /task ---
 
@@ -49,7 +45,6 @@ Test your game again. This time, when you press the space bar you should see you
 
 Once your arrow is at the target, you can tell the player how many points they have scored. For example, they could score 200 points for hitting the yellow.
 
-![target sprite](images/target-sprite.png)
 
 ```blocks3
 when [space v] key pressed
@@ -68,7 +63,6 @@ end
 
 You can also play a sound if they hit the yellow.
 
-![target sprite](images/target-sprite.png)
 
 ```blocks3
 when [space v] key pressed
@@ -88,7 +82,6 @@ end
 
 Finally, you need to broadcast the `new arrow`{:class="block3events"} message again to get a new arrow.
 
-![target sprite](images/target-sprite.png)
 
 ```blocks3
 when [space v] key pressed
