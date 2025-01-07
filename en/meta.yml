@@ -9,9 +9,10 @@ last_tested: 2025-01-02
 steps:
 - title: What you will make
 - title: Aiming arrows
-- title: Shooting arrows
   completion:
   - engaged
+- title: Shooting arrows
+  completion:
   - internal
 - title: Challenge
   challenge: true
