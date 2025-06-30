@@ -16,6 +16,5 @@ steps:
   - internal
 - title: Challenge
   challenge: true
-- title: What can you do now?
   completion:
   - external
